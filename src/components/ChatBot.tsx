@@ -25,11 +25,6 @@ QUY TẮC:
 2. Nếu không liên quan, từ chối lịch sự
 3. Trả lời tiếng Việt, ngắn gọn`;
 
-// Initialize Gemini
-const ai = new GoogleGenAI({
-     apiKey: process.env.NEXT_PUBLIC_GEMINI_API_KEY || '',
-});
-
 export default function ChatBot() {
      const [isOpen, setIsOpen] = useState(false);
      const [messages, setMessages] = useState<Message[]>([
@@ -91,6 +86,11 @@ export default function ChatBot() {
           setIsSending(true); // Lock sending
 
           try {
+               // Initialize Gemini only when needed
+               const ai = new GoogleGenAI({
+                    apiKey: process.env.NEXT_PUBLIC_GEMINI_API_KEY || '',
+               });
+               
                // Call Gemini directly
                const fullPrompt = `${SYSTEM_CONTEXT}\n\nCâu hỏi: ${currentInput}`;
                const response = await ai.models.generateContent({
