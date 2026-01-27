@@ -1,0 +1,57 @@
+[
+  {
+    "id": "nguyen-sinh-sac",
+    "name": "Nguyễn Sinh Sắc",
+    "relationship": "Cha",
+    "birthYear": 1862,
+    "deathYear": 1929,
+    "shortBio": "Nhà nho yêu nước, từng đỗ Phó bảng khoa thi Hương năm 1894",
+    "fullBio": "Nguyễn Sinh Sắc sinh năm 1862 tại làng Kim Liên, huyện Nam Đàn, tỉnh Nghệ An. Ông là một nhà nho yêu nước, có học thức uyên thâm, từng đỗ Phó bảng khoa thi Hương năm 1894. Với tư tưởng yêu nước mãnh liệt, ông đã truyền cho các con tinh thần bất khuất, chống đế quốc xâm lược.",
+    "influence": "Tư tưởng yêu nước, chống Pháp, tinh thần học tập không ngừng",
+    "stories": [
+      "Cha Bác từng từ chối làm quan triều Nguyễn vì không muốn phụng sự thực dân Pháp",
+      "Thường dạy các con về lịch sử dân tộc và tinh thần yêu nước"
+    ],
+    "image": "/images/family/nguyen-sinh-sac.jpg"
+  },
+  {
+    "id": "hoang-thi-loan",
+    "name": "Hoàng Thị Loan",
+    "relationship": "Mẹ",
+    "birthYear": 1868,
+    "deathYear": 1901,
+    "shortBio": "Người phụ nữ hiền lành, chịu thương chịu khó, mất sớm khi Bác còn nhỏ",
+    "fullBio": "Hoàng Thị Loan sinh năm 1868, là người phụ nữ Việt Nam truyền thống, hiền lành và đảm đang. Bà mất năm 1901 khi Nguyễn Tất Thành (sau này là Hồ Chí Minh) mới 11 tuổi. Dù không sống lâu bên con, nhưng hình ảnh người mẹ hiền đã in sâu trong tâm trí Bác suốt cuộc đời.",
+    "influence": "Tính cách hiền lành, yêu thương con người, sự hy sinh thầm lặng",
+    "stories": [
+      "Mẹ Bác thường dạy các con phải biết thương người, giúp đỡ người nghèo khó"
+    ],
+    "image": "/images/family/hoang-thi-loan.jpg"
+  },
+  {
+    "id": "nguyen-sinh-khiem",
+    "name": "Nguyễn Sinh Khiêm",
+    "relationship": "Anh trai",
+    "birthYear": 1888,
+    "deathYear": 1950,
+    "shortBio": "Y sĩ Đông y, theo cha hành nghề chữa bệnh cho dân nghèo",
+    "fullBio": "Nguyễn Sinh Khiêm là anh trai của Hồ Chí Minh. Anh theo nghề y Đông y, luôn tận tâm chữa bệnh cho người nghèo, kế thừa tinh thần yêu nước của gia đình.",
+    "influence": "Tinh thần phục vụ nhân dân, nghề y cao quý",
+    "stories": ["Anh Bác thường chữa bệnh miễn phí cho dân nghèo"],
+    "image": "/images/family/nguyen-sinh-khiem.jpg"
+  },
+  {
+    "id": "nguyen-thi-thanh",
+    "name": "Nguyễn Thị Thanh",
+    "relationship": "Chị gái",
+    "birthYear": 1884,
+    "deathYear": 1954,
+    "shortBio": "Người chị gái luôn chăm sóc, lo lắng cho em",
+    "fullBio": "Nguyễn Thị Thanh là chị gái của Hồ Chí Minh. Chị là người phụ nữ hiền lành, đảm đang, luôn lo lắng cho em trai dù ít khi gặp mặt.",
+    "influence": "Tình cảm gia đình, sự hy sinh thầm lặng",
+    "stories": [
+      "Chị Bác luôn giữ gìn những kỷ vật của em trong suốt nhiều năm Bác đi xa"
+    ],
+    "image": "/images/family/nguyen-thi-thanh.jpg"
+  }
+]

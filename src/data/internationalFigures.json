@@ -1,0 +1,217 @@
+[
+  {
+    "id": "phan-chu-trinh",
+    "name": "Phan Chu Trinh",
+    "nameEn": "Phan Chu Trinh",
+    "category": "A",
+    "relationship": "Gặp trực tiếp, hoạt động chung",
+    "nationality": "Việt Nam",
+    "birthYear": 1872,
+    "deathYear": 1926,
+    "profession": "Nhà yêu nước, nhà văn hóa",
+    "meetingYear": 1911,
+    "meetingPlace": "Paris, Pháp",
+    "meetingContext": "Cùng hoạt động trong phong trào yêu nước Việt Nam tại Pháp",
+    "shortBio": "Nhà yêu nước, cải cách văn hóa, chủ trương dân chủ tư sản",
+    "fullBio": "Phan Chu Trinh là nhà yêu nước, nhà văn hóa lớn của Việt Nam. Ông chủ trương cải cách xã hội theo lối tư sản dân chủ. Hồ Chí Minh và Phan Chu Trinh gặp nhau tại Paris, trao đổi về con đường cứu nước.",
+    "influence": "Tư tưởng yêu nước, cải cách văn hóa, giáo dục",
+    "stories": [
+      "Cuộc gặp gỡ lịch sử tại Paris giữa hai thế hệ yêu nước",
+      "Tranh luận về con đường cứu nước: cải cách hay cách mạng"
+    ],
+    "image": "/images/international/phan-chu-trinh.jpg"
+  },
+  {
+    "id": "phan-van-truong",
+    "name": "Phan Văn Trường",
+    "nameEn": "Phan Van Truong",
+    "category": "A",
+    "relationship": "Gặp trực tiếp, hoạt động chung",
+    "nationality": "Việt Nam",
+    "birthYear": 1876,
+    "deathYear": 1933,
+    "profession": "Luật sư, nhà yêu nước",
+    "meetingYear": 1917,
+    "meetingPlace": "Paris, Pháp",
+    "meetingContext": "Cùng hoạt động trong phong trào yêu nước tại Pháp, làm luật sư bảo vệ quyền lợi người Việt",
+    "shortBio": "Luật sư người Việt đầu tiên tại Pháp, ủng hộ phong trào yêu nước",
+    "fullBio": "Phan Văn Trường là luật sư người Việt đầu tiên tại Pháp. Ông đã giúp đỡ Nguyễn Ái Quốc trong hoạt động yêu nước, tham gia các phong trào đòi độc lập cho Việt Nam.",
+    "influence": "Hỗ trợ pháp lý, kết nối với giới trí thức Pháp",
+    "stories": [
+      "Giúp Nguyễn Ái Quốc soạn thảo 'Yêu sách 8 điểm' gửi Hội nghị Versailles 1919"
+    ],
+    "image": "/images/international/phan-van-truong.jpg"
+  },
+  {
+    "id": "marcel-cachin",
+    "name": "Marcel Cachin",
+    "nameEn": "Marcel Cachin",
+    "category": "A",
+    "relationship": "Gặp trực tiếp, hoạt động chung",
+    "nationality": "Pháp",
+    "birthYear": 1869,
+    "deathYear": 1958,
+    "profession": "Chính khách, nhà báo cộng sản",
+    "meetingYear": 1920,
+    "meetingPlace": "Tours, Pháp",
+    "meetingContext": "Đại hội Tours - thành lập Đảng Cộng sản Pháp",
+    "shortBio": "Lãnh đạo Đảng Cộng sản Pháp, giám đốc báo L'Humanité",
+    "fullBio": "Marcel Cachin là một trong những người sáng lập Đảng Cộng sản Pháp. Ông là giám đốc báo L'Humanité, đã giúp đỡ Nguyễn Ái Quốc trong hoạt động tuyên truyền về vấn đề thuộc địa.",
+    "influence": "Tư tưởng cộng sản, phong trào công nhân quốc tế",
+    "stories": [
+      "Nguyễn Ái Quốc đã gặp Marcel Cachin tại Đại hội Tours 1920 và gia nhập Đảng Cộng sản Pháp"
+    ],
+    "image": "/images/international/marcel-cachin.jpg"
+  },
+  {
+    "id": "paul-vaillant-couturier",
+    "name": "Paul Vaillant-Couturier",
+    "nameEn": "Paul Vaillant-Couturier",
+    "category": "A",
+    "relationship": "Gặp trực tiếp, hoạt động chung",
+    "nationality": "Pháp",
+    "birthYear": 1892,
+    "deathYear": 1937,
+    "profession": "Nhà báo, chính khách cộng sản",
+    "meetingYear": 1921,
+    "meetingPlace": "Paris, Pháp",
+    "meetingContext": "Làm việc chung tại báo L'Humanité",
+    "shortBio": "Nhà báo tiến bộ, ủng hộ phong trào giải phóng thuộc địa",
+    "fullBio": "Paul Vaillant-Couturier là nhà báo và chính khách cộng sản người Pháp. Ông đã làm việc chung với Nguyễn Ái Quốc tại báo L'Humanité và ủng hộ mạnh mẽ phong trào giải phóng thuộc địa.",
+    "influence": "Báo chí cách mạng, tuyên truyền phản đế quốc",
+    "stories": [
+      "Ủng hộ Nguyễn Ái Quốc đăng các bài báo tố cáo tội ác thực dân"
+    ],
+    "image": "/images/international/paul-vaillant-couturier.jpg"
+  },
+  {
+    "id": "charles-chaplin",
+    "name": "Charlie Chaplin",
+    "nameEn": "Charlie Chaplin",
+    "category": "B",
+    "relationship": "Nghệ sĩ, trí thức cùng hệ giá trị nhân văn",
+    "nationality": "Anh/Mỹ",
+    "birthYear": 1889,
+    "deathYear": 1977,
+    "profession": "Diễn viên, đạo diễn điện ảnh",
+    "meetingYear": null,
+    "meetingPlace": null,
+    "meetingContext": "Ảnh hưởng văn hóa - nghệ thuật, cùng tinh thần nhân văn",
+    "shortBio": "Vua hề điện ảnh thế giới, nghệ sĩ vĩ đại phê phán xã hội tư bản",
+    "fullBio": "Charlie Chaplin là một trong những nghệ sĩ điện ảnh vĩ đại nhất mọi thời đại. Các tác phẩm của ông thể hiện tinh thần nhân văn sâu sắc, phê phán bất công xã hội. Hồ Chí Minh rất yêu thích nghệ thuật của Chaplin.",
+    "influence": "Nghệ thuật nhân văn, tinh thần phê phán xã hội",
+    "stories": [
+      "Bác Hồ từng xem và rất yêu thích các bộ phim của Chaplin",
+      "Cùng tinh thần phê phán chế độ bóc lột, bảo vệ người nghèo khổ"
+    ],
+    "image": "/images/international/charlie-chaplin.jpg"
+  },
+  {
+    "id": "pablo-picasso",
+    "name": "Pablo Picasso",
+    "nameEn": "Pablo Picasso",
+    "category": "B",
+    "relationship": "Nghệ sĩ, trí thức cùng hệ giá trị hòa bình",
+    "nationality": "Tây Ban Nha/Pháp",
+    "birthYear": 1881,
+    "deathYear": 1973,
+    "profession": "Họa sĩ, nhà điêu khắc",
+    "meetingYear": null,
+    "meetingPlace": null,
+    "meetingContext": "Ủng hộ hòa bình, phản đối chiến tranh",
+    "shortBio": "Danh họa thế giới, thành viên Đảng Cộng sản Pháp, vẽ tranh ủng hộ Việt Nam",
+    "fullBio": "Pablo Picasso là danh họa vĩ đại thế kỷ XX. Ông là thành viên Đảng Cộng sản Pháp, luôn đấu tranh cho hòa bình. Picasso đã vẽ nhiều tác phẩm ủng hộ cuộc kháng chiến của nhân dân Việt Nam.",
+    "influence": "Nghệ thuật vì hòa bình, ủng hộ phong trào giải phóng dân tộc",
+    "stories": [
+      "Picasso đã vẽ tranh chân dung Hồ Chí Minh năm 1969",
+      "Tuyên bố ủng hộ nhân dân Việt Nam chống đế quốc Mỹ"
+    ],
+    "image": "/images/international/pablo-picasso.jpg"
+  },
+  {
+    "id": "romain-rolland",
+    "name": "Romain Rolland",
+    "nameEn": "Romain Rolland",
+    "category": "B",
+    "relationship": "Nhà văn nhân đạo, ảnh hưởng tư tưởng",
+    "nationality": "Pháp",
+    "birthYear": 1866,
+    "deathYear": 1944,
+    "profession": "Nhà văn, nhà soạn nhạc học",
+    "meetingYear": null,
+    "meetingPlace": null,
+    "meetingContext": "Ảnh hưởng văn học và tư tưởng nhân đạo",
+    "shortBio": "Nhà văn đoạt giải Nobel, chủ nghĩa nhân đạo và hòa bình",
+    "fullBio": "Romain Rolland là nhà văn Pháp đoạt giải Nobel Văn học 1915. Tác phẩm của ông thấm đượm tinh thần nhân đạo, hòa bình. Hồ Chí Minh đã đọc và chịu ảnh hưởng từ các tác phẩm của Rolland.",
+    "influence": "Tư tưởng nhân đạo, tinh thần hòa bình",
+    "stories": [
+      "Bác Hồ yêu thích tác phẩm 'Jean-Christophe' của Romain Rolland"
+    ],
+    "image": "/images/international/romain-rolland.jpg"
+  },
+  {
+    "id": "henri-barbusse",
+    "name": "Henri Barbusse",
+    "nameEn": "Henri Barbusse",
+    "category": "B",
+    "relationship": "Nhà văn phản chiến, ảnh hưởng tư tưởng",
+    "nationality": "Pháp",
+    "birthYear": 1873,
+    "deathYear": 1935,
+    "profession": "Nhà văn, nhà báo",
+    "meetingYear": null,
+    "meetingPlace": null,
+    "meetingContext": "Tác phẩm phản chiến, tư tưởng tiến bộ",
+    "shortBio": "Nhà văn phản chiến nổi tiếng với tác phẩm 'Lửa'",
+    "fullBio": "Henri Barbusse là nhà văn Pháp nổi tiếng với tiểu thuyết phản chiến 'Lửa' (Le Feu). Ông là thành viên Đảng Cộng sản Pháp, luôn đấu tranh chống chiến tranh và đế quốc.",
+    "influence": "Văn học phản chiến, tư tưởng chống đế quốc",
+    "stories": [
+      "Tác phẩm 'Lửa' của Barbusse đã ảnh hưởng đến tư tưởng phản chiến của Hồ Chí Minh"
+    ],
+    "image": "/images/international/henri-barbusse.jpg"
+  },
+  {
+    "id": "jean-effel",
+    "name": "Jean Effel",
+    "nameEn": "Jean Effel",
+    "category": "C",
+    "relationship": "Bạn của Việt Nam, ủng hộ Hồ Chí Minh",
+    "nationality": "Pháp",
+    "birthYear": 1908,
+    "deathYear": 1982,
+    "profession": "Họa sĩ biếm họa",
+    "meetingYear": null,
+    "meetingPlace": null,
+    "meetingContext": "Vẽ tranh ủng hộ Việt Nam, bạn của nhân dân Việt Nam",
+    "shortBio": "Họa sĩ biếm họa Pháp, vẽ nhiều tranh ủng hộ Việt Nam",
+    "fullBio": "Jean Effel là họa sĩ biếm họa người Pháp, nổi tiếng với loạt tranh 'La Création du Monde' (Tạo dựng thế giới). Ông là người bạn của Việt Nam, đã vẽ nhiều tranh ủng hộ cuộc kháng chiến chống Mỹ.",
+    "influence": "Nghệ thuật ủng hộ Việt Nam, tình hữu nghị quốc tế",
+    "stories": [
+      "Jean Effel đã vẽ tranh chân dung Hồ Chí Minh và tặng Bác",
+      "Nhiều lần lên tiếng ủng hộ quyền độc lập của Việt Nam"
+    ],
+    "image": "/images/international/jean-effel.jpg"
+  },
+  {
+    "id": "raymond-aubrac",
+    "name": "Raymond Aubrac",
+    "nameEn": "Raymond Aubrac",
+    "category": "C",
+    "relationship": "Chiến sĩ kháng chiến Pháp, bạn của Việt Nam",
+    "nationality": "Pháp",
+    "birthYear": 1914,
+    "deathYear": 2012,
+    "profession": "Anh hùng kháng chiến chống Đức Quốc xã",
+    "meetingYear": 1946,
+    "meetingPlace": "Việt Nam/Pháp",
+    "meetingContext": "Đàm phán Việt - Pháp, ủng hộ độc lập Việt Nam",
+    "shortBio": "Anh hùng kháng chiến Pháp, người bạn trung thành của Việt Nam",
+    "fullBio": "Raymond Aubrac là anh hùng kháng chiến chống Đức Quốc xã của Pháp. Ông đã gặp Hồ Chí Minh trong các cuộc đàm phán, trở thành người bạn trung thành của Việt Nam, luôn ủng hộ quyền độc lập của dân tộc Việt Nam.",
+    "influence": "Tình hữu nghị Pháp - Việt, tinh thần công lý",
+    "stories": [
+      "Aubrac đã gặp Bác Hồ nhiều lần và luôn khâm phục Người",
+      "Suốt đời ủng hộ nhân dân Việt Nam"
+    ],
+    "image": "/images/international/raymond-aubrac.jpg"
+  }
+]

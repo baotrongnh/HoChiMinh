@@ -1,0 +1,99 @@
+[
+  {
+    "id": "childhood",
+    "year": 1890,
+    "yearEnd": 1911,
+    "title": "Thời niên thiếu",
+    "period": "1890-1911",
+    "location": "Nghệ An, Huế, Phan Thiết",
+    "description": "Sinh ra tại làng Kim Liên, Nghệ An. Lớn lên trong gia đình nhà nho yêu nước. Theo cha vào Nam, chứng kiến cảnh dân tộc mất nước.",
+    "significance": "Hình thành tư tưởng yêu nước, quyết tâm tìm đường cứu nước",
+    "keyEvents": [
+      "1890: Sinh ra tại làng Kim Liên",
+      "1901: Mẹ mất sớm",
+      "1906: Đi học Huế",
+      "1911: Rời Việt Nam tìm đường cứu nước"
+    ]
+  },
+  {
+    "id": "seeking-way",
+    "year": 1911,
+    "yearEnd": 1923,
+    "title": "Ra đi tìm đường cứu nước",
+    "period": "1911-1923",
+    "location": "Pháp, Anh, Mỹ, châu Phi",
+    "description": "Xuất dương tìm đường cứu nước. Làm nhiều nghề mưu sinh, tiếp xúc với phong trào công nhân quốc tế.",
+    "significance": "Từ yêu nước đến cách mạng, từ dân chủ tư sản đến cộng sản",
+    "keyEvents": [
+      "1911: Rời Việt Nam trên tàu Đô đốc Latouche Tréville",
+      "1917-1918: Hoạt động ở Paris",
+      "1919: Gửi Yêu sách 8 điểm đến Hội nghị Versailles",
+      "1920: Tham gia thành lập Đảng Cộng sản Pháp",
+      "1923: Đi Liên Xô"
+    ]
+  },
+  {
+    "id": "revolutionary-activities",
+    "year": 1924,
+    "yearEnd": 1941,
+    "title": "Hoạt động cách mạng",
+    "period": "1924-1941",
+    "location": "Liên Xô, Trung Quốc, Thái Lan",
+    "description": "Hoạt động cách mạng tại nhiều nước châu Á. Thành lập Đảng Cộng sản Việt Nam.",
+    "significance": "Thành lập Đảng, chuẩn bị lực lượng cho cách mạng",
+    "keyEvents": [
+      "1924-1927: Hoạt động ở Quảng Châu",
+      "1930: Thành lập Đảng Cộng sản Việt Nam",
+      "1930-1941: Hoạt động ở Liên Xô, Trung Quốc",
+      "1941: Về nước lãnh đạo cách mạng"
+    ]
+  },
+  {
+    "id": "leading-revolution",
+    "year": 1941,
+    "yearEnd": 1945,
+    "title": "Lãnh đạo Cách mạng Tháng Tám",
+    "period": "1941-1945",
+    "location": "Việt Nam",
+    "description": "Về nước lãnh đạo phong trào cách mạng. Thành lập Việt Minh. Lãnh đạo Cách mạng Tháng Tám thành công.",
+    "significance": "Giành chính quyền, thành lập nước Việt Nam Dân chủ Cộng hòa",
+    "keyEvents": [
+      "1941: Về nước, thành lập Việt Minh",
+      "1942-1943: Bị tù ở Trung Quốc, viết 'Nhật ký trong tù'",
+      "1945: Lãnh đạo Tổng khởi nghĩa",
+      "2/9/1945: Đọc Tuyên ngôn độc lập"
+    ]
+  },
+  {
+    "id": "resistance-war",
+    "year": 1946,
+    "yearEnd": 1954,
+    "title": "Kháng chiến chống Pháp",
+    "period": "1946-1954",
+    "location": "Việt Nam",
+    "description": "Lãnh đạo toàn dân kháng chiến chống thực dân Pháp xâm lược.",
+    "significance": "Chiến thắng Điện Biên Phủ, giải phóng miền Bắc",
+    "keyEvents": [
+      "1946: Toàn quốc kháng chiến",
+      "1951: Thành lập Đảng Lao động Việt Nam",
+      "1954: Chiến thắng Điện Biên Phủ",
+      "1954: Hiệp định Genève"
+    ]
+  },
+  {
+    "id": "building-socialism",
+    "year": 1954,
+    "yearEnd": 1969,
+    "title": "Xây dựng chủ nghĩa xã hội, đấu tranh thống nhất đất nước",
+    "period": "1954-1969",
+    "location": "Việt Nam",
+    "description": "Lãnh đạo miền Bắc xây dựng chủ nghĩa xã hội, hỗ trợ miền Nam đấu tranh giải phóng.",
+    "significance": "Xây dựng miền Bắc, giải phóng miền Nam",
+    "keyEvents": [
+      "1954-1960: Cải cách ruộng đất, khôi phục kinh tế",
+      "1960: Thành lập Mặt trận Dân tộc giải phóng miền Nam",
+      "1965: Mỹ đưa quân vào miền Nam",
+      "2/9/1969: Chủ tịch Hồ Chí Minh từ trần"
+    ]
+  }
+]
