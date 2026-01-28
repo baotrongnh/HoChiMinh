@@ -206,6 +206,22 @@ export default function InternationalFiguresPage() {
                               </div>
 
                               <div className="p-6 space-y-6">
+                                   {/* Image Section */}
+                                   <div className="mb-6 flex justify-center">
+                                        <div className="relative">
+                                             <img
+                                                  src={selectedPerson.image}
+                                                  alt={selectedPerson.name}
+                                                  className="w-64 h-64 object-cover rounded-2xl shadow-2xl border-4 border-gold"
+                                                  onError={(e) => {
+                                                       const target = e.target as HTMLImageElement;
+                                                       target.style.display = 'none';
+                                                  }}
+                                             />
+                                             <div className="absolute -inset-2 rounded-2xl border-2 border-gold/30"></div>
+                                        </div>
+                                   </div>
+
                                    <div className="grid grid-cols-2 md:grid-cols-4 gap-4 text-base">
                                         <div>
                                              <p className="text-text-secondary mb-1 font-semibold">Nghề nghiệp</p>

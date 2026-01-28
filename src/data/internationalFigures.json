@@ -85,7 +85,7 @@
     "image": "/images/international/paul-vaillant-couturier.jpg"
   },
   {
-    "id": "charles-chaplin",
+    "id": "charlie-chaplin",
     "name": "Charlie Chaplin",
     "nameEn": "Charlie Chaplin",
     "category": "B",
@@ -184,7 +184,7 @@
     "meetingPlace": null,
     "meetingContext": "Vẽ tranh ủng hộ Việt Nam, bạn của nhân dân Việt Nam",
     "shortBio": "Họa sĩ biếm họa Pháp, vẽ nhiều tranh ủng hộ Việt Nam",
-    "fullBio": "Jean Effel là họa sĩ biếm họa người Pháp, nổi tiếng với loạt tranh 'La Création du Monde' (Tạo dựng thế giới). Ông là người bạn của Việt Nam, đã vẽ nhiều tranh ủng hộ cuộc kháng chiến chống Mỹ.",
+    "fullBio": "Jean Effel là họa sĩ biếm họa người Pháp, nổi tiếng with loạt tranh 'La Création du Monde' (Tạo dựng thế giới). Ông là người bạn của Việt Nam, đã vẽ nhiều tranh ủng hộ cuộc kháng chiến chống Mỹ.",
     "influence": "Nghệ thuật ủng hộ Việt Nam, tình hữu nghị quốc tế",
     "stories": [
       "Jean Effel đã vẽ tranh chân dung Hồ Chí Minh và tặng Bác",
@@ -213,5 +213,330 @@
       "Suốt đời ủng hộ nhân dân Việt Nam"
     ],
     "image": "/images/international/raymond-aubrac.jpg"
+  },
+  {
+    "id": "vladimir-ilyich-lenin",
+    "name": "V.I. Lênin",
+    "nameEn": "Vladimir Ilyich Lenin",
+    "category": "A",
+    "relationship": "Ảnh hưởng tư tưởng cốt lõi",
+    "nationality": "Nga",
+    "birthYear": 1870,
+    "deathYear": 1924,
+    "profession": "Lãnh tụ cách mạng vô sản",
+    "meetingYear": null,
+    "meetingPlace": null,
+    "meetingContext": "Qua 'Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa'",
+    "shortBio": "Người sáng lập Nhà nước Xô viết và Quốc tế Cộng sản",
+    "fullBio": "V.I. Lênin là lãnh tụ vĩ đại của giai cấp công nhân toàn thế giới. Dù chưa kịp gặp trực tiếp, nhưng tư tưởng của Lênin về vấn đề dân tộc và thuộc địa đã mở ra con đường cứu nước cho Nguyễn Ái Quốc.",
+    "influence": "Quyết định bước ngoặt sang con đường cách mạng vô sản",
+    "stories": [
+      "Nguyễn Ái Quốc cảm động đến phát khóc khi đọc luận cương của Lênin trong căn buồng nhỏ ở Paris",
+      "Người khẳng định: 'Muốn cứu nước và giải phóng dân tộc không có con đường nào khác con đường cách mạng vô sản'"
+    ],
+    "image": "/images/international/vladimir-lenin.jpg"
+  },
+  {
+    "id": "dmitry-manuilsky",
+    "name": "Dmitry Manuilsky",
+    "nameEn": "Dmitry Manuilsky",
+    "category": "A",
+    "relationship": "Đồng chí, lãnh đạo Quốc tế Cộng sản",
+    "nationality": "Ukraine/Liên Xô",
+    "birthYear": 1883,
+    "deathYear": 1959,
+    "profession": "Bí thư Ban Chấp hành Quốc tế Cộng sản",
+    "meetingYear": 1924,
+    "meetingPlace": "Moscow, Liên Xô",
+    "meetingContext": "Đại hội V Quốc tế Cộng sản",
+    "shortBio": "Lãnh đạo cao cấp của Quốc tế Cộng sản, ủng hộ vấn đề thuộc địa",
+    "fullBio": "Manuilsky là người đã phát hiện ra tài năng của Nguyễn Ái Quốc và tạo điều kiện để Người phát biểu về vấn đề thuộc địa tại các diễn đàn quốc tế lớn.",
+    "influence": "Nâng cao vị thế của vấn đề Việt Nam trên trường quốc tế",
+    "stories": [
+      "Khuyến khích Nguyễn Ái Quốc viết bài cho tạp chí 'Thư tín quốc tế' của Quốc tế Cộng sản"
+    ],
+    "image": "/images/international/dmitry-manuilsky.jpg"
+  },
+  {
+    "id": "leo-tolstoy",
+    "name": "Lev Tolstoy",
+    "nameEn": "Leo Tolstoy",
+    "category": "B",
+    "relationship": "Ảnh hưởng tư tưởng văn học, nhân sinh",
+    "nationality": "Nga",
+    "birthYear": 1828,
+    "deathYear": 1910,
+    "profession": "Nhà văn, nhà tư tưởng",
+    "meetingYear": null,
+    "meetingPlace": null,
+    "meetingContext": "Qua các tác phẩm văn học kinh điển",
+    "shortBio": "Đại văn hào Nga, tác giả 'Chiến tranh và Hòa bình'",
+    "fullBio": "Lev Tolstoy không chỉ ảnh hưởng đến Hồ Chí Minh qua văn học mà còn qua tư tưởng yêu chuộng hòa bình và lòng trắc ẩn đối với nhân dân lao động.",
+    "influence": "Hình thành thế giới quan nhân văn, lòng yêu thương con người",
+    "stories": [
+      "Bác Hồ thường trích dẫn tư tưởng của Tolstoy về đạo đức và sự giản dị trong lối sống"
+    ],
+    "image": "/images/international/leo-tolstoy.jpg"
+  },
+  {
+    "id": "web-dubois",
+    "name": "W. E. B. Du Bois",
+    "nameEn": "W. E. B. Du Bois",
+    "category": "C",
+    "relationship": "Trí thức đấu tranh chống phân biệt chủng tộc",
+    "nationality": "Mỹ",
+    "birthYear": 1868,
+    "deathYear": 1963,
+    "profession": "Nhà xã hội học, nhà hoạt động dân quyền",
+    "meetingYear": 1920,
+    "meetingPlace": "Paris, Pháp",
+    "meetingContext": "Đại hội Liên Phi",
+    "shortBio": "Lãnh đạo phong trào đấu tranh của người da đen tại Mỹ",
+    "fullBio": "Du Bois và Nguyễn Ái Quốc có sự đồng cảm sâu sắc về nỗi đau của các dân tộc bị áp bức. Hai người đã gặp nhau tại Paris và cùng thảo luận về quyền của người da màu.",
+    "influence": "Tư tưởng đoàn kết các dân tộc bị áp bức trên toàn thế giới",
+    "stories": [
+      "Cuộc gặp gỡ giữa hai trí thức lớn đại diện cho hai châu lục đang đòi quyền sống"
+    ],
+    "image": "/images/international/web-dubois.jpg"
+  },
+  {
+    "id": "fidel-castro",
+    "name": "Fidel Castro",
+    "nameEn": "Fidel Castro",
+    "category": "A",
+    "relationship": "Đồng chí, anh em thân thiết",
+    "nationality": "Cuba",
+    "birthYear": 1926,
+    "deathYear": 2016,
+    "profession": "Lãnh đạo cách mạng Cuba",
+    "meetingYear": null,
+    "meetingPlace": null,
+    "meetingContext": "Mối quan hệ đồng chí đặc biệt giữa hai dân tộc",
+    "shortBio": "Lãnh tụ vĩ đại của nhân dân Cuba, người bạn lớn của Việt Nam",
+    "fullBio": "Fidel Castro luôn dành tình cảm đặc biệt cho Hồ Chí Minh và Việt Nam. Ông là người khởi xướng phong trào đoàn kết với Việt Nam tại Mỹ Latinh với câu nói nổi tiếng: 'Vì Việt Nam, Cuba sẵn sàng hiến dâng cả máu của mình'.",
+    "influence": "Thắt chặt tình đoàn kết quốc tế, ủng hộ kháng chiến chống Mỹ",
+    "stories": [
+      "Fidel Castro là nguyên thủ nước ngoài đầu tiên và duy nhất thăm vùng giải phóng Quảng Trị năm 1973",
+      "Luôn coi Hồ Chí Minh là người thầy, người đồng chí mẫu mực"
+    ],
+    "image": "/images/international/fidel-castro.jpg"
+  },
+  {
+    "id": "loseby",
+    "name": "Francis Henry Loseby",
+    "nameEn": "Francis Henry Loseby",
+    "category": "A",
+    "relationship": "Luật sư bào chữa, ân nhân",
+    "nationality": "Anh",
+    "birthYear": 1883,
+    "deathYear": 1967,
+    "profession": "Luật sư",
+    "meetingYear": 1931,
+    "meetingPlace": "Hồng Kông",
+    "meetingContext": "Vụ án Tống Văn Sơ (Nguyễn Ái Quốc) tại Hồng Kông",
+    "shortBio": "Luật sư người Anh đã cứu Nguyễn Ái Quốc khỏi nhà tù thực dân",
+    "fullBio": "Luật sư Loseby đã bào chữa miễn phí cho Nguyễn Ái Quốc trong vụ án tại Hồng Kông (1931-1933). Với sự chính trực và mưu trí, ông đã giúp Người thoát khỏi việc bị dẫn độ về Việt Nam cho thực dân Pháp.",
+    "influence": "Bảo vệ an toàn cho lãnh tụ trong giai đoạn hiểm nghèo",
+    "stories": [
+      "Gia đình luật sư Loseby đã coi Bác Hồ như người thân",
+      "Năm 1960, Bác Hồ đã mời gia đình luật sư Loseby sang thăm Hà Nội"
+    ],
+    "image": "/images/international/loseby.jpg"
+  },
+  {
+    "id": "zhou-enlai",
+    "name": "Chu Ân Lai",
+    "nameEn": "Zhou Enlai",
+    "category": "A",
+    "relationship": "Đồng chí thân thiết, cộng sự",
+    "nationality": "Trung Quốc",
+    "birthYear": 1898,
+    "deathYear": 1976,
+    "profession": "Thủ tướng Trung Quốc",
+    "meetingYear": 1924,
+    "meetingPlace": "Quảng Châu, Trung Quốc",
+    "meetingContext": "Hoạt động cách mạng tại Quảng Châu",
+    "shortBio": "Vị Thủ tướng lỗi lạc, người bạn chiến đấu lâu năm của Hồ Chí Minh",
+    "fullBio": "Chu Ân Lai và Hồ Chí Minh có tình bạn sâu sắc kéo dài hơn nửa thế kỷ. Hai người đã sát cánh bên nhau từ những ngày ở Paris cho đến khi trực tiếp lãnh đạo hai quốc gia.",
+    "influence": "Hợp tác chiến lược giữa cách mạng Việt Nam và Trung Quốc",
+    "stories": [
+      "Câu nói nổi tiếng mô tả quan hệ Việt - Trung: 'Vừa là đồng chí, vừa là anh em'",
+      "Chu Ân Lai trực tiếp chỉ đạo hỗ trợ hậu cần cho chiến dịch Điện Biên Phủ"
+    ],
+    "image": "/images/international/zhou-enlai.jpg"
+  },
+  {
+    "id": "jawaharlal-nehru",
+    "name": "Jawaharlal Nehru",
+    "nameEn": "Jawaharlal Nehru",
+    "category": "A",
+    "relationship": "Bạn thân, nhà lãnh đạo quốc gia",
+    "nationality": "Ấn Độ",
+    "birthYear": 1889,
+    "deathYear": 1964,
+    "profession": "Thủ tướng Ấn Độ",
+    "meetingYear": 1954,
+    "meetingPlace": "Hà Nội, Việt Nam",
+    "meetingContext": "Chuyến thăm chính thức sau hòa bình lập lại ở miền Bắc",
+    "shortBio": "Lãnh tụ phong trào độc lập Ấn Độ, nhà lập quốc vĩ đại",
+    "fullBio": "Nehru và Hồ Chí Minh chia sẻ chung lý tưởng về một châu Á độc lập và tự cường. Hai ông đã cùng nhau đặt nền móng cho mối quan hệ hữu nghị Việt Nam - Ấn Độ.",
+    "influence": "Thúc đẩy phong trào Không liên kết, ủng hộ hòa bình tại Việt Nam",
+    "stories": [
+      "Bác Hồ và Thủ tướng Nehru đã trao đổi nhiều bức thư tay thắm thiết tình bạn",
+      "Sự đón tiếp nồng hậu của nhân dân Ấn Độ dành cho Bác năm 1958"
+    ],
+    "image": "/images/international/jawaharlal-nehru.jpg"
+  },
+  {
+    "id": "leo-figueres",
+    "name": "Léo Figuères",
+    "nameEn": "Léo Figuères",
+    "category": "C",
+    "relationship": "Đồng chí, người ủng hộ quốc tế",
+    "nationality": "Pháp",
+    "birthYear": 1818,
+    "deathYear": 2011,
+    "profession": "Nhà chính trị, nhà báo",
+    "meetingYear": 1950,
+    "meetingPlace": "Việt Bắc, Việt Nam",
+    "meetingContext": "Băng rừng vào chiến khu thăm chính phủ kháng chiến",
+    "shortBio": "Lãnh đạo thanh niên cộng sản Pháp, người bạn của Việt Nam kháng chiến",
+    "fullBio": "Léo Figuères là người Pháp đầu tiên đến chiến khu Việt Bắc trong kháng chiến chống Pháp để gặp Hồ Chí Minh. Ông đã viết nhiều bài báo thực tế để nhân dân Pháp hiểu về cuộc kháng chiến chính nghĩa của Việt Nam.",
+    "influence": "Tuyên truyền quốc tế, phản đối chiến tranh của thực dân Pháp",
+    "stories": [
+      "Vượt qua vòng vây của quân Pháp để mang thông điệp hòa bình từ nhân dân Pháp đến với Bác Hồ"
+    ],
+    "image": "/images/international/leo-figueres.jpg"
+  },
+  {
+    "id": "archimedes-patti",
+    "name": "Archimedes Patti",
+    "nameEn": "Archimedes Patti",
+    "category": "A",
+    "relationship": "Đối tác quân sự, tình báo",
+    "nationality": "Mỹ",
+    "birthYear": 1913,
+    "deathYear": 1998,
+    "profession": "Sĩ quan tình báo OSS",
+    "meetingYear": 1945,
+    "meetingPlace": "Việt Bắc/Hà Nội",
+    "meetingContext": "Hợp tác giữa Việt Minh và Đồng minh chống phát xít Nhật",
+    "shortBio": "Chỉ huy đơn vị OSS tại miền Nam Trung Quốc và Việt Nam năm 1945",
+    "fullBio": "Archimedes Patti là người đã làm việc trực tiếp với Hồ Chí Minh trước Cách mạng Tháng Tám. Ông đã chứng kiến sự ra đời của nước Việt Nam Dân chủ Cộng hòa và hỗ trợ Việt Minh trong các hoạt động chống Nhật.",
+    "influence": "Kết nối Việt Nam với lực lượng Đồng minh, ảnh hưởng đến ngoại giao Việt-Mỹ giai đoạn đầu",
+    "stories": [
+      "Bác Hồ đã mời Patti đọc bản dự thảo Tuyên ngôn Độc lập trước khi công bố",
+      "Patti thừa nhận Hồ Chí Minh là một người yêu nước vĩ đại hơn là một người cộng sản giáo điều"
+    ],
+    "image": "/images/international/archimedes-patti.jpg"
+  },
+  {
+    "id": "pridi-banomyong",
+    "name": "Pridi Banomyong",
+    "nameEn": "Pridi Banomyong",
+    "category": "A",
+    "relationship": "Đồng chí, lãnh đạo khu vực",
+    "nationality": "Thái Lan",
+    "birthYear": 1900,
+    "deathYear": 1983,
+    "profession": "Thủ tướng Thái Lan",
+    "meetingYear": 1928,
+    "meetingPlace": "Thái Lan",
+    "meetingContext": "Xây dựng cơ sở cách mạng tại Thái Lan",
+    "shortBio": "Chính khách lỗi lạc, người sáng lập nền dân chủ Thái Lan",
+    "fullBio": "Pridi Banomyong là người bạn lớn của Hồ Chí Minh tại Đông Nam Á. Ông đã tạo điều kiện cho các hoạt động của Việt Minh tại Thái Lan và ủng hộ phong trào giải phóng dân tộc của các nước Đông Dương.",
+    "influence": "Hỗ trợ hậu cần, căn cứ cách mạng tại Đông Nam Á",
+    "stories": [
+      "Hỗ trợ vũ khí và tài chính cho chính phủ lâm thời Việt Nam sau năm 1945",
+      "Tình bạn gắn bó giữa hai nhà lãnh đạo đặt nền móng cho quan hệ Việt-Thái"
+    ],
+    "image": "/images/international/pridi-banomyong.jpg"
+  },
+  {
+    "id": "wilhelm-pieck",
+    "name": "Wilhelm Pieck",
+    "nameEn": "Wilhelm Pieck",
+    "category": "A",
+    "relationship": "Đồng chí, lãnh đạo quốc tế",
+    "nationality": "Đức",
+    "birthYear": 1876,
+    "deathYear": 1960,
+    "profession": "Chủ tịch nước CHDC Đức",
+    "meetingYear": 1928,
+    "meetingPlace": "Moscow, Liên Xô",
+    "meetingContext": "Đại hội Quốc tế Cộng sản",
+    "shortBio": "Lãnh đạo phong trào cộng sản Đức và Đông Đức",
+    "fullBio": "Wilhelm Pieck là người bạn lâu năm của Hồ Chí Minh trong phong trào cộng sản quốc tế. Ông đã dành sự ủng hộ nhiệt thành cho Việt Nam trong công cuộc xây dựng CNXH ở miền Bắc.",
+    "influence": "Hỗ trợ giáo dục, đào tạo kỹ thuật từ Đông Đức cho Việt Nam",
+    "stories": [
+      "Bác Hồ và Wilhelm Pieck thường xuyên trao đổi thư từ bằng tiếng Đức",
+      "Sự đón tiếp nồng hậu của nhân dân Đức dành cho Bác năm 1957"
+    ],
+    "image": "/images/international/wilhelm-pieck.jpg"
+  },
+  {
+    "id": "sekou-toure",
+    "name": "Ahmed Sékou Touré",
+    "nameEn": "Ahmed Sekou Toure",
+    "category": "A",
+    "relationship": "Đồng chí, bạn bè Châu Phi",
+    "nationality": "Guinea",
+    "birthYear": 1922,
+    "deathYear": 1984,
+    "profession": "Tổng thống Guinea",
+    "meetingYear": 1960,
+    "meetingPlace": "Hà Nội, Việt Nam",
+    "meetingContext": "Chuyến thăm chính thức Việt Nam",
+    "shortBio": "Lãnh tụ phong trào giải phóng dân tộc tại Châu Phi",
+    "fullBio": "Sékou Touré coi Hồ Chí Minh là nguồn cảm hứng lớn cho cuộc đấu tranh giành độc lập ở Guinea và toàn Châu Phi. Ông là nguyên thủ Châu Phi đầu tiên sang thăm Việt Nam.",
+    "influence": "Lan tỏa tư tưởng Hồ Chí Minh tại lục địa đen",
+    "stories": [
+      "Sékou Touré gọi Hồ Chí Minh là 'người anh cả' của các dân tộc bị áp bức",
+      "Sự tương đồng trong tư tưởng chống thực dân giữa Việt Nam và Guinea"
+    ],
+    "image": "/images/international/sekou-toure.jpg"
+  },
+  {
+    "id": "pavel-vassiliev",
+    "name": "Pavel Vassiliev",
+    "nameEn": "Pavel Vassiliev",
+    "category": "B",
+    "relationship": "Trí thức, người hỗ trợ",
+    "nationality": "Nga",
+    "birthYear": 1900,
+    "deathYear": 1970,
+    "profession": "Giảng viên, nhà ngôn ngữ học",
+    "meetingYear": 1924,
+    "meetingPlace": "Moscow, Liên Xô",
+    "meetingContext": "Giảng dạy tại Đại học Lao động Cộng sản Phương Đông",
+    "shortBio": "Người giúp đỡ Nguyễn Ái Quốc học tiếng Nga và nghiên cứu lý luận",
+    "fullBio": "Pavel Vassiliev cùng nhiều trí thức Liên Xô đã hỗ trợ Nguyễn Ái Quốc trong thời gian Người học tập tại Moscow, giúp Người tiếp cận với kho tàng tri thức đồ sộ của chủ nghĩa Mác-Lênin.",
+    "influence": "Trang bị phương pháp luận và ngôn ngữ cho hoạt động cách mạng",
+    "stories": [
+      "Hướng dẫn Nguyễn Ái Quốc trong các bài nghiên cứu về nông dân thuộc địa"
+    ],
+    "image": "/images/international/pavel-vassiliev.jpg"
+  },
+  {
+    "id": "salvador-allende",
+    "name": "Salvador Allende",
+    "nameEn": "Salvador Allende",
+    "category": "A",
+    "relationship": "Đồng chí, lãnh đạo Mỹ Latinh",
+    "nationality": "Chile",
+    "birthYear": 1908,
+    "deathYear": 1973,
+    "profession": "Tổng thống Chile",
+    "meetingYear": 1969,
+    "meetingPlace": "Hà Nội, Việt Nam",
+    "meetingContext": "Chuyến thăm Việt Nam ngay trước khi Bác mất",
+    "shortBio": "Tổng thống xã hội chủ nghĩa đầu tiên tại Chile",
+    "fullBio": "Allende đã đến thăm Việt Nam vào tháng 5/1969 và là một trong những chính khách cuối cùng gặp Hồ Chí Minh. Ông luôn bày tỏ sự ngưỡng mộ tuyệt đối trước ý chí giải phóng dân tộc của Người.",
+    "influence": "Xây dựng tình đoàn kết giữa phong trào cánh tả Mỹ Latinh và Việt Nam",
+    "stories": [
+      "Allende đã dành những lời ca ngợi đẹp nhất về đức tính giản dị của Bác Hồ khi trở về Chile",
+      "Biến phong trào ủng hộ Việt Nam thành một phần trong chương trình chính trị của mình"
+    ],
+    "image": "/images/international/salvador-allende.jpg"
   }
 ]

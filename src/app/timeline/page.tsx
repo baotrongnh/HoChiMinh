@@ -11,18 +11,25 @@ export default function TimelinePage() {
      return (
           <div className="bg-cream">
                {/* Hero Section */}
-               <section className="bg-gradient-to-br from-red-dark via-red-main to-bronze-dark text-white py-20 ">
-                    <div className="container mx-auto px-4">
+               <section className="bg-gradient-to-br from-red-dark via-red-main to-bronze-dark text-white py-20 relative overflow-hidden">
+                    {/* Animated background */}
+                    <div className="absolute inset-0 bg-gradient-to-r from-transparent via-gold/10 to-transparent animate-shimmer"></div>
+
+                    <div className="container mx-auto px-4 relative z-10">
                          <div className="max-w-4xl mx-auto text-center">
-                              <h1 className="text-5xl md:text-6xl font-bold mb-6 text-gold-light">
+                              <h1 className="text-5xl md:text-6xl font-bold mb-6 text-gold-light animate-fade-in">
                                    Dòng thời gian
                               </h1>
-                              <div className="h-1 w-32 bg-gradient-to-r from-transparent via-gold to-transparent mx-auto mb-6"></div>
-                              <p className="text-xl text-cream/90">
+                              <div className="h-1 w-32 bg-gradient-to-r from-transparent via-gold to-transparent mx-auto mb-6 animate-shimmer"></div>
+                              <p className="text-xl text-cream/90 animate-fade-in" style={{ animationDelay: '0.2s' }}>
                                    Cuộc đời và sự nghiệp của Chủ tịch Hồ Chí Minh theo dòng thời gian
                               </p>
                          </div>
                     </div>
+
+                    {/* Decorative elements */}
+                    <div className="absolute top-10 left-10 w-32 h-32 bg-gold/10 rounded-full blur-3xl animate-float"></div>
+                    <div className="absolute bottom-10 right-10 w-40 h-40 bg-red-light/10 rounded-full blur-3xl animate-float" style={{ animationDelay: '1s' }}></div>
                </section>
 
                {/* Timeline Type Selection */}
@@ -32,32 +39,38 @@ export default function TimelinePage() {
                               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                                    <Link
                                         href="/timeline"
-                                        className="bg-gradient-to-br from-red-main to-red-light text-white rounded-xl p-8 shadow-xl hover:shadow-2xl transition-all border-2 border-gold"
+                                        className="bg-gradient-to-br from-red-main to-red-light text-white rounded-xl p-8 shadow-xl hover:shadow-2xl transition-all border-2 border-gold relative overflow-hidden group"
                                    >
-                                        <div className="text-5xl mb-4">📖</div>
-                                        <h3 className="text-2xl font-bold mb-3 text-gold-light">Cuộc đời Bác Hồ</h3>
-                                        <p className="text-cream/90 leading-relaxed">
-                                             Các giai đoạn trong cuộc đời và sự nghiệp cách mạng của Chủ tịch Hồ Chí Minh
-                                        </p>
-                                        <div className="mt-4 text-gold-light font-semibold">
-                                             ← Đang xem
+                                        <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/10 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-1000"></div>
+                                        <div className="relative z-10">
+                                             <div className="text-5xl mb-4 animate-bounce-small">📖</div>
+                                             <h3 className="text-2xl font-bold mb-3 text-gold-light">Cuộc đời Bác Hồ</h3>
+                                             <p className="text-cream/90 leading-relaxed">
+                                                  Các giai đoạn trong cuộc đời và sự nghiệp cách mạng của Chủ tịch Hồ Chí Minh
+                                             </p>
+                                             <div className="mt-4 text-gold-light font-semibold">
+                                                  ← Đang xem
+                                             </div>
                                         </div>
                                    </Link>
 
                                    <Link
                                         href="/timeline/nhan-vat"
-                                        className="bg-white text-red-dark rounded-xl p-8 shadow-xl hover:shadow-2xl transition-all border-2 border-gold/30 hover:border-gold group"
+                                        className="bg-white text-red-dark rounded-xl p-8 shadow-xl hover:shadow-2xl transition-all border-2 border-gold/30 hover:border-gold group relative overflow-hidden"
                                    >
-                                        <div className="text-5xl mb-4">🌍</div>
-                                        <h3 className="text-2xl font-bold mb-3 group-hover:text-red-light transition-colors">Gặp gỡ nhân vật quốc tế</h3>
-                                        <p className="text-text-secondary leading-relaxed">
-                                             Timeline các cuộc gặp gỡ với nhân vật quốc tế theo thứ tự thời gian
-                                        </p>
-                                        <div className="mt-4 text-gold-dark font-semibold flex items-center">
-                                             Xem timeline →
-                                             <svg className="w-5 h-5 ml-2 group-hover:translate-x-2 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
-                                             </svg>
+                                        <div className="absolute inset-0 bg-gradient-to-r from-transparent via-gold/10 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-1000"></div>
+                                        <div className="relative z-10">
+                                             <div className="text-5xl mb-4 group-hover:scale-110 transition-transform duration-300">🌍</div>
+                                             <h3 className="text-2xl font-bold mb-3 group-hover:text-red-light transition-colors">Gặp gỡ nhân vật quốc tế</h3>
+                                             <p className="text-text-secondary leading-relaxed">
+                                                  Timeline các cuộc gặp gỡ với nhân vật quốc tế theo thứ tự thời gian
+                                             </p>
+                                             <div className="mt-4 text-gold-dark font-semibold flex items-center">
+                                                  Xem timeline →
+                                                  <svg className="w-5 h-5 ml-2 group-hover:translate-x-2 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                                                  </svg>
+                                             </div>
                                         </div>
                                    </Link>
                               </div>
@@ -66,10 +79,14 @@ export default function TimelinePage() {
                </section>
 
                {/* Introduction */}
-               <section className="py-16 bg-cream-dark ">
-                    <div className="container mx-auto px-4">
+               <section className="py-16 bg-gradient-to-b from-cream-dark to-cream relative overflow-hidden">
+                    {/* Decorative background elements */}
+                    <div className="absolute top-0 left-0 w-64 h-64 bg-gold/5 rounded-full blur-3xl animate-float"></div>
+                    <div className="absolute bottom-0 right-0 w-96 h-96 bg-red-main/5 rounded-full blur-3xl animate-float" style={{ animationDelay: '2s' }}></div>
+
+                    <div className="container mx-auto px-4 relative z-10">
                          <div className="max-w-4xl mx-auto text-center">
-                              <p className="text-lg text-text-primary leading-relaxed">
+                              <p className="text-lg text-text-primary leading-relaxed animate-fade-in">
                                    Từ khi sinh ra tại làng Kim Liên năm 1890 cho đến khi từ trần năm 1969,
                                    cuộc đời Chủ tịch Hồ Chí Minh là một hành trình vĩ đại từ người con
                                    nhà nho yêu nước đến lãnh tụ của dân tộc Việt Nam.
@@ -79,13 +96,20 @@ export default function TimelinePage() {
                </section>
 
                {/* Timeline */}
-               <section className="py-16 bg-white">
-                    <div className="container mx-auto px-4">
+               <section className="py-16 bg-white relative overflow-hidden">
+                    {/* Decorative background */}
+                    <div className="absolute inset-0 opacity-30">
+                         <div className="absolute top-20 left-10 w-2 h-2 bg-gold rounded-full animate-pulse"></div>
+                         <div className="absolute top-40 right-20 w-3 h-3 bg-red-main rounded-full animate-pulse" style={{ animationDelay: '0.5s' }}></div>
+                         <div className="absolute bottom-40 left-1/4 w-2 h-2 bg-gold-light rounded-full animate-pulse" style={{ animationDelay: '1s' }}></div>
+                    </div>
+
+                    <div className="container mx-auto px-4 relative z-10">
                          <div className="max-w-6xl mx-auto">
                               {/* Timeline line */}
                               <div className="relative">
-                                   {/* Vertical line connecting all events */}
-                                   <div className="absolute left-1/2 top-0 bottom-0 w-1 bg-gradient-to-b from-red-main/30 via-gold/50 to-red-main/30 -translate-x-1/2"></div>
+                                   {/* Vertical line connecting all events with gradient animation */}
+                                   <div className="absolute left-1/2 top-0 bottom-0 w-1 bg-gradient-to-b from-red-main/30 via-gold/50 to-red-main/30 -translate-x-1/2 animate-gradient-shift"></div>
 
                                    {events.map((event, index) => (
                                         <TimelineItem

@@ -106,6 +106,22 @@ export default function FamilyPage() {
                               </div>
 
                               <div className="p-6">
+                                   {/* Image Section */}
+                                   <div className="mb-6 flex justify-center">
+                                        <div className="relative">
+                                             <img
+                                                  src={selectedPerson.image}
+                                                  alt={selectedPerson.name}
+                                                  className="w-64 h-64 object-cover rounded-2xl shadow-2xl border-4 border-gold"
+                                                  onError={(e) => {
+                                                       const target = e.target as HTMLImageElement;
+                                                       target.style.display = 'none';
+                                                  }}
+                                             />
+                                             <div className="absolute -inset-2 rounded-2xl border-2 border-gold/30"></div>
+                                        </div>
+                                   </div>
+
                                    <p className="text-gold-dark font-medium text-lg mb-4">
                                         {selectedPerson.relationship}
                                    </p>

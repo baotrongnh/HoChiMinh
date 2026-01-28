@@ -30,7 +30,7 @@ export default function WelcomeVideo() {
           <VideoModal
                isOpen={isOpen}
                onClose={handleClose}
-               videoUrl="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+               videoUrl="https://youtu.be/66tLc02zoNs"
           />
      );
 }

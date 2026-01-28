@@ -26,7 +26,16 @@ export default function PersonCard({ person, onClick }: PersonCardProps) {
                                    {/* Avatar Circle */}
                                    <div className="relative mx-auto mb-4">
                                         <div className="w-32 h-32 rounded-full bg-gradient-to-br from-gold-light to-gold border-4 border-red-main shadow-lg flex items-center justify-center overflow-hidden">
-                                             <div className="text-red-dark text-5xl">👤</div>
+                                             <img
+                                                  src={person.image}
+                                                  alt={person.name}
+                                                  className="w-full h-full object-cover"
+                                                  onError={(e) => {
+                                                       const target = e.target as HTMLImageElement;
+                                                       target.style.display = 'none';
+                                                       target.parentElement!.innerHTML = '<div class="text-red-dark text-5xl">👤</div>';
+                                                  }}
+                                             />
                                         </div>
                                         {/* Decorative Ring */}
                                         <div className="absolute -inset-2 rounded-full border-2 border-gold/30 animate-pulse"></div>

@@ -120,7 +120,7 @@ export default function Header() {
                <VideoModal
                     isOpen={isVideoOpen}
                     onClose={() => setIsVideoOpen(false)}
-                    videoUrl="https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+                    videoUrl="https://youtu.be/66tLc02zoNs"
                />
           </header>
      );
