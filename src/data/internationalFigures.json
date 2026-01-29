@@ -678,8 +678,9 @@
       "Wikipedia (VI) – Hồ Tùng Mậu: https://vi.wikipedia.org/wiki/H%E1%BB%93_T%C3%B9ng_M%E1%BA%ADu"
     ],
     "stories": [
-      "Cùng Hồ Chí Minh đào tạo cán bộ cách mạng tại Quảng Châu",
-      "Luôn giữ vững lập trường trong những giai đoạn phong trào gặp khó khăn"
+      "Gắn với giai đoạn xây dựng cơ sở và đào tạo cán bộ tại Quảng Châu (Trung Quốc) trong những năm 1920",
+      "Là một trường hợp tiêu biểu để học về mạng lưới hoạt động ở hải ngoại và công tác tổ chức – liên lạc",
+      "Khi nêu chi tiết nhiệm vụ cụ thể/địa điểm cụ thể, nên đối chiếu thêm hồi ký hoặc công trình nghiên cứu có trích dẫn"
     ],
     "image": "/images/vietnam/ho-tung-mau.jpg"
   },
@@ -705,8 +706,9 @@
       "Wikipedia (VI) – Lê Hồng Phong: https://vi.wikipedia.org/wiki/L%C3%AA_H%E1%BB%93ng_Phong"
     ],
     "stories": [
-      "Lê Hồng Phong được Hồ Chí Minh đánh giá cao về bản lĩnh và tinh thần kỷ luật",
-      "Ông bị thực dân Pháp bắt giam và hy sinh trong nhà tù Côn Đảo"
+      "Gắn với vai trò củng cố tổ chức và liên hệ quốc tế trong bối cảnh phong trào bị đàn áp",
+      "Ông bị thực dân Pháp bắt giam và hy sinh trong nhà tù Côn Đảo",
+      "Khi trích dẫn các nhận xét/đánh giá cụ thể của Hồ Chí Minh về ông, nên kèm nguồn trích dẫn rõ ràng"
     ],
     "image": "/images/vietnam/le-hong-phong.jpg"
   },
@@ -731,8 +733,10 @@
       "Wikipedia (VI) – Phạm Văn Đồng: https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_V%C4%83n_%C4%90%E1%BB%93ng"
     ],
     "stories": [
-      "Phạm Văn Đồng là người tham gia nhiều cuộc đàm phán ngoại giao quan trọng theo chỉ đạo của Hồ Chí Minh",
-      "Suốt cuộc đời, ông dành nhiều công trình nghiên cứu để hệ thống hóa tư tưởng Hồ Chí Minh"
+      "Là cộng sự lâu năm của Hồ Chí Minh trong công tác lãnh đạo và ngoại giao",
+      "Gắn với các nỗ lực ngoại giao trong kháng chiến, đặc biệt khi nghiên cứu các hội nghị/quá trình đàm phán quốc tế",
+      "Theo tiểu sử phổ thông, ông là Trưởng đoàn Việt Nam Dân chủ Cộng hòa tại Hội nghị Genève 1954",
+      "Suốt cuộc đời, ông có nhiều công trình và bài viết về tư tưởng Hồ Chí Minh (khi dùng trong bài học thuật nên trích dẫn phiên bản/bản in cụ thể)"
     ],
     "image": "/images/vietnam/pham-van-dong.jpg"
   },
@@ -757,10 +761,350 @@
       "Wikipedia (VI) – Võ Nguyên Giáp: https://vi.wikipedia.org/wiki/V%C3%B5_Nguy%C3%AAn_Gi%C3%A1p"
     ],
     "stories": [
-      "Bác Hồ căn dặn Võ Nguyên Giáp: 'Chắc thắng thì đánh, không chắc thắng thì không đánh'",
-      "Mối quan hệ thầy – trò gắn bó suốt hơn 30 năm"
+      "Võ Nguyên Giáp gắn với các chiến dịch lớn, trong đó có Chiến thắng Điện Biên Phủ (1954)",
+      "Câu 'Chắc thắng thì đánh, không chắc thắng thì không đánh' thường được trích dẫn trong các câu chuyện về chỉ đạo tác chiến; khi dùng nên ghi rõ nguồn trích dẫn cụ thể",
+      "Mối quan hệ thầy – trò/cộng sự chiến lược với Hồ Chí Minh thường được nhắc tới trong hồi ký và tư liệu lịch sử",
+      "Là nhân vật phù hợp để học cách đối chiếu hồi ký – tư liệu – công trình nghiên cứu khi tái dựng sự kiện"
     ],
     "image": "/images/vietnam/vo-nguyen-giap.jpg"
+  },
+  {
+    "id": "tran-dai-nghia",
+    "name": "Trần Đại Nghĩa (Phạm Quang Lễ)",
+    "nameEn": "Tran Dai Nghia (Pham Quang Le)",
+    "category": "A",
+    "nationality": "Việt Nam",
+    "birthYear": 1913,
+    "deathYear": 1997,
+    "profession": "Kỹ sư, nhà khoa học; người đặt nền móng ngành quân giới",
+    "relationship": "Được Hồ Chí Minh gặp gỡ và vận động về nước; phụ trách quân giới trong kháng chiến",
+    "meetingYear": 1946,
+    "meetingYearText": "1946 (gắn với bối cảnh Hồ Chí Minh ở Pháp; mốc gặp gỡ được nhắc trong nhiều tiểu sử phổ thông)",
+    "meetingPlace": "Paris, Pháp",
+    "meetingContext": "Gặp Hồ Chí Minh trong thời gian Người hoạt động ngoại giao tại Pháp; sau đó nhận lời về nước tham gia kháng chiến.",
+    "shortBio": "Kỹ sư Trần Đại Nghĩa (tên thật Phạm Quang Lễ), người đặt nền móng cho ngành quân giới Việt Nam",
+    "fullBio": "Trần Đại Nghĩa (1913–1997), tên thật Phạm Quang Lễ, là kỹ sư và nhà khoa học Việt Nam, thường được nhắc như người đặt nền móng cho ngành công nghiệp quốc phòng/quân giới của Việt Nam trong giai đoạn đầu kháng chiến. Ông học tập và làm việc tại Pháp trước năm 1946.\n\nTheo các nguồn tiểu sử phổ thông, trong thời gian Hồ Chí Minh ở Pháp năm 1946, Người đã gặp và vận động Trần Đại Nghĩa về nước tham gia xây dựng lực lượng và quân giới. Để phục vụ học tập – nghiên cứu, khi trình bày chi tiết về thời điểm, địa điểm và nội dung cụ thể của cuộc gặp, nên đối chiếu thêm bằng hồi ký/tiểu sử có trích dẫn hoặc tư liệu lưu trữ.",
+    "influence": "Đóng góp khoa học – kỹ thuật cho kháng chiến; xây dựng nền tảng quân giới",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (VI) – Trần Đại Nghĩa: https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_%C4%90%E1%BA%A1i_Ngh%C4%A9a",
+      "Wikipedia (VI) – Phạm Quang Lễ: https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_Quang_L%E1%BB%85"
+    ],
+    "stories": [
+      "Tên thật của Trần Đại Nghĩa là Phạm Quang Lễ; khi dùng tư liệu, nên thống nhất cách gọi và dẫn nguồn rõ",
+      "Các tiểu sử phổ thông thường nhắc việc ông được vận động về nước năm 1946; khi viết học thuật nên gắn với nguồn có trích dẫn",
+      "Trường hợp tiêu biểu để kể câu chuyện 'trí thức/kỹ sư hồi hương' và xây dựng năng lực khoa học – kỹ thuật cho kháng chiến",
+      "Nếu nêu chi tiết về loại vũ khí/sản phẩm cụ thể, nên đối chiếu thêm tư liệu chuyên khảo về lịch sử quân giới"
+    ],
+    "image": "/images/vietnam/tran-dai-nghia.jpg"
+  },
+  {
+    "id": "nguyen-van-bay",
+    "name": "Nguyễn Văn Bảy",
+    "nameEn": "Nguyen Van Bay",
+    "category": "B",
+    "nationality": "Việt Nam",
+    "birthYear": 1936,
+    "deathYear": 2019,
+    "profession": "Phi công tiêm kích; Anh hùng Lực lượng vũ trang nhân dân",
+    "relationship": "Anh hùng phi công (thường được gọi 'Bảy phi công' theo cách kể phổ biến về thành tích); nhân vật tiêu biểu thời chống Mỹ",
+    "meetingYear": null,
+    "meetingYearText": "Chưa có nguồn phổ thông rõ ràng xác nhận cuộc gặp trực tiếp với Hồ Chí Minh; nếu cần nêu 'được gặp Bác' nên bổ sung nguồn đối chiếu (ảnh tư liệu, hồi ký, biên niên).",
+    "meetingPlace": null,
+    "meetingContext": "Liên hệ chủ yếu ở cấp biểu tượng lịch sử: Anh hùng – lực lượng vũ trang thời Hồ Chí Minh lãnh đạo kháng chiến.",
+    "shortBio": "Phi công tiêm kích nổi tiếng trong kháng chiến chống Mỹ",
+    "fullBio": "Nguyễn Văn Bảy (1936–2019) là phi công tiêm kích của Không quân Nhân dân Việt Nam, được phong tặng danh hiệu Anh hùng Lực lượng vũ trang nhân dân và thường được nhắc tới trong các câu chuyện phổ biến về những phi công xuất sắc thời kháng chiến chống Mỹ.\n\nKhi đưa vào dữ liệu học tập – nghiên cứu về “nhân vật liên quan đến Hồ Chí Minh”, cần thận trọng với các mệnh đề dạng 'được Bác Hồ gặp/gặp Bác' vì chi tiết này thường xuất hiện dưới dạng kể chuyện truyền miệng. Nếu muốn khẳng định cuộc gặp, nên kèm nguồn đối chiếu (ảnh tư liệu, hồi ký hoặc biên niên chính thống).",
+    "influence": "Góp phần vào lịch sử không chiến và tinh thần chiến đấu thời chống Mỹ",
+    "verification": "unknown",
+    "sources": [
+      "Wikipedia (VI) – Nguyễn Văn Bảy (phi công): https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_V%C4%83n_B%E1%BA%A3y_(phi_c%C3%B4ng)"
+    ],
+    "stories": [
+      "Là một trong các phi công tiêm kích tiêu biểu trong kháng chiến chống Mỹ",
+      "Nếu dùng cụm 'Bảy phi công/ông Bảy phi công', nên chú thích đây là cách gọi phổ biến và đối chiếu nguồn về thành tích cụ thể",
+      "Nếu cần đưa vào 'câu chuyện được gặp Bác', nên bổ sung nguồn đối chiếu (ảnh tư liệu, hồi ký, biên niên) thay vì kể truyền miệng"
+    ],
+    "image": "/images/vietnam/nguyen-van-bay.jpg"
+  },
+  {
+    "id": "ton-duc-thang",
+    "name": "Tôn Đức Thắng",
+    "nameEn": "Ton Duc Thang",
+    "category": "A",
+    "nationality": "Việt Nam",
+    "birthYear": 1888,
+    "deathYear": 1980,
+    "profession": "Chính khách; Chủ tịch nước",
+    "relationship": "Lãnh đạo cấp cao, kế nhiệm ở cương vị nguyên thủ quốc gia",
+    "meetingYear": null,
+    "meetingYearText": "Hai người cùng hoạt động trong hệ thống lãnh đạo của Việt Nam Dân chủ Cộng hòa; mốc gặp trực tiếp cụ thể cần nguồn đối chiếu",
+    "meetingPlace": null,
+    "meetingContext": "Quan hệ thể hiện qua cùng bộ máy lãnh đạo Nhà nước/đoàn thể trong giai đoạn kháng chiến và kiến quốc.",
+    "shortBio": "Chủ tịch nước Việt Nam Dân chủ Cộng hòa sau năm 1969",
+    "fullBio": "Tôn Đức Thắng (1888–1980) là chính khách Việt Nam, giữ các trọng trách trong hệ thống chính trị Việt Nam sau Cách mạng Tháng Tám. Theo các nguồn tiểu sử phổ thông, ông giữ vai trò lãnh đạo trong các tổ chức quần chúng và Nhà nước, và sau khi Chủ tịch Hồ Chí Minh qua đời (1969), ông đảm nhiệm cương vị Chủ tịch nước Việt Nam Dân chủ Cộng hòa.\n\nTrong dữ liệu học tập, Tôn Đức Thắng phù hợp để nghiên cứu về tính liên tục của bộ máy lãnh đạo Nhà nước thời chiến tranh và giai đoạn thống nhất. Nếu cần mô tả cuộc gặp cụ thể giữa ông và Hồ Chí Minh (thời gian/địa điểm), nên bổ sung tư liệu đối chiếu (hồi ký, biên niên, văn kiện).",
+    "influence": "Biểu tượng đoàn kết; sự kế nhiệm trong thiết chế Nhà nước",
+    "verification": "inferred",
+    "sources": [
+      "Wikipedia (VI) – Tôn Đức Thắng: https://vi.wikipedia.org/wiki/T%C3%B4n_%C4%90%E1%BB%A9c_Th%E1%BA%AFng"
+    ],
+    "stories": [
+      "Là người kế nhiệm cương vị Chủ tịch nước sau khi Hồ Chí Minh qua đời (1969)",
+      "Thường được nhắc như biểu tượng đoàn kết trong hệ thống chính trị Việt Nam thế kỷ XX",
+      "Khi trình bày các giai đoạn/đơn vị công tác cụ thể, nên trích nguồn biên niên hoặc văn kiện để tránh nhầm mốc"
+    ],
+    "image": "/images/vietnam/ton-duc-thang.jpg"
+  },
+  {
+    "id": "truong-chinh",
+    "name": "Trường Chinh",
+    "nameEn": "Truong Chinh",
+    "category": "A",
+    "nationality": "Việt Nam",
+    "birthYear": 1907,
+    "deathYear": 1988,
+    "profession": "Nhà lãnh đạo Đảng; Tổng Bí thư",
+    "relationship": "Lãnh đạo chủ chốt; làm việc cùng Hồ Chí Minh trong lãnh đạo Đảng và Nhà nước",
+    "meetingYear": null,
+    "meetingYearText": "Quan hệ công tác cấp cao diễn ra qua nhiều giai đoạn; mốc gặp trực tiếp cụ thể cần nguồn đối chiếu",
+    "meetingPlace": null,
+    "meetingContext": "Lãnh đạo Đảng và chỉ đạo đường lối trong các giai đoạn kháng chiến – kiến quốc.",
+    "shortBio": "Tổng Bí thư Đảng trong nhiều giai đoạn, nhân vật trọng yếu trong lịch sử chính trị Việt Nam",
+    "fullBio": "Trường Chinh (1907–1988) là nhà lãnh đạo chính trị Việt Nam, giữ nhiều cương vị quan trọng trong Đảng và Nhà nước. Ông thường được nhắc như một trong các lãnh đạo chủ chốt của Việt Nam Dân chủ Cộng hòa trong thế kỷ XX, hoạt động cùng thời và cùng hệ thống lãnh đạo với Chủ tịch Hồ Chí Minh.\n\nĐể bảo đảm độ chính xác, nếu dữ liệu cần nêu chi tiết về các cuộc gặp, trao đổi, hoặc chỉ đạo trực tiếp giữa hai người, nên bổ sung nguồn trích dẫn cụ thể (văn kiện, biên bản, hồi ký có đối chiếu).",
+    "influence": "Đường lối, tổ chức và tư duy chính trị trong thời kỳ kháng chiến",
+    "verification": "inferred",
+    "sources": [
+      "Wikipedia (VI) – Trường Chinh: https://vi.wikipedia.org/wiki/Tr%C6%B0%E1%BB%9Dng_Chinh"
+    ],
+    "stories": [
+      "Là một trong các gương mặt lãnh đạo chủ chốt trong thời kỳ kháng chiến và xây dựng Nhà nước",
+      "Có nhiều giai đoạn giữ các cương vị lãnh đạo cao nhất trong Đảng (cần ghi rõ mốc/nhiệm kỳ khi đưa vào bài học thuật)",
+      "Phù hợp để học cách phân biệt 'vai trò thiết chế' (chức vụ) với 'tác động chính sách' (đường lối) khi kể chuyện lịch sử"
+    ],
+    "image": "/images/vietnam/truong-chinh.jpg"
+  },
+  {
+    "id": "le-duan",
+    "name": "Lê Duẩn",
+    "nameEn": "Le Duan",
+    "category": "A",
+    "nationality": "Việt Nam",
+    "birthYear": 1907,
+    "deathYear": 1986,
+    "profession": "Nhà lãnh đạo Đảng; Bí thư thứ nhất/Tổng Bí thư",
+    "relationship": "Lãnh đạo cấp cao cùng thời; giữ vai trò nổi bật trong giai đoạn sau 1960",
+    "meetingYear": null,
+    "meetingYearText": "Quan hệ làm việc trong bộ máy lãnh đạo Đảng và Nhà nước; mốc gặp trực tiếp cụ thể cần nguồn đối chiếu",
+    "meetingPlace": null,
+    "meetingContext": "Lãnh đạo Đảng trong kháng chiến chống Mỹ và giai đoạn sau 1969.",
+    "shortBio": "Bí thư thứ nhất Ban Chấp hành Trung ương (1960–1976), Tổng Bí thư (1976–1986)",
+    "fullBio": "Lê Duẩn (1907–1986) là nhà lãnh đạo Đảng Cộng sản Việt Nam, giữ vai trò đứng đầu Đảng trong giai đoạn từ 1960 đến 1986 (với thay đổi tên gọi chức danh theo từng thời kỳ). Ông hoạt động trong cùng hệ thống lãnh đạo với Hồ Chí Minh và đóng vai trò quan trọng trong giai đoạn kháng chiến chống Mỹ.\n\nTrong dữ liệu học tập, Lê Duẩn phù hợp để nghiên cứu chuyển tiếp lãnh đạo và sự thay đổi ưu tiên chiến lược qua các giai đoạn. Khi mô tả quan hệ cá nhân hoặc các cuộc gặp cụ thể giữa ông và Hồ Chí Minh, nên kèm nguồn trích dẫn rõ ràng.",
+    "influence": "Ảnh hưởng lớn đến đường lối và quyết sách giai đoạn 1960–1986",
+    "verification": "inferred",
+    "sources": [
+      "Wikipedia (VI) – Lê Duẩn: https://vi.wikipedia.org/wiki/L%C3%AA_Du%E1%BA%A9n"
+    ],
+    "stories": [
+      "Gắn với vai trò lãnh đạo cao nhất của Đảng từ 1960, khi Hồ Chí Minh giữ vị trí Chủ tịch Đảng/Chủ tịch nước theo từng giai đoạn",
+      "Là nhân vật trung tâm khi học về chuyển tiếp lãnh đạo sau 1969",
+      "Khi nêu đánh giá về đường lối, nên đối chiếu nhiều nguồn (văn kiện, nghiên cứu, hồi ký) để tránh nhìn một chiều"
+    ],
+    "image": "/images/vietnam/le-duan.png"
+  },
+  {
+    "id": "le-duc-tho",
+    "name": "Lê Đức Thọ",
+    "nameEn": "Le Duc Tho",
+    "category": "A",
+    "nationality": "Việt Nam",
+    "birthYear": 1911,
+    "deathYear": 1990,
+    "profession": "Nhà lãnh đạo Đảng; nhà đàm phán",
+    "relationship": "Lãnh đạo cấp cao; tham gia công tác đối ngoại/đàm phán trong thời kỳ Hồ Chí Minh lãnh đạo",
+    "meetingYear": null,
+    "meetingYearText": "Quan hệ làm việc trong hệ thống lãnh đạo; mốc gặp trực tiếp cụ thể cần nguồn đối chiếu",
+    "meetingPlace": null,
+    "meetingContext": "Hoạt động lãnh đạo và đối ngoại trong giai đoạn chiến tranh.",
+    "shortBio": "Nhà lãnh đạo Đảng, nổi bật với vai trò đàm phán Hiệp định Paris",
+    "fullBio": "Lê Đức Thọ (1911–1990) là nhà lãnh đạo Đảng Cộng sản Việt Nam, được biết đến rộng rãi với vai trò trong đàm phán Hiệp định Paris về chấm dứt chiến tranh, lập lại hòa bình ở Việt Nam. Ông hoạt động trong bộ máy lãnh đạo cùng thời với Hồ Chí Minh.\n\nTrong phạm vi dữ liệu “nhân vật liên quan đến Hồ Chí Minh”, nên trình bày mối liên hệ của Lê Đức Thọ chủ yếu theo góc độ vai trò tổ chức/thiết chế (cơ quan, nhiệm vụ) thay vì khẳng định các cuộc gặp cá nhân nếu không có nguồn.",
+    "influence": "Đối ngoại – đàm phán; tổ chức và công tác cán bộ",
+    "verification": "inferred",
+    "sources": [
+      "Wikipedia (VI) – Lê Đức Thọ: https://vi.wikipedia.org/wiki/L%C3%AA_%C4%90%E1%BB%A9c_Th%E1%BB%8D"
+    ],
+    "stories": [
+      "Gắn với vai trò đàm phán dẫn tới Hiệp định Paris",
+      "Có liên quan đến giải Nobel Hòa bình 1973 (và việc từ chối nhận) – chi tiết cần ghi chính xác theo nguồn",
+      "Khi kể chuyện về đối ngoại, nên phân biệt rõ 'vai trò đoàn đàm phán' và 'quyết sách ở cấp lãnh đạo'"
+    ],
+    "image": "/images/vietnam/le-duc-tho.jpg"
+  },
+  {
+    "id": "nguyen-chi-thanh",
+    "name": "Nguyễn Chí Thanh",
+    "nameEn": "Nguyen Chi Thanh",
+    "category": "A",
+    "nationality": "Việt Nam",
+    "birthYear": 1914,
+    "deathYear": 1967,
+    "profession": "Đại tướng; nhà lãnh đạo",
+    "relationship": "Cán bộ lãnh đạo quân sự – chính trị; có mốc được ghi nhận báo cáo công tác với Hồ Chí Minh",
+    "meetingYear": 1967,
+    "meetingYearText": "1967 (theo tiểu sử phổ thông: trở ra Hà Nội để báo cáo với Chủ tịch Hồ Chí Minh)",
+    "meetingPlace": "Hà Nội, Việt Nam",
+    "meetingContext": "Trở ra Hà Nội báo cáo tình hình công tác, sau đó qua đời năm 1967.",
+    "shortBio": "Đại tướng, lãnh đạo quân sự – chính trị, hoạt động nổi bật trong kháng chiến",
+    "fullBio": "Nguyễn Chí Thanh (1914–1967) là Đại tướng Quân đội Nhân dân Việt Nam và nhà lãnh đạo chính trị. Theo tiểu sử phổ thông, ông có vai trò quan trọng trong công tác quân sự – chính trị và có thời kỳ công tác liên quan trực tiếp đến chỉ đạo chiến trường.\n\nMột chi tiết được nêu trong các nguồn tiểu sử phổ thông là việc ông trở ra Hà Nội để báo cáo với Chủ tịch Hồ Chí Minh và qua đời năm 1967. Khi sử dụng chi tiết này trong bài học thuật, nên trích dẫn rõ nguồn và trình bày đúng ngữ cảnh.",
+    "influence": "Tổ chức lực lượng; chỉ đạo công tác chính trị trong quân đội",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (VI) – Nguyễn Chí Thanh: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Ch%C3%AD_Thanh"
+    ],
+    "stories": [
+      "Theo tiểu sử phổ thông, ông trở ra Hà Nội để báo cáo với Chủ tịch Hồ Chí Minh và qua đời năm 1967",
+      "Là nhân vật phù hợp để học về mối liên hệ giữa công tác chính trị và chỉ đạo chiến trường",
+      "Khi nêu bí danh/chức vụ theo từng giai đoạn, nên ghi rõ mốc thời gian để tránh nhầm lẫn"
+    ],
+    "image": "/images/vietnam/nguyen-chi-thanh.jpg"
+  },
+  {
+    "id": "nguyen-thi-minh-khai",
+    "name": "Nguyễn Thị Minh Khai",
+    "nameEn": "Nguyen Thi Minh Khai",
+    "category": "B",
+    "nationality": "Việt Nam",
+    "birthYear": 1910,
+    "deathYear": 1941,
+    "profession": "Nhà cách mạng",
+    "relationship": "Cùng phong trào cách mạng thời kỳ đầu; liên hệ trong bối cảnh tổ chức và hoạt động của Đảng",
+    "meetingYear": null,
+    "meetingYearText": "Có nhiều điểm giao trong bối cảnh hoạt động của phong trào; mốc gặp trực tiếp cụ thể cần nguồn đối chiếu",
+    "meetingPlace": null,
+    "meetingContext": "Bối cảnh hoạt động cách mạng trước 1945.",
+    "shortBio": "Nhà cách mạng, biểu tượng hy sinh trong thời kỳ tiền khởi nghĩa",
+    "fullBio": "Nguyễn Thị Minh Khai (1910–1941) là nhà cách mạng Việt Nam, hoạt động trong thời kỳ tiền khởi nghĩa và bị xử tử năm 1941. Bà là một trong những gương mặt tiêu biểu của phong trào cách mạng trước năm 1945.\n\nTrong dữ liệu về “nhân vật liên quan đến Hồ Chí Minh”, nên mô tả mối liên hệ với Hồ Chí Minh chủ yếu theo bối cảnh phong trào và tổ chức, tránh khẳng định chi tiết về cuộc gặp riêng nếu không có nguồn.",
+    "influence": "Tinh thần hy sinh; lịch sử phong trào tiền khởi nghĩa",
+    "verification": "inferred",
+    "sources": [
+      "Wikipedia (VI) – Nguyễn Thị Minh Khai: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Th%E1%BB%8B_Minh_Khai"
+    ],
+    "stories": [
+      "Là nhân vật tiêu biểu khi học về phong trào cách mạng trước 1945",
+      "Hy sinh năm 1941; khi kể lại hoàn cảnh và diễn biến, nên trích nguồn tiểu sử có dẫn chứng",
+      "Câu chuyện của bà giúp mở rộng góc nhìn về vai trò của phụ nữ trong phong trào cách mạng"
+    ],
+    "image": "/images/vietnam/nguyen-thi-minh-khai.jpg"
+  },
+  {
+    "id": "nguyen-luong-bang",
+    "name": "Nguyễn Lương Bằng",
+    "nameEn": "Nguyen Luong Bang",
+    "category": "A",
+    "nationality": "Việt Nam",
+    "birthYear": 1904,
+    "deathYear": 1979,
+    "profession": "Nhà cách mạng; Phó Chủ tịch nước",
+    "relationship": "Đồng chí hoạt động sớm; gắn với các lớp huấn luyện do Nguyễn Ái Quốc tổ chức (theo tiểu sử phổ thông)",
+    "meetingYear": 1925,
+    "meetingYearText": "Khoảng 1925 (theo tiểu sử phổ thông: tham gia lớp huấn luyện do Nguyễn Ái Quốc tổ chức)",
+    "meetingPlace": "Quảng Châu, Trung Quốc",
+    "meetingContext": "Tham gia lớp huấn luyện/hoạt động trong môi trường tổ chức do Nguyễn Ái Quốc xây dựng.",
+    "shortBio": "Nhà cách mạng, giữ vai trò lãnh đạo Nhà nước (Phó Chủ tịch nước)",
+    "fullBio": "Nguyễn Lương Bằng (1904–1979) là nhà cách mạng Việt Nam, tham gia hoạt động từ sớm và giữ nhiều cương vị quan trọng trong hệ thống chính trị Việt Nam. Theo tiểu sử phổ thông, ông có liên hệ với các lớp huấn luyện do Nguyễn Ái Quốc tổ chức, qua đó trở thành một cán bộ gắn bó lâu dài với cách mạng.\n\nĐối với học tập, Nguyễn Lương Bằng phù hợp để nghiên cứu về công tác tổ chức và bồi dưỡng cán bộ trong giai đoạn hình thành phong trào. Nếu trích dẫn các giai thoại/nhận xét nổi tiếng, nên kèm nguồn trích dẫn cụ thể.",
+    "influence": "Công tác tổ chức và xây dựng đội ngũ; vai trò lãnh đạo Nhà nước",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (VI) – Nguyễn Lương Bằng: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_L%C6%B0%C6%A1ng_B%E1%BA%B1ng"
+    ],
+    "stories": [
+      "Theo tiểu sử phổ thông, ông gắn với các lớp huấn luyện do Nguyễn Ái Quốc tổ chức",
+      "Là ví dụ tốt để kể câu chuyện 'đào tạo cán bộ' trong những năm đầu phong trào",
+      "Nếu dùng các trích dẫn/nhận xét giai thoại về ông, nên dẫn nguồn rõ ràng (tác phẩm, tuyển tập, hồi ký)"
+    ],
+    "image": "/images/vietnam/nguyen-luong-bang.jpg"
+  },
+  {
+    "id": "ta-quang-buu",
+    "name": "Tạ Quang Bửu",
+    "nameEn": "Ta Quang Buu",
+    "category": "A",
+    "nationality": "Việt Nam",
+    "birthYear": 1910,
+    "deathYear": 1986,
+    "profession": "Nhà khoa học; lãnh đạo quốc phòng/giáo dục",
+    "relationship": "Làm việc trong Chính phủ và các phái đoàn đàm phán thời Hồ Chí Minh",
+    "meetingYear": null,
+    "meetingYearText": "Hoạt động trong bộ máy Chính phủ Việt Nam Dân chủ Cộng hòa; mốc gặp trực tiếp cụ thể cần nguồn đối chiếu",
+    "meetingPlace": null,
+    "meetingContext": "Công tác quốc phòng và đối ngoại trong các giai đoạn 1946 và 1954.",
+    "shortBio": "Nhà khoa học, tham gia Chính phủ, gắn với các hội nghị đối ngoại quan trọng",
+    "fullBio": "Tạ Quang Bửu (1910–1986) là nhà khoa học và chính khách Việt Nam, tham gia công tác trong Chính phủ Việt Nam Dân chủ Cộng hòa. Theo tiểu sử phổ thông, ông tham gia các phái đoàn/đàm phán trong những mốc quan trọng như năm 1946 (Đà Lạt/Fontainebleau) và năm 1954 (Genève).\n\nTrong dữ liệu học tập, ông là nhân vật phù hợp để mở rộng câu chuyện về đội ngũ trí thức tham gia xây dựng Nhà nước và công tác đối ngoại thời kháng chiến. Nếu khẳng định cuộc gặp cụ thể giữa ông và Hồ Chí Minh, nên bổ sung nguồn trích dẫn.",
+    "influence": "Kết nối khoa học – quản trị Nhà nước; đối ngoại thời kháng chiến",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (VI) – Tạ Quang Bửu: https://vi.wikipedia.org/wiki/T%E1%BA%A1_Quang_B%E1%BB%ADu"
+    ],
+    "stories": [
+      "Theo tiểu sử phổ thông, tham gia các phái đoàn đàm phán năm 1946 (Đà Lạt/Fontainebleau)",
+      "Theo tiểu sử phổ thông, tham gia đàm phán Hội nghị Genève 1954",
+      "Là ví dụ tiêu biểu về trí thức tham gia quản trị quốc gia và quốc phòng trong thời chiến"
+    ],
+    "image": "/images/vietnam/ta-quang-buu.jpg"
+  },
+  {
+    "id": "vo-chi-cong",
+    "name": "Võ Chí Công",
+    "nameEn": "Vo Chi Cong",
+    "category": "B",
+    "nationality": "Việt Nam",
+    "birthYear": 1912,
+    "deathYear": 2011,
+    "profession": "Chính khách; Chủ tịch Hội đồng Nhà nước",
+    "relationship": "Lãnh đạo chính trị; thuộc thế hệ lãnh đạo tiếp nối sau thời Hồ Chí Minh",
+    "meetingYear": null,
+    "meetingYearText": "Hoạt động trong cùng hệ thống chính trị; mốc gặp trực tiếp cụ thể cần nguồn đối chiếu",
+    "meetingPlace": null,
+    "meetingContext": "Bối cảnh hoạt động chính trị – tổ chức trong và sau kháng chiến.",
+    "shortBio": "Chủ tịch Hội đồng Nhà nước (1987–1992)",
+    "fullBio": "Võ Chí Công (1912–2011) là chính khách Việt Nam, giữ nhiều cương vị lãnh đạo trong hệ thống chính trị và từng là Chủ tịch Hội đồng Nhà nước. Ông thuộc thế hệ cán bộ lãnh đạo hoạt động trong bối cảnh kháng chiến và giai đoạn hậu chiến.\n\nĐể đảm bảo chính xác, khi liên hệ trực tiếp đến Hồ Chí Minh (gặp gỡ, chỉ đạo), nên dùng nguồn trích dẫn cụ thể. Trong dữ liệu học tập, có thể nhấn mạnh vai trò của ông như một mắt xích trong quá trình kế thừa và vận hành thiết chế Nhà nước.",
+    "influence": "Sự kế thừa và vận hành thiết chế Nhà nước sau chiến tranh",
+    "verification": "inferred",
+    "sources": [
+      "Wikipedia (VI) – Võ Chí Công: https://vi.wikipedia.org/wiki/V%C3%B5_Ch%C3%AD_C%C3%B4ng"
+    ],
+    "stories": [
+      "Giữ cương vị Chủ tịch Hội đồng Nhà nước giai đoạn đầu Đổi mới (cần ghi đúng mốc nhiệm kỳ)",
+      "Là nhân vật phù hợp để kể câu chuyện chuyển giao – kế thừa trong thiết chế Nhà nước",
+      "Khi trình bày về vai trò trước 1975, nên ghi rõ địa bàn/cơ quan để tránh khái quát hóa"
+    ],
+    "image": "/images/vietnam/vo-chi-cong.jpg"
+  },
+  {
+    "id": "pham-hung",
+    "name": "Phạm Hùng",
+    "nameEn": "Pham Hung",
+    "category": "B",
+    "nationality": "Việt Nam",
+    "birthYear": 1912,
+    "deathYear": 1988,
+    "profession": "Chính khách; Chủ tịch Hội đồng Bộ trưởng",
+    "relationship": "Cán bộ lãnh đạo trong kháng chiến; gắn với công tác Nam Bộ thời Hồ Chí Minh",
+    "meetingYear": null,
+    "meetingYearText": "Hoạt động trong hệ thống lãnh đạo thời Hồ Chí Minh; mốc gặp trực tiếp cụ thể cần nguồn đối chiếu",
+    "meetingPlace": null,
+    "meetingContext": "Công tác lãnh đạo Nam Bộ và công tác Chính phủ thời chiến.",
+    "shortBio": "Lãnh đạo cao cấp, từng giữ chức Chủ tịch Hội đồng Bộ trưởng (1987–1988)",
+    "fullBio": "Phạm Hùng (1912–1988), tên khai sinh Phạm Văn Thiện, là chính khách Việt Nam. Theo tiểu sử phổ thông, ông hoạt động cách mạng từ sớm, trải qua thời kỳ bị giam cầm và tham gia lãnh đạo ở Nam Bộ trong kháng chiến chống Pháp, sau đó giữ nhiều chức vụ cao trong Nhà nước.\n\nĐể liên hệ trực tiếp với Hồ Chí Minh một cách thận trọng, nên mô tả theo bối cảnh thiết chế và nhiệm vụ (lãnh đạo, tổ chức lực lượng, công tác Chính phủ) thay vì khẳng định các cuộc gặp cụ thể khi chưa có nguồn đối chiếu.",
+    "influence": "Tổ chức lực lượng và quản trị Nhà nước thời chiến; công tác ở Nam Bộ",
+    "verification": "verified",
+    "sources": [
+      "Wikipedia (VI) – Phạm Hùng: https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_H%C3%B9ng"
+    ],
+    "stories": [
+      "Theo tiểu sử phổ thông, gắn với công tác lãnh đạo và tổ chức lực lượng ở Nam Bộ trong kháng chiến",
+      "Từng giữ chức Chủ tịch Hội đồng Bộ trưởng giai đoạn đầu Đổi mới (1987–1988)",
+      "Nếu đưa vào bài học thuật các mốc vụ án/án tử hình/giảm án, nên trích nguồn (tư liệu chính thống hoặc nghiên cứu) để bảo đảm chính xác"
+    ],
+    "image": "/images/vietnam/pham-hung.jpg"
   },
   {
     "id": "jean-longuet",
