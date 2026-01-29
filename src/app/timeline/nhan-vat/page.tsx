@@ -19,7 +19,7 @@ export default function InternationalTimelinePage() {
                               </h1>
                               <div className="h-1 w-32 bg-gradient-to-r from-transparent via-gold to-transparent mx-auto mb-6"></div>
                               <p className="text-xl text-cream/90">
-                                   Những cuộc gặp gỡ lịch sử của Chủ tịch Hồ Chí Minh với các nhân vật quốc tế
+                                   Những cuộc gặp gỡ và kết nối trong hành trình cách mạng (Việt Nam và quốc tế)
                               </p>
                          </div>
                     </div>
@@ -41,7 +41,7 @@ export default function InternationalTimelinePage() {
                                                   <div className="bg-white rounded-xl shadow-xl p-6 border-2 border-gold/20 hover:border-gold/60 hover:shadow-2xl transition-all duration-300 group">
                                                        {/* Year Badge */}
                                                        <div className={`inline-block px-4 py-2 bg-gradient-to-r from-red-main to-red-light text-gold-light rounded-lg font-bold text-lg mb-3 shadow-lg ${index % 2 === 0 ? 'float-right' : 'float-left'}`}>
-                                                            {figure.meetingYear}
+                                                            {figure.meetingYearText ?? figure.meetingYear}
                                                        </div>
 
                                                        <div className="clear-both">
@@ -90,39 +90,16 @@ export default function InternationalTimelinePage() {
                     </div>
                </section>
 
-               {/* Categories Summary */}
+               {/* Summary */}
                <section className="py-16 bg-white">
                     <div className="container mx-auto px-4">
-                         <div className="max-w-4xl mx-auto">
-                              <h2 className="text-4xl font-bold text-center mb-12 text-red-dark">
-                                   Phân loại các cuộc gặp gỡ
+                         <div className="max-w-4xl mx-auto text-center">
+                              <h2 className="text-4xl font-bold mb-6 text-red-dark">
+                                   Ghi chú học thuật
                               </h2>
-
-                              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                                   <div className="bg-gradient-to-br from-red-light to-red-main text-white rounded-xl p-6 shadow-xl">
-                                        <h3 className="text-2xl font-bold mb-3 text-gold-light">Nhóm A</h3>
-                                        <p className="text-sm text-cream/90 leading-relaxed">
-                                             Gặp trực tiếp và hoạt động chung trong phong trào cách mạng
-                                        </p>
-                                        <div className="mt-4 text-3xl">🤝</div>
-                                   </div>
-
-                                   <div className="bg-gradient-to-br from-gold to-gold-light text-red-dark rounded-xl p-6 shadow-xl">
-                                        <h3 className="text-2xl font-bold mb-3">Nhóm B</h3>
-                                        <p className="text-sm leading-relaxed opacity-90">
-                                             Nghệ sĩ, trí thức cùng hệ giá trị nhân văn và hòa bình
-                                        </p>
-                                        <div className="mt-4 text-3xl">🎨</div>
-                                   </div>
-
-                                   <div className="bg-gradient-to-br from-bronze to-bronze-dark text-white rounded-xl p-6 shadow-xl">
-                                        <h3 className="text-2xl font-bold mb-3 text-gold-light">Nhóm C</h3>
-                                        <p className="text-sm text-cream/90 leading-relaxed">
-                                             Bạn của Việt Nam, ủng hộ và đồng hành với Hồ Chí Minh
-                                        </p>
-                                        <div className="mt-4 text-3xl">🌟</div>
-                                   </div>
-                              </div>
+                              <p className="text-text-secondary text-base leading-relaxed">
+                                   Một số mốc thời gian có thể mang tính ước đoán hoặc dựa trên hồi ký/lời kể; chi tiết được ghi rõ trong từng hồ sơ.
+                              </p>
                          </div>
                     </div>
                </section>

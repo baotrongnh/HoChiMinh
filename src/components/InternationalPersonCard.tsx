@@ -11,13 +11,7 @@ interface InternationalPersonCardProps {
 export default function InternationalPersonCard({ person, onClick }: InternationalPersonCardProps) {
      const [isFlipped, setIsFlipped] = useState(false);
 
-     const categoryColors = {
-          A: { bg: 'red-main', text: 'Gặp trực tiếp, hoạt động chung', badge: 'bg-red-main' },
-          B: { bg: 'gold', text: 'Nghệ sĩ, trí thức cùng hệ giá trị', badge: 'bg-gold' },
-          C: { bg: 'bronze', text: 'Bạn của Việt Nam', badge: 'bg-bronze' }
-     };
-
-     const categoryInfo = categoryColors[person.category as keyof typeof categoryColors];
+     const meetingYearDisplay = person.meetingYearText ?? person.meetingYear;
 
      return (
           <div
@@ -30,19 +24,19 @@ export default function InternationalPersonCard({ person, onClick }: Internation
                     <div className="absolute inset-0 backface-hidden">
                          <div className="h-full bg-gradient-to-br from-cream to-cream-dark rounded-xl shadow-2xl overflow-hidden border-2 border-gold/20 hover:border-gold/40 transition-all">
                               {/* Decorative Top Border */}
-                              <div className={`h-2 bg-gradient-to-r from-${categoryInfo.bg} via-gold to-${categoryInfo.bg}`}></div>
+                              <div className="h-2 bg-gradient-to-r from-red-main via-gold to-red-main"></div>
 
                               <div className="p-6 h-full flex flex-col">
-                                   {/* Category Badge */}
+                                   {/* Nationality Badge */}
                                    <div className="flex justify-between items-start mb-4">
-                                        <span className={`${categoryInfo.badge} text-white px-4 py-1.5 rounded-full text-sm font-bold shadow-lg`}>
-                                             Nhóm {person.category}
+                                        <span className="bg-red-main text-white px-4 py-1.5 rounded-full text-sm font-bold shadow-lg">
+                                             {person.nationality === 'Việt Nam' ? '🇻🇳 Việt Nam' : '🌍 Quốc tế'}
                                         </span>
                                    </div>
 
                                    {/* Avatar Circle */}
                                    <div className="relative mx-auto mb-4">
-                                        <div className={`w-32 h-32 rounded-full bg-gradient-to-br from-gold-light to-gold border-4 border-${categoryInfo.bg} shadow-lg flex items-center justify-center overflow-hidden`}>
+                                        <div className="w-32 h-32 rounded-full bg-gradient-to-br from-gold-light to-gold border-4 border-red-main shadow-lg flex items-center justify-center overflow-hidden">
                                              <img
                                                   src={person.image}
                                                   alt={person.name}
@@ -90,9 +84,9 @@ export default function InternationalPersonCard({ person, onClick }: Internation
 
                                    {/* Decorative Bottom Pattern */}
                                    <div className="flex justify-center space-x-2 mt-auto pt-4">
-                                        <div className={`w-2 h-2 rounded-full bg-${categoryInfo.bg}`}></div>
+                                        <div className="w-2 h-2 rounded-full bg-red-main"></div>
                                         <div className="w-2 h-2 rounded-full bg-gold"></div>
-                                        <div className={`w-2 h-2 rounded-full bg-${categoryInfo.bg}`}></div>
+                                        <div className="w-2 h-2 rounded-full bg-red-main"></div>
                                    </div>
                               </div>
                          </div>
@@ -100,14 +94,14 @@ export default function InternationalPersonCard({ person, onClick }: Internation
 
                     {/* Back Side */}
                     <div className="absolute inset-0 backface-hidden rotate-y-180">
-                         <div className={`h-full bg-gradient-to-br from-red-dark to-red-main rounded-xl shadow-2xl overflow-hidden border-2 border-gold/40`}>
+                         <div className="h-full bg-gradient-to-br from-red-dark to-red-main rounded-xl shadow-2xl overflow-hidden border-2 border-gold/40">
                               {/* Decorative Top Border */}
                               <div className="h-2 bg-gradient-to-r from-gold via-gold-light to-gold"></div>
 
                               <div className="p-6 h-full flex flex-col text-white">
                                    <div className="flex justify-between items-start mb-4">
-                                        <span className={`${categoryInfo.badge} text-white px-3 py-1 rounded-full text-xs font-bold`}>
-                                             Nhóm {person.category}
+                                        <span className="bg-gold text-red-dark px-3 py-1 rounded-full text-xs font-bold">
+                                             {person.nationality === 'Việt Nam' ? '🇻🇳 Việt Nam' : '🌍 Quốc tế'}
                                         </span>
                                    </div>
 
@@ -120,25 +114,14 @@ export default function InternationalPersonCard({ person, onClick }: Internation
                                              {person.shortBio}
                                         </p>
 
-                                        <div className="space-y-3">
-                                             {/* Category Explanation - Visible on hover */}
-                                             <div className="bg-white/10 rounded-lg p-3 backdrop-blur-sm">
-                                                  <p className="text-xs text-gold-light font-semibold mb-1">
-                                                       📋 Phân loại:
-                                                  </p>
-                                                  <p className="text-xs text-white/90 leading-relaxed">
-                                                       {categoryInfo.text}
+                                        <div className="space-y-3">{meetingYearDisplay && (
+                                             <div className="flex items-start">
+                                                  <span className="text-gold mr-2 mt-1">📅</span>
+                                                  <p className="text-xs text-white/80 leading-relaxed">
+                                                       <strong className="text-gold-light">Năm gặp:</strong> {meetingYearDisplay}
                                                   </p>
                                              </div>
-
-                                             {person.meetingYear && (
-                                                  <div className="flex items-start">
-                                                       <span className="text-gold mr-2 mt-1">📅</span>
-                                                       <p className="text-xs text-white/80 leading-relaxed">
-                                                            <strong className="text-gold-light">Năm gặp:</strong> {person.meetingYear}
-                                                       </p>
-                                                  </div>
-                                             )}
+                                        )}
 
                                              {person.meetingPlace && (
                                                   <div className="flex items-start">

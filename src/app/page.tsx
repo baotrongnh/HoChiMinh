@@ -126,7 +126,7 @@ export default function Home() {
               <div className="absolute top-0 left-0 w-full h-1 bg-gradient-to-r from-bronze via-bronze-dark to-bronze"></div>
               <div className="text-5xl mb-4 text-center transform group-hover:scale-110 transition-transform">🌍</div>
               <h3 className="text-2xl font-bold text-red-dark mb-3 text-center group-hover:text-bronze-dark transition-colors">
-                Nhân vật quốc tế
+                Nhân sĩ và đồng chí
               </h3>
               <p className="text-text-primary text-base text-center leading-relaxed font-medium">
                 Những người Bác gặp và gắn bó ở nước ngoài

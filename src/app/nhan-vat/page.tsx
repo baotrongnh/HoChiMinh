@@ -6,7 +6,7 @@ import { InternationalFigure } from '@/types';
 import InternationalPersonCard from '@/components/InternationalPersonCard';
 
 export default function InternationalFiguresPage() {
-     const [selectedCategory, setSelectedCategory] = useState<'ALL' | 'A' | 'B' | 'C'>('ALL');
+     const [selectedNationality, setSelectedNationality] = useState<'ALL' | 'Vietnamese' | 'International'>('ALL');
      const [selectedPerson, setSelectedPerson] = useState<InternationalFigure | null>(null);
 
      const figures = internationalData as InternationalFigure[];
@@ -29,15 +29,16 @@ export default function InternationalFiguresPage() {
      }, [selectedPerson]);
 
      const filteredFigures = useMemo(() => {
-          if (selectedCategory === 'ALL') return figures;
-          return figures.filter(fig => fig.category === selectedCategory);
-     }, [selectedCategory, figures]);
+          if (selectedNationality === 'Vietnamese') {
+               return figures.filter(fig => fig.nationality === 'Việt Nam');
+          } else if (selectedNationality === 'International') {
+               return figures.filter(fig => fig.nationality !== 'Việt Nam');
+          }
+          return figures;
+     }, [selectedNationality, figures]);
 
-     const categoryGroups = {
-          A: figures.filter(f => f.category === 'A'),
-          B: figures.filter(f => f.category === 'B'),
-          C: figures.filter(f => f.category === 'C'),
-     };
+     const vietnameseFigures = figures.filter(f => f.nationality === 'Việt Nam');
+     const internationalFigures = figures.filter(f => f.nationality !== 'Việt Nam');
 
      return (
           <div className="bg-cream">
@@ -46,7 +47,7 @@ export default function InternationalFiguresPage() {
                     <div className="container mx-auto px-4">
                          <div className="max-w-4xl mx-auto text-center">
                               <h1 className="text-5xl font-bold mb-6 text-gold-light">
-                                   Nhân vật quốc tế
+                                   Những người đồng hành
                               </h1>
                               <div className="h-1 w-32 bg-gold mx-auto mb-6"></div>
                               <p className="text-xl text-white/95">
@@ -56,107 +57,60 @@ export default function InternationalFiguresPage() {
                     </div>
                </section>
 
-               {/* Category Explanation */}
+               {/* Nationality Tabs */}
                <section className="py-16 bg-white">
                     <div className="container mx-auto px-4">
-                         <div className="max-w-4xl mx-auto">
-                              <h2 className="text-4xl font-bold mb-8 text-red-dark text-center">
-                                   Phân loại nhân vật
-                              </h2>
-
-                              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                                   <div className="bg-cream rounded-lg p-6 border-t-4 border-red-main shadow-lg hover:shadow-xl transition-all">
-                                        <div className="text-center mb-4">
-                                             <div className="w-16 h-16 bg-red-main text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto shadow-lg">
-                                                  A
-                                             </div>
-                                        </div>
-                                        <h3 className="text-xl font-bold text-red-dark mb-3 text-center">
-                                             Gặp trực tiếp, hoạt động chung
-                                        </h3>
-                                        <p className="text-text-primary text-base text-center leading-relaxed">
-                                             Những người đồng chí cùng Bác hoạt động cách mạng,
-                                             gặp mặt và làm việc trực tiếp
-                                        </p>
-                                        <p className="text-red-main text-base font-bold mt-4 text-center">
-                                             {categoryGroups.A.length} nhân vật
-                                        </p>
-                                   </div>
-
-                                   <div className="bg-cream rounded-lg p-6 border-t-4 border-gold shadow-lg hover:shadow-xl transition-all">
-                                        <div className="text-center mb-4">
-                                             <div className="w-16 h-16 bg-gold text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto shadow-lg">
-                                                  B
-                                             </div>
-                                        </div>
-                                        <h3 className="text-xl font-bold text-red-dark mb-3 text-center">
-                                             Nghệ sĩ, trí thức cùng hệ giá trị
-                                        </h3>
-                                        <p className="text-text-primary text-base text-center leading-relaxed">
-                                             Các nghệ sĩ, nhà văn, trí thức lớn cùng thời, có chung
-                                             hệ giá trị nhân văn, hòa bình
-                                        </p>
-                                        <p className="text-gold-dark text-base font-bold mt-4 text-center">
-                                             {categoryGroups.B.length} nhân vật
-                                        </p>
-                                   </div>
-
-                                   <div className="bg-cream rounded-lg p-6 border-t-4 border-bronze shadow-lg hover:shadow-xl transition-all">
-                                        <div className="text-center mb-4">
-                                             <div className="w-16 h-16 bg-bronze text-white rounded-full flex items-center justify-center text-2xl font-bold mx-auto shadow-lg">
-                                                  C
-                                             </div>
-                                        </div>
-                                        <h3 className="text-xl font-bold text-red-dark mb-3 text-center">
-                                             Bạn của Việt Nam
-                                        </h3>
-                                        <p className="text-text-primary text-base text-center leading-relaxed">
-                                             Những người bạn quốc tế ủng hộ Việt Nam, đấu tranh cho
-                                             độc lập và hòa bình
-                                        </p>
-                                        <p className="text-bronze-dark text-base font-bold mt-4 text-center">
-                                             {categoryGroups.C.length} nhân vật
-                                        </p>
-                                   </div>
+                         <div className="max-w-5xl mx-auto">
+                              <div className="flex flex-wrap justify-center gap-6">
+                                   <button
+                                        onClick={() => setSelectedNationality('ALL')}
+                                        className={`px-10 py-5 rounded-xl font-bold text-lg transition-all ${selectedNationality === 'ALL'
+                                             ? 'bg-gradient-to-r from-red-dark to-red-main text-white shadow-xl scale-105'
+                                             : 'bg-white text-text-primary border-2 border-cream-dark hover:border-red-main hover:text-red-main hover:shadow-lg'
+                                             }`}
+                                   >
+                                        Tất cả
+                                        <span className="ml-2 text-sm">
+                                             ({figures.length})
+                                        </span>
+                                   </button>
+                                   <button
+                                        onClick={() => setSelectedNationality('Vietnamese')}
+                                        className={`px-10 py-5 rounded-xl font-bold text-lg transition-all ${selectedNationality === 'Vietnamese'
+                                             ? 'bg-gradient-to-r from-red-dark to-red-main text-white shadow-xl scale-105'
+                                             : 'bg-white text-text-primary border-2 border-cream-dark hover:border-red-main hover:text-red-main hover:shadow-lg'
+                                             }`}
+                                   >
+                                        🇻🇳 Nhân vật Việt Nam
+                                        <span className="ml-2 text-sm">
+                                             ({vietnameseFigures.length})
+                                        </span>
+                                   </button>
+                                   <button
+                                        onClick={() => setSelectedNationality('International')}
+                                        className={`px-10 py-5 rounded-xl font-bold text-lg transition-all ${selectedNationality === 'International'
+                                             ? 'bg-gradient-to-r from-red-dark to-red-main text-white shadow-xl scale-105'
+                                             : 'bg-white text-text-primary border-2 border-cream-dark hover:border-red-main hover:text-red-main hover:shadow-lg'
+                                             }`}
+                                   >
+                                        🌍 Nhân vật quốc tế
+                                        <span className="ml-2 text-sm">
+                                             ({internationalFigures.length})
+                                        </span>
+                                   </button>
                               </div>
                          </div>
                     </div>
                </section>
 
-               {/* Filter Tabs */}
-               <section className="py-8 bg-cream-dark">
-                    <div className="container mx-auto px-4">
-                         <div className="flex flex-wrap justify-center gap-4">
-                              {['ALL', 'A', 'B', 'C'].map((cat) => (
-                                   <button
-                                        key={cat}
-                                        onClick={() => setSelectedCategory(cat as any)}
-                                        className={`px-6 py-3 rounded-lg font-bold text-base transition-all ${selectedCategory === cat
-                                             ? 'bg-red-main text-white shadow-xl scale-105'
-                                             : 'bg-white text-text-primary hover:bg-cream hover:text-red-main hover:shadow-lg'
-                                             }`}
-                                   >
-                                        {cat === 'ALL' ? 'Tất cả' : `Nhóm ${cat}`}
-                                        {cat !== 'ALL' && (
-                                             <span className="ml-2 text-sm">
-                                                  ({cat === 'A' ? categoryGroups.A.length :
-                                                       cat === 'B' ? categoryGroups.B.length :
-                                                            categoryGroups.C.length})
-                                             </span>
-                                        )}
-                                   </button>
-                              ))}
-                         </div>
-                    </div>
-               </section>
-
                {/* Figures Grid - 3D Flip Cards */}
-               <section className="py-16 bg-white">
+               <section className="py-16 bg-cream">
                     <div className="container mx-auto px-4">
                          <h2 className="text-3xl font-bold text-center mb-12 text-red-dark">
-                              {selectedCategory === 'ALL'
-                                   ? 'Tất cả nhân vật'
-                                   : `Nhóm ${selectedCategory} - ${categoryGroups[selectedCategory].length} nhân vật`}
+                              {selectedNationality === 'ALL' ? 'Tất cả nhân vật' :
+                                   selectedNationality === 'Vietnamese' ? 'Nhân vật Việt Nam' :
+                                        'Nhân vật quốc tế'}
+                              <span className="ml-3 text-red-main">({filteredFigures.length})</span>
                          </h2>
                          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-7xl mx-auto">
                               {filteredFigures.map((figure) => (
@@ -182,17 +136,9 @@ export default function InternationalFiguresPage() {
                          >
                               <div className="sticky top-0 bg-gradient-to-r from-red-dark to-red-main border-b-4 border-gold p-6 flex justify-between items-start shadow-lg z-10">
                                    <div className="flex-1">
-                                        <div className="flex items-center gap-3 mb-2">
-                                             <h2 className="text-3xl font-bold text-white">
-                                                  {selectedPerson.name}
-                                             </h2>
-                                             <span className={`inline-block px-4 py-1.5 rounded-full text-sm font-bold text-white shadow-lg animate-bounce-small ${selectedPerson.category === 'A' ? 'bg-red-main' :
-                                                  selectedPerson.category === 'B' ? 'bg-gold' :
-                                                       'bg-bronze'
-                                                  }`}>
-                                                  Nhóm {selectedPerson.category}
-                                             </span>
-                                        </div>
+                                        <h2 className="text-3xl font-bold text-white mb-2">
+                                             {selectedPerson.name}
+                                        </h2>
                                         <p className="text-gold-light text-lg">{selectedPerson.nameEn}</p>
                                    </div>
                                    <button
@@ -235,10 +181,10 @@ export default function InternationalFiguresPage() {
                                              <p className="text-text-secondary mb-1 font-semibold">Năm sinh - mất</p>
                                              <p className="font-bold text-red-dark">{selectedPerson.birthYear} - {selectedPerson.deathYear}</p>
                                         </div>
-                                        {selectedPerson.meetingYear && (
+                                        {(selectedPerson.meetingYearText ?? selectedPerson.meetingYear) && (
                                              <div>
                                                   <p className="text-text-secondary mb-1 font-semibold">Năm gặp</p>
-                                                  <p className="font-bold text-red-main">{selectedPerson.meetingYear}</p>
+                                                  <p className="font-bold text-red-main">{selectedPerson.meetingYearText ?? selectedPerson.meetingYear}</p>
                                              </div>
                                         )}
                                    </div>

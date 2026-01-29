@@ -10,14 +10,19 @@
     "deathYear": 1926,
     "profession": "Nhà yêu nước, nhà văn hóa",
     "meetingYear": 1911,
+    "meetingYearText": "khoảng 1911–1914 (theo bối cảnh hoạt động tại Pháp; cần đối chiếu tư liệu lưu trữ để xác nhận thời điểm gặp cụ thể)",
     "meetingPlace": "Paris, Pháp",
     "meetingContext": "Cùng hoạt động trong phong trào yêu nước Việt Nam tại Pháp",
     "shortBio": "Nhà yêu nước, cải cách văn hóa, chủ trương dân chủ tư sản",
-    "fullBio": "Phan Chu Trinh là nhà yêu nước, nhà văn hóa lớn của Việt Nam. Ông chủ trương cải cách xã hội theo lối tư sản dân chủ. Hồ Chí Minh và Phan Chu Trinh gặp nhau tại Paris, trao đổi về con đường cứu nước.",
+    "fullBio": "Phan Châu Trinh (1872–1926) là một nhà yêu nước và nhà văn hóa lớn của Việt Nam đầu thế kỷ XX, nổi bật với đường lối canh tân xã hội, đề cao dân quyền, dân trí và cải cách giáo dục. Trong giai đoạn hoạt động tại Pháp, ông tham gia môi trường trí thức – chính trị của kiều bào Việt Nam và tiếp xúc với các luồng tư tưởng tiến bộ ở châu Âu.\n\nNguyễn Ái Quốc cũng hoạt động tại Pháp trong những năm 1910–1920, cùng chung bối cảnh vận động cho quyền tự quyết của các dân tộc thuộc địa. Nhiều tài liệu phổ thông thường nhắc tới việc hai người có dịp gặp và trao đổi tại Paris, tuy nhiên thời điểm và hoàn cảnh cụ thể của cuộc gặp cần được đối chiếu bằng tư liệu gốc (thư từ, hồi ký, biên bản tổ chức) để sử dụng cho nghiên cứu học thuật.\n\nDù khác biệt về phương pháp và định hướng chính trị, Phan Châu Trinh để lại ảnh hưởng quan trọng về tư tưởng khai dân trí và tinh thần cải cách xã hội trong lịch sử hiện đại Việt Nam.",
     "influence": "Tư tưởng yêu nước, cải cách văn hóa, giáo dục",
+    "verification": "inferred",
+    "sources": [
+      "Wikipedia (VI) – Phan Châu Trinh: https://vi.wikipedia.org/wiki/Phan_Chu_Trinh"
+    ],
     "stories": [
-      "Cuộc gặp gỡ lịch sử tại Paris giữa hai thế hệ yêu nước",
-      "Tranh luận về con đường cứu nước: cải cách hay cách mạng"
+      "Bối cảnh Paris đầu thế kỷ XX: nơi hội tụ của trí thức Việt Nam và các phong trào chính trị tiến bộ",
+      "Sự khác biệt về chiến lược (cải cách xã hội – giáo dục so với tổ chức cách mạng) thường được thảo luận khi nghiên cứu các khuynh hướng yêu nước thời kỳ này"
     ],
     "image": "/images/international/phan-chu-trinh.jpg"
   },
@@ -32,13 +37,19 @@
     "deathYear": 1933,
     "profession": "Luật sư, nhà yêu nước",
     "meetingYear": 1917,
+    "meetingYearText": "khoảng 1917–1919 (gắn với hoạt động của nhóm người Việt tại Pháp)",
     "meetingPlace": "Paris, Pháp",
     "meetingContext": "Cùng hoạt động trong phong trào yêu nước tại Pháp, làm luật sư bảo vệ quyền lợi người Việt",
     "shortBio": "Luật sư người Việt đầu tiên tại Pháp, ủng hộ phong trào yêu nước",
-    "fullBio": "Phan Văn Trường là luật sư người Việt đầu tiên tại Pháp. Ông đã giúp đỡ Nguyễn Ái Quốc trong hoạt động yêu nước, tham gia các phong trào đòi độc lập cho Việt Nam.",
+    "fullBio": "Phan Văn Trường (1876–1933) là luật sư người Việt hoạt động tại Pháp, thường được nhắc tới như một trong những trí thức Việt Nam sớm tham gia vận động chính trị – pháp lý tại châu Âu cho quyền lợi của người Việt. Trong những năm sau Thế chiến I, ông có liên hệ với nhóm trí thức và nhà hoạt động Việt Nam tại Paris, nơi Nguyễn Ái Quốc cũng tham gia các hoạt động công khai và vận động về vấn đề thuộc địa.\n\nTrong nhiều tài liệu phổ thông, Phan Văn Trường được ghi nhận đã hỗ trợ Nguyễn Ái Quốc về mặt pháp lý và tổ chức trong môi trường hoạt động tại Pháp, góp phần tạo điều kiện cho việc phổ biến tiếng nói của người Việt tại các diễn đàn và báo chí. Khi dùng cho mục đích học tập – nghiên cứu, nên gắn các mô tả cụ thể (ví dụ vai trò trong từng văn bản/kiến nghị) với nguồn trích dẫn rõ ràng.",
     "influence": "Hỗ trợ pháp lý, kết nối với giới trí thức Pháp",
+    "verification": "inferred",
+    "sources": [
+      "Wikipedia (VI) – Phan Văn Trường: https://vi.wikipedia.org/wiki/Phan_V%C4%83n_Tr%C6%B0%E1%BB%9Dng"
+    ],
     "stories": [
-      "Giúp Nguyễn Ái Quốc soạn thảo 'Yêu sách 8 điểm' gửi Hội nghị Versailles 1919"
+      "Bối cảnh vận động tại Paris sau Thế chiến I: hình thành các nhóm trí thức Việt Nam hoạt động theo nhiều phương thức (báo chí, pháp lý, kiến nghị)",
+      "Các tài liệu thường gắn tên Phan Văn Trường với những hoạt động pháp lý – tổ chức hỗ trợ phong trào yêu nước tại Pháp (cần đối chiếu nguồn khi trích dẫn chi tiết)"
     ],
     "image": "/images/international/phan-van-truong.jpg"
   },
@@ -47,19 +58,25 @@
     "name": "Marcel Cachin",
     "nameEn": "Marcel Cachin",
     "category": "A",
-    "relationship": "Gặp trực tiếp, hoạt động chung",
+    "relationship": "Hoạt động cùng phong trào (mức độ tiếp xúc trực tiếp cần nguồn)",
     "nationality": "Pháp",
     "birthYear": 1869,
     "deathYear": 1958,
     "profession": "Chính khách, nhà báo cộng sản",
     "meetingYear": 1920,
+    "meetingYearText": "1920 (cùng bối cảnh Đại hội Tours; cần đối chiếu tư liệu để khẳng định có gặp trực tiếp hay không)",
     "meetingPlace": "Tours, Pháp",
     "meetingContext": "Đại hội Tours - thành lập Đảng Cộng sản Pháp",
     "shortBio": "Lãnh đạo Đảng Cộng sản Pháp, giám đốc báo L'Humanité",
-    "fullBio": "Marcel Cachin là một trong những người sáng lập Đảng Cộng sản Pháp. Ông là giám đốc báo L'Humanité, đã giúp đỡ Nguyễn Ái Quốc trong hoạt động tuyên truyền về vấn đề thuộc địa.",
+    "fullBio": "Marcel Cachin (1869–1958) là chính khách và nhà báo cộng sản người Pháp, gắn với tờ L'Humanité và vai trò quan trọng trong việc hình thành Đảng Cộng sản Pháp tại Đại hội Tours (1920). Ông thuộc thế hệ lãnh đạo tham gia tranh luận về hướng đi của phong trào xã hội chủ nghĩa Pháp trong bối cảnh sau Thế chiến I, khi các vấn đề về cách mạng và thuộc địa nổi lên mạnh mẽ.\n\nTrong một số nguồn tiểu sử phổ thông về Hồ Chí Minh, Cachin được nhắc tới như một nhân vật trong môi trường sinh hoạt chính trị ở Pháp mà Nguyễn Ái Quốc tham gia, và có ảnh hưởng nhất định đến nhận thức về “vấn đề thuộc địa” trong phong trào cánh tả Pháp. Tuy nhiên, nếu dùng cho nghiên cứu, cần phân biệt rõ giữa (1) cùng tham dự/ cùng môi trường hoạt động và (2) xác nhận “gặp trực tiếp” hoặc “giúp đỡ cụ thể” vào thời điểm nào – vì điều này đòi hỏi trích dẫn từ tư liệu gốc hoặc nghiên cứu chuyên khảo.",
     "influence": "Tư tưởng cộng sản, phong trào công nhân quốc tế",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (EN) – Marcel Cachin: https://en.wikipedia.org/wiki/Marcel_Cachin",
+      "Wikipedia (EN) – Ho Chi Minh: https://en.wikipedia.org/wiki/Ho_Chi_Minh"
+    ],
     "stories": [
-      "Nguyễn Ái Quốc đã gặp Marcel Cachin tại Đại hội Tours 1920 và gia nhập Đảng Cộng sản Pháp"
+      "Đại hội Tours (1920) là mốc quan trọng trong lịch sử cánh tả Pháp; nếu nhắc Nguyễn Ái Quốc ở đây, nên kèm nguồn đối chiếu về vai trò và mức độ tham dự"
     ],
     "image": "/images/international/marcel-cachin.jpg"
   },
@@ -73,14 +90,19 @@
     "birthYear": 1892,
     "deathYear": 1937,
     "profession": "Nhà báo, chính khách cộng sản",
-    "meetingYear": 1921,
-    "meetingPlace": "Paris, Pháp",
-    "meetingContext": "Làm việc chung tại báo L'Humanité",
+    "meetingYear": 1933,
+    "meetingYearText": "1933 (theo tiểu sử phổ thông: gặp Hồ Chí Minh tại Thượng Hải khi thăm Viễn Đông)",
+    "meetingPlace": "Thượng Hải, Trung Quốc",
+    "meetingContext": "Theo tiểu sử phổ thông: gặp Hồ Chí Minh khi thăm Viễn Đông",
     "shortBio": "Nhà báo tiến bộ, ủng hộ phong trào giải phóng thuộc địa",
-    "fullBio": "Paul Vaillant-Couturier là nhà báo và chính khách cộng sản người Pháp. Ông đã làm việc chung với Nguyễn Ái Quốc tại báo L'Humanité và ủng hộ mạnh mẽ phong trào giải phóng thuộc địa.",
+    "fullBio": "Paul Vaillant-Couturier (1892–1937) là nhà báo và chính khách cộng sản người Pháp, từng gắn với tờ L'Humanité và hoạt động tuyên truyền – tổ chức của phong trào cánh tả Pháp trong thời kỳ giữa hai cuộc thế chiến. Ông cũng được biết đến như một cây bút tham gia cổ vũ tinh thần quốc tế chủ nghĩa và lên tiếng về các vấn đề thuộc địa.\n\nTheo một số nguồn tiểu sử phổ thông (trong đó có tiểu sử trên Wikipedia), Vaillant-Couturier từng “thăm Viễn Đông” và có gặp Hồ Chí Minh tại Thượng Hải. Khi đưa thông tin này vào dữ liệu học tập – nghiên cứu, nên coi đây là mệnh đề cần đối chiếu thêm bằng tư liệu báo chí/nhật ký chuyến đi hoặc lưu trữ của tờ báo/đảng phái để xác nhận bối cảnh cuộc gặp và nội dung trao đổi.",
     "influence": "Báo chí cách mạng, tuyên truyền phản đế quốc",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (EN) – Paul Vaillant-Couturier: https://en.wikipedia.org/wiki/Paul_Vaillant-Couturier"
+    ],
     "stories": [
-      "Ủng hộ Nguyễn Ái Quốc đăng các bài báo tố cáo tội ác thực dân"
+      "Nếu cần viết chi tiết về bài báo/bài viết cụ thể liên quan tới Việt Nam, nên trích đúng văn bản gốc (số báo, ngày, trang)"
     ],
     "image": "/images/international/paul-vaillant-couturier.jpg"
   },
@@ -89,20 +111,25 @@
     "name": "Charlie Chaplin",
     "nameEn": "Charlie Chaplin",
     "category": "B",
-    "relationship": "Nghệ sĩ, trí thức cùng hệ giá trị nhân văn",
-    "nationality": "Anh/Mỹ",
+    "relationship": "Nghệ sĩ nhân văn, có lời kể về gặp gỡ",
+    "nationality": "Anh / Mỹ",
     "birthYear": 1889,
     "deathYear": 1977,
     "profession": "Diễn viên, đạo diễn điện ảnh",
-    "meetingYear": null,
-    "meetingPlace": null,
-    "meetingContext": "Ảnh hưởng văn hóa - nghệ thuật, cùng tinh thần nhân văn",
-    "shortBio": "Vua hề điện ảnh thế giới, nghệ sĩ vĩ đại phê phán xã hội tư bản",
-    "fullBio": "Charlie Chaplin là một trong những nghệ sĩ điện ảnh vĩ đại nhất mọi thời đại. Các tác phẩm của ông thể hiện tinh thần nhân văn sâu sắc, phê phán bất công xã hội. Hồ Chí Minh rất yêu thích nghệ thuật của Chaplin.",
-    "influence": "Nghệ thuật nhân văn, tinh thần phê phán xã hội",
+    "meetingYear": 1911,
+    "meetingYearText": "1911–1915 (theo lời kể)",
+    "meetingPlace": "Trên tàu biển (chưa xác định)",
+    "meetingContext": "Lời kể của Geraldine Chaplin, báo Granma (Cuba)",
+    "shortBio": "Vua hề điện ảnh, nghệ sĩ nhân văn thế kỷ XX",
+    "fullBio": "Theo lời kể của Geraldine Chaplin – con gái Charlie Chaplin – đăng trên báo Granma (Cuba), cha bà từng gặp Hồ Chí Minh ít nhất hai lần. Lần đầu là khi Nguyễn Ái Quốc còn làm phụ bếp trên tàu biển của Pháp. Đây là nguồn hồi ký cá nhân, chưa có tài liệu lưu trữ độc lập kiểm chứng, nhưng được nhiều nhà nghiên cứu coi là tư liệu tham khảo có giá trị.",
+    "influence": "Tinh thần nhân văn, bảo vệ người lao động nghèo",
+    "verification": "reported",
+    "sources": [
+      "Bài viết/ghi chép theo lời kể của Geraldine Chaplin đăng trên báo Granma (Cuba) (cần đối chiếu thêm với nguồn lưu trữ độc lập)"
+    ],
     "stories": [
-      "Bác Hồ từng xem và rất yêu thích các bộ phim của Chaplin",
-      "Cùng tinh thần phê phán chế độ bóc lột, bảo vệ người nghèo khổ"
+      "Chaplin từng xuống bếp tàu ăn cơm cùng những người lao động",
+      "Nhiều năm sau, khi gặp lại, Chaplin tỏ ra rất kính trọng Hồ Chí Minh"
     ],
     "image": "/images/international/charlie-chaplin.jpg"
   },
@@ -111,20 +138,25 @@
     "name": "Pablo Picasso",
     "nameEn": "Pablo Picasso",
     "category": "B",
-    "relationship": "Nghệ sĩ, trí thức cùng hệ giá trị hòa bình",
-    "nationality": "Tây Ban Nha/Pháp",
+    "relationship": "Nghệ sĩ, trí thức tiến bộ cùng môi trường hoạt động",
+    "nationality": "Tây Ban Nha / Pháp",
     "birthYear": 1881,
     "deathYear": 1973,
     "profession": "Họa sĩ, nhà điêu khắc",
-    "meetingYear": null,
-    "meetingPlace": null,
-    "meetingContext": "Ủng hộ hòa bình, phản đối chiến tranh",
-    "shortBio": "Danh họa thế giới, thành viên Đảng Cộng sản Pháp, vẽ tranh ủng hộ Việt Nam",
-    "fullBio": "Pablo Picasso là danh họa vĩ đại thế kỷ XX. Ông là thành viên Đảng Cộng sản Pháp, luôn đấu tranh cho hòa bình. Picasso đã vẽ nhiều tác phẩm ủng hộ cuộc kháng chiến của nhân dân Việt Nam.",
-    "influence": "Nghệ thuật vì hòa bình, ủng hộ phong trào giải phóng dân tộc",
+    "meetingYear": 1919,
+    "meetingYearText": "khoảng 1919–1921 (giả định học thuật)",
+    "meetingPlace": "Paris, Pháp",
+    "meetingContext": "Sinh hoạt trong giới trí thức, nghệ sĩ cánh tả và nhóm Clarté",
+    "shortBio": "Danh họa thế giới, đảng viên Đảng Cộng sản Pháp, nghệ sĩ đấu tranh cho hòa bình",
+    "fullBio": "Pablo Picasso là một trong những nghệ sĩ vĩ đại nhất thế kỷ XX. Trong giai đoạn sau Thế chiến I, ông hoạt động tích cực trong giới nghệ sĩ – trí thức cánh tả tại Paris. Một số công trình nghiên cứu và hồi ký cho rằng Nguyễn Ái Quốc, khi sinh hoạt trong nhóm Clarté và các không gian trí thức tiến bộ, đã có dịp gặp Picasso. Tuy nhiên, hiện chưa có tài liệu lưu trữ chính thức xác nhận cụ thể thời gian và hoàn cảnh. Năm 1946, khi Hồ Chí Minh sang Pháp dự Hội nghị Fontainebleau, có ghi nhận Người đã tìm gặp lại những bạn bè trí thức cũ tại Paris, trong đó có Picasso.",
+    "influence": "Củng cố niềm tin vào vai trò của nghệ thuật trong đấu tranh vì hòa bình và con người",
+    "verification": "inferred",
+    "sources": [
+      "Một số ghi chép/hồi ký và diễn giải học thuật về môi trường trí thức cánh tả tại Paris (cần bổ sung dẫn nguồn cụ thể nếu dùng cho nghiên cứu)"
+    ],
     "stories": [
-      "Picasso đã vẽ tranh chân dung Hồ Chí Minh năm 1969",
-      "Tuyên bố ủng hộ nhân dân Việt Nam chống đế quốc Mỹ"
+      "Picasso là biểu tượng của nghệ sĩ dấn thân chính trị, điều mà Hồ Chí Minh rất trân trọng",
+      "Cả hai đều coi văn hóa và nghệ thuật là một mặt trận đấu tranh chống áp bức"
     ],
     "image": "/images/international/pablo-picasso.jpg"
   },
@@ -142,10 +174,15 @@
     "meetingPlace": null,
     "meetingContext": "Ảnh hưởng văn học và tư tưởng nhân đạo",
     "shortBio": "Nhà văn đoạt giải Nobel, chủ nghĩa nhân đạo và hòa bình",
-    "fullBio": "Romain Rolland là nhà văn Pháp đoạt giải Nobel Văn học 1915. Tác phẩm của ông thấm đượm tinh thần nhân đạo, hòa bình. Hồ Chí Minh đã đọc và chịu ảnh hưởng từ các tác phẩm của Rolland.",
+    "fullBio": "Romain Rolland (1866–1944) là nhà văn Pháp đoạt giải Nobel Văn học (1915), nổi tiếng với các tác phẩm thấm đượm tinh thần nhân đạo, phản đối chiến tranh và cổ vũ lý tưởng hòa bình. Ông có ảnh hưởng rộng trong giới trí thức tiến bộ châu Âu đầu thế kỷ XX, đặc biệt trong bối cảnh Thế chiến I và các tranh luận về chủ nghĩa quân phiệt.\n\nKhi nghiên cứu lịch sử tư tưởng và môi trường trí thức tại Pháp đầu thế kỷ XX (nơi Nguyễn Ái Quốc từng hoạt động), Rolland thường được nhắc như một biểu tượng của chủ nghĩa nhân văn và phản chiến. Việc khẳng định Hồ Chí Minh “đọc” hay “chịu ảnh hưởng trực tiếp” từ từng tác phẩm cụ thể cần đi kèm trích dẫn tư liệu (hồi ký, bài viết, thư từ) nếu dùng cho mục đích học thuật.",
     "influence": "Tư tưởng nhân đạo, tinh thần hòa bình",
+    "verification": "unknown",
+    "sources": [
+      "Wikipedia (EN) – Romain Rolland: https://en.wikipedia.org/wiki/Romain_Rolland"
+    ],
     "stories": [
-      "Bác Hồ yêu thích tác phẩm 'Jean-Christophe' của Romain Rolland"
+      "Rolland thường được nhắc như biểu tượng phản chiến và nhân đạo trong đời sống trí thức châu Âu đầu thế kỷ XX",
+      "Tác phẩm của ông là một lát cắt hữu ích để hiểu dòng chảy tư tưởng “hòa bình – nhân phẩm” thời kỳ Nguyễn Ái Quốc hoạt động tại Pháp"
     ],
     "image": "/images/international/romain-rolland.jpg"
   },
@@ -163,10 +200,15 @@
     "meetingPlace": null,
     "meetingContext": "Tác phẩm phản chiến, tư tưởng tiến bộ",
     "shortBio": "Nhà văn phản chiến nổi tiếng với tác phẩm 'Lửa'",
-    "fullBio": "Henri Barbusse là nhà văn Pháp nổi tiếng với tiểu thuyết phản chiến 'Lửa' (Le Feu). Ông là thành viên Đảng Cộng sản Pháp, luôn đấu tranh chống chiến tranh và đế quốc.",
+    "fullBio": "Henri Barbusse (1873–1935) là nhà văn và nhà báo Pháp, nổi tiếng với tiểu thuyết phản chiến Le Feu (tên tiếng Việt thường dịch là “Lửa”), phản ánh trải nghiệm chiến hào và tâm thế phản đối chiến tranh trong Thế chiến I. Ông cũng là một gương mặt nổi bật trong đời sống trí thức cánh tả ở Pháp trong giai đoạn giữa hai cuộc thế chiến.\n\nTrong các nghiên cứu về báo chí và phong trào phản chiến – phản đế ở Pháp đầu thế kỷ XX, Barbusse thường được đặt cạnh những nhân vật và tổ chức có ảnh hưởng tới môi trường hoạt động của Nguyễn Ái Quốc tại Paris. Tuy vậy, việc liên hệ trực tiếp tác phẩm của Barbusse với các phát biểu/cách diễn đạt cụ thể của Hồ Chí Minh cần có trích dẫn rõ ràng từ tư liệu gốc.",
     "influence": "Văn học phản chiến, tư tưởng chống đế quốc",
+    "verification": "unknown",
+    "sources": [
+      "Wikipedia (EN) – Henri Barbusse: https://en.wikipedia.org/wiki/Henri_Barbusse"
+    ],
     "stories": [
-      "Tác phẩm 'Lửa' của Barbusse đã ảnh hưởng đến tư tưởng phản chiến của Hồ Chí Minh"
+      "Le Feu là tác phẩm tiêu biểu của dòng văn học phản chiến ở Pháp sau Thế chiến I",
+      "Barbusse là một điểm tham chiếu quan trọng khi học về mối liên hệ giữa văn học – báo chí và các phong trào chính trị tiến bộ ở châu Âu"
     ],
     "image": "/images/international/henri-barbusse.jpg"
   },
@@ -184,11 +226,15 @@
     "meetingPlace": null,
     "meetingContext": "Vẽ tranh ủng hộ Việt Nam, bạn của nhân dân Việt Nam",
     "shortBio": "Họa sĩ biếm họa Pháp, vẽ nhiều tranh ủng hộ Việt Nam",
-    "fullBio": "Jean Effel là họa sĩ biếm họa người Pháp, nổi tiếng with loạt tranh 'La Création du Monde' (Tạo dựng thế giới). Ông là người bạn của Việt Nam, đã vẽ nhiều tranh ủng hộ cuộc kháng chiến chống Mỹ.",
+    "fullBio": "Jean Effel (1908–1982) là họa sĩ biếm họa người Pháp (tên thật François Lejeune), nổi tiếng với loạt tranh La Création du Monde. Trong thế kỷ XX, ông được biết đến như một nghệ sĩ có quan điểm tiến bộ, tham gia đời sống xã hội – chính trị thông qua tranh biếm họa và các hoạt động vì hòa bình.\n\nTrong bối cảnh phong trào đoàn kết quốc tế với Việt Nam, Jean Effel thường được nhắc như một trong những nghệ sĩ ủng hộ Việt Nam bằng hình thức nghệ thuật và tiếng nói công luận. Khi sử dụng dữ liệu cho nghiên cứu, các chi tiết cụ thể (ví dụ “đã tặng tranh chân dung Hồ Chí Minh” vào thời điểm nào, bằng kênh nào) cần được gắn với nguồn trích dẫn rõ ràng.",
     "influence": "Nghệ thuật ủng hộ Việt Nam, tình hữu nghị quốc tế",
+    "verification": "unknown",
+    "sources": [
+      "Wikipedia (EN) – Jean Effel: https://en.wikipedia.org/wiki/Jean_Effel"
+    ],
     "stories": [
-      "Jean Effel đã vẽ tranh chân dung Hồ Chí Minh và tặng Bác",
-      "Nhiều lần lên tiếng ủng hộ quyền độc lập của Việt Nam"
+      "Jean Effel là ví dụ điển hình về vai trò của nghệ sĩ – trí thức trong các phong trào vì hòa bình",
+      "Những câu chuyện về hoạt động ủng hộ Việt Nam của ông nên được trình bày kèm nguồn (báo chí, lưu trữ triển lãm, hồi ký) để bảo đảm độ chính xác"
     ],
     "image": "/images/international/jean-effel.jpg"
   },
@@ -203,14 +249,19 @@
     "deathYear": 2012,
     "profession": "Anh hùng kháng chiến chống Đức Quốc xã",
     "meetingYear": 1946,
-    "meetingPlace": "Việt Nam/Pháp",
-    "meetingContext": "Đàm phán Việt - Pháp, ủng hộ độc lập Việt Nam",
+    "meetingYearText": "1946 (gắn với bối cảnh Hồ Chí Minh ở Pháp; cần đối chiếu tư liệu để xác định chính xác cuộc gặp và vai trò của Aubrac)",
+    "meetingPlace": "Paris, Pháp",
+    "meetingContext": "Bối cảnh đàm phán Việt - Pháp và các tiếp xúc tại Pháp",
     "shortBio": "Anh hùng kháng chiến Pháp, người bạn trung thành của Việt Nam",
-    "fullBio": "Raymond Aubrac là anh hùng kháng chiến chống Đức Quốc xã của Pháp. Ông đã gặp Hồ Chí Minh trong các cuộc đàm phán, trở thành người bạn trung thành của Việt Nam, luôn ủng hộ quyền độc lập của dân tộc Việt Nam.",
+    "fullBio": "Raymond Aubrac (1914–2012) là một nhân vật nổi bật của Kháng chiến Pháp chống Đức Quốc xã trong Thế chiến II. Sau chiến tranh, ông tham gia đời sống công vụ và trí thức ở Pháp, và được nhắc đến trong một số tư liệu như một người quan tâm tới vấn đề Việt Nam trong bối cảnh hậu thuộc địa.\n\nVề mối liên hệ với Hồ Chí Minh, nhiều nguồn phổ thông ghi nhận Aubrac có tiếp xúc với Hồ Chí Minh trong thời gian Người ở Pháp năm 1946. Để phục vụ học tập và nghiên cứu, nên xác định rõ: đó là cuộc gặp nào, diễn ra ở đâu, trong hoàn cảnh ngoại giao – chính trị nào, và dựa trên nguồn nào (ảnh tư liệu, hồi ký, tiểu sử có trích dẫn).",
     "influence": "Tình hữu nghị Pháp - Việt, tinh thần công lý",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (EN) – Raymond Aubrac: https://en.wikipedia.org/wiki/Raymond_Aubrac",
+      "Wikipedia (EN) – Ho Chi Minh: https://en.wikipedia.org/wiki/Ho_Chi_Minh"
+    ],
     "stories": [
-      "Aubrac đã gặp Bác Hồ nhiều lần và luôn khâm phục Người",
-      "Suốt đời ủng hộ nhân dân Việt Nam"
+      "Khi viết về các cuộc gặp năm 1946, ưu tiên dẫn ảnh tư liệu hoặc hồi ký/biên niên ngoại giao có đối chiếu"
     ],
     "image": "/images/international/raymond-aubrac.jpg"
   },
@@ -228,11 +279,15 @@
     "meetingPlace": null,
     "meetingContext": "Qua 'Sơ thảo lần thứ nhất những luận cương về vấn đề dân tộc và vấn đề thuộc địa'",
     "shortBio": "Người sáng lập Nhà nước Xô viết và Quốc tế Cộng sản",
-    "fullBio": "V.I. Lênin là lãnh tụ vĩ đại của giai cấp công nhân toàn thế giới. Dù chưa kịp gặp trực tiếp, nhưng tư tưởng của Lênin về vấn đề dân tộc và thuộc địa đã mở ra con đường cứu nước cho Nguyễn Ái Quốc.",
+    "fullBio": "Vladimir Ilyich Lenin (1870–1924) là nhà lý luận và lãnh tụ cách mạng Nga, gắn với Cách mạng Tháng Mười và việc hình thành nhà nước Xô viết. Trong lịch sử phong trào cộng sản quốc tế, Lenin có ảnh hưởng sâu rộng qua các văn bản lý luận và đường lối về quan hệ giữa cách mạng vô sản ở chính quốc và phong trào giải phóng ở thuộc địa.\n\nTrong nhiều tư liệu và diễn ngôn lịch sử ở Việt Nam, “Luận cương về vấn đề dân tộc và thuộc địa” (1920) thường được nêu như một mốc quan trọng khiến Nguyễn Ái Quốc tìm thấy một hệ khung lý luận để gắn độc lập dân tộc với phong trào cách mạng thế giới. Các chi tiết mang tính hồi ký (ví dụ phản ứng cảm xúc khi đọc luận cương) nên được gắn với nguồn trích cụ thể nếu sử dụng trong bài nghiên cứu.",
     "influence": "Quyết định bước ngoặt sang con đường cách mạng vô sản",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (EN) – Vladimir Lenin: https://en.wikipedia.org/wiki/Vladimir_Lenin",
+      "Wikipedia (EN) – Ho Chi Minh: https://en.wikipedia.org/wiki/Ho_Chi_Minh"
+    ],
     "stories": [
-      "Nguyễn Ái Quốc cảm động đến phát khóc khi đọc luận cương của Lênin trong căn buồng nhỏ ở Paris",
-      "Người khẳng định: 'Muốn cứu nước và giải phóng dân tộc không có con đường nào khác con đường cách mạng vô sản'"
+      "Nhiều tài liệu Việt Nam thường nhấn mạnh vai trò của “Luận cương về vấn đề dân tộc và thuộc địa” trong việc định hình con đường cách mạng của Nguyễn Ái Quốc (nên kèm nguồn trích cụ thể khi dùng học thuật)"
     ],
     "image": "/images/international/vladimir-lenin.jpg"
   },
@@ -250,10 +305,15 @@
     "meetingPlace": "Moscow, Liên Xô",
     "meetingContext": "Đại hội V Quốc tế Cộng sản",
     "shortBio": "Lãnh đạo cao cấp của Quốc tế Cộng sản, ủng hộ vấn đề thuộc địa",
-    "fullBio": "Manuilsky là người đã phát hiện ra tài năng của Nguyễn Ái Quốc và tạo điều kiện để Người phát biểu về vấn đề thuộc địa tại các diễn đàn quốc tế lớn.",
+    "fullBio": "Dmitry Manuilsky (1883–1959) là một chính khách Liên Xô gắn với các hoạt động của Quốc tế Cộng sản trong giai đoạn giữa hai cuộc thế chiến. Trong nhiều tài liệu về lịch sử phong trào cộng sản quốc tế, ông được nhắc đến trong bối cảnh các diễn đàn, cơ chế và mạng lưới đã giúp đưa “vấn đề thuộc địa” trở thành một chủ đề được thảo luận ở tầm quốc tế.\n\nVới dữ liệu phục vụ học tập, có thể ghi nhận rằng giai đoạn Nguyễn Ái Quốc hoạt động tại Liên Xô và tham gia các diễn đàn của Quốc tế Cộng sản đã góp phần nâng vị thế của vấn đề Đông Dương. Tuy nhiên, những khẳng định dạng “ai là người phát hiện tài năng” hay “ai trực tiếp tạo điều kiện” cần được gắn với nguồn trích dẫn cụ thể.",
     "influence": "Nâng cao vị thế của vấn đề Việt Nam trên trường quốc tế",
+    "verification": "unknown",
+    "sources": [
+      "Wikipedia (EN) – Dmitry Manuilsky: https://en.wikipedia.org/wiki/Dmitry_Manuilsky"
+    ],
     "stories": [
-      "Khuyến khích Nguyễn Ái Quốc viết bài cho tạp chí 'Thư tín quốc tế' của Quốc tế Cộng sản"
+      "Bối cảnh Quốc tế Cộng sản thập niên 1920: diễn đàn đặt vấn đề thuộc địa vào chương trình thảo luận quốc tế",
+      "Các chi tiết về quan hệ công tác cụ thể giữa Nguyễn Ái Quốc và từng lãnh đạo Comintern cần nguồn trích dẫn khi sử dụng cho nghiên cứu"
     ],
     "image": "/images/international/dmitry-manuilsky.jpg"
   },
@@ -271,10 +331,15 @@
     "meetingPlace": null,
     "meetingContext": "Qua các tác phẩm văn học kinh điển",
     "shortBio": "Đại văn hào Nga, tác giả 'Chiến tranh và Hòa bình'",
-    "fullBio": "Lev Tolstoy không chỉ ảnh hưởng đến Hồ Chí Minh qua văn học mà còn qua tư tưởng yêu chuộng hòa bình và lòng trắc ẩn đối với nhân dân lao động.",
+    "fullBio": "Lev (Leo) Tolstoy (1828–1910) là đại văn hào Nga, tác giả của War and Peace (Chiến tranh và Hòa bình) và Anna Karenina. Ông cũng được biết đến như một nhà tư tưởng đạo đức – tôn giáo, có ảnh hưởng lớn tới các thảo luận về bạo lực, chiến tranh, lối sống giản dị và trách nhiệm đạo đức của cá nhân.\n\nTrong học tập và nghiên cứu về các nguồn ảnh hưởng tư tưởng đầu thế kỷ XX, Tolstoy thường được nhắc như một cột mốc của chủ nghĩa nhân văn và phản chiến, có sức lan tỏa vượt khỏi phạm vi văn chương. Nếu muốn liên hệ trực tiếp tới Hồ Chí Minh (đọc tác phẩm nào, trích dẫn nào, hoàn cảnh nào) thì nên đi kèm trích dẫn từ tư liệu gốc để bảo đảm tính chuẩn xác.",
     "influence": "Hình thành thế giới quan nhân văn, lòng yêu thương con người",
+    "verification": "unknown",
+    "sources": [
+      "Wikipedia (EN) – Leo Tolstoy: https://en.wikipedia.org/wiki/Leo_Tolstoy"
+    ],
     "stories": [
-      "Bác Hồ thường trích dẫn tư tưởng của Tolstoy về đạo đức và sự giản dị trong lối sống"
+      "Tolstoy là điểm khởi đầu tốt để học về văn học hiện thực Nga và tư tưởng đạo đức – phản chiến",
+      "Các liên hệ trực tiếp tới Hồ Chí Minh nên kèm nguồn trích dẫn (hồi ký, bài viết, tuyển tập)"
     ],
     "image": "/images/international/leo-tolstoy.jpg"
   },
@@ -288,14 +353,20 @@
     "birthYear": 1868,
     "deathYear": 1963,
     "profession": "Nhà xã hội học, nhà hoạt động dân quyền",
-    "meetingYear": 1920,
+    "meetingYear": null,
+    "meetingYearText": "1919–1921 (cùng bối cảnh hoạt động tại Paris; chưa có chứng cứ chắc chắn về cuộc gặp trực tiếp)",
     "meetingPlace": "Paris, Pháp",
-    "meetingContext": "Đại hội Liên Phi",
+    "meetingContext": "Phong trào chống phân biệt chủng tộc và thảo luận về quyền của các dân tộc thuộc địa; cần nguồn kiểm chứng nếu khẳng định cuộc gặp trực tiếp",
     "shortBio": "Lãnh đạo phong trào đấu tranh của người da đen tại Mỹ",
-    "fullBio": "Du Bois và Nguyễn Ái Quốc có sự đồng cảm sâu sắc về nỗi đau của các dân tộc bị áp bức. Hai người đã gặp nhau tại Paris và cùng thảo luận về quyền của người da màu.",
+    "fullBio": "W. E. B. Du Bois (1868–1963) là học giả, nhà xã hội học và nhà hoạt động dân quyền người Mỹ, một trong những gương mặt tiêu biểu của phong trào Pan-Africanism và cuộc đấu tranh chống phân biệt chủng tộc ở Hoa Kỳ. Ông tham gia đời sống chính trị – trí thức quốc tế, đặt vấn đề về quyền con người và quyền tự quyết của các dân tộc bị áp bức trong trật tự thế giới hiện đại.\n\nNguyễn Ái Quốc hoạt động tại Paris trong giai đoạn sau Thế chiến I, khi các tranh luận về thuộc địa, quyền dân tộc tự quyết và bình đẳng chủng tộc diễn ra sôi nổi. Có thể nói hai ông có sự “giao thoa chủ đề” trong tư tưởng và mối quan tâm, nhưng hiện không nên khẳng định chắc chắn rằng họ đã gặp trực tiếp nếu chưa có tư liệu đối chiếu.\n\nTrong bối cảnh học tập, Du Bois là nhân vật quan trọng để nghiên cứu sự hình thành mạng lưới tư tưởng chống phân biệt chủng tộc và chống thực dân trên bình diện quốc tế.",
     "influence": "Tư tưởng đoàn kết các dân tộc bị áp bức trên toàn thế giới",
+    "verification": "unknown",
+    "sources": [
+      "Wikipedia (EN) – W. E. B. Du Bois: https://en.wikipedia.org/wiki/W._E._B._Du_Bois"
+    ],
     "stories": [
-      "Cuộc gặp gỡ giữa hai trí thức lớn đại diện cho hai châu lục đang đòi quyền sống"
+      "Du Bois là điểm vào quan trọng khi học về phong trào dân quyền và Pan-Africanism",
+      "Khi viết về “gặp gỡ” hay trao đổi trực tiếp, cần có nguồn tư liệu gốc để xác nhận"
     ],
     "image": "/images/international/web-dubois.jpg"
   },
@@ -313,11 +384,15 @@
     "meetingPlace": null,
     "meetingContext": "Mối quan hệ đồng chí đặc biệt giữa hai dân tộc",
     "shortBio": "Lãnh tụ vĩ đại của nhân dân Cuba, người bạn lớn của Việt Nam",
-    "fullBio": "Fidel Castro luôn dành tình cảm đặc biệt cho Hồ Chí Minh và Việt Nam. Ông là người khởi xướng phong trào đoàn kết với Việt Nam tại Mỹ Latinh với câu nói nổi tiếng: 'Vì Việt Nam, Cuba sẵn sàng hiến dâng cả máu của mình'.",
+    "fullBio": "Fidel Castro (1926–2016) là lãnh đạo cách mạng Cuba và là nhân vật trung tâm của chính trị Cuba nửa sau thế kỷ XX. Trong lịch sử quan hệ quốc tế thời Chiến tranh Lạnh, ông gắn với chủ đề cách mạng, đối đầu Mỹ–Cuba, và phong trào đoàn kết với các nước/ phong trào chống thực dân trên thế giới.\n\nTrong ký ức chính trị và báo chí ở Việt Nam, Fidel Castro thường được nhắc như một biểu tượng của tình đoàn kết Cuba–Việt Nam. Một số câu nói nổi tiếng về “Vì Việt Nam…” được trích dẫn rất rộng rãi, nhưng khi dùng cho mục đích học thuật nên tìm bản gốc (bài phát biểu, văn bản, ghi chép chính thức) để tránh sai khác câu chữ.",
     "influence": "Thắt chặt tình đoàn kết quốc tế, ủng hộ kháng chiến chống Mỹ",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (EN) – Fidel Castro: https://en.wikipedia.org/wiki/Fidel_Castro"
+    ],
     "stories": [
       "Fidel Castro là nguyên thủ nước ngoài đầu tiên và duy nhất thăm vùng giải phóng Quảng Trị năm 1973",
-      "Luôn coi Hồ Chí Minh là người thầy, người đồng chí mẫu mực"
+      "Nhiều câu nói/điển tích về tình hữu nghị Cuba–Việt Nam cần được đối chiếu với văn bản phát biểu gốc nếu trích dẫn"
     ],
     "image": "/images/international/fidel-castro.jpg"
   },
@@ -335,11 +410,14 @@
     "meetingPlace": "Hồng Kông",
     "meetingContext": "Vụ án Tống Văn Sơ (Nguyễn Ái Quốc) tại Hồng Kông",
     "shortBio": "Luật sư người Anh đã cứu Nguyễn Ái Quốc khỏi nhà tù thực dân",
-    "fullBio": "Luật sư Loseby đã bào chữa miễn phí cho Nguyễn Ái Quốc trong vụ án tại Hồng Kông (1931-1933). Với sự chính trực và mưu trí, ông đã giúp Người thoát khỏi việc bị dẫn độ về Việt Nam cho thực dân Pháp.",
+    "fullBio": "Francis Henry (Frank) Loseby (1883–1967) là luật sư người Anh tại Hồng Kông. Theo các nguồn tiểu sử phổ thông về Hồ Chí Minh, ông là người bào chữa cho Hồ Chí Minh (bí danh Tống Văn Sơ) trong vụ án tại Hồng Kông giai đoạn 1931–1933, góp phần quan trọng giúp Hồ Chí Minh tránh bị dẫn độ theo yêu cầu của chính quyền thuộc địa Pháp.\n\nVới mục đích học tập – nghiên cứu, đây là một trường hợp điển hình để tìm hiểu “mặt trận pháp lý” và những yếu tố quốc tế trong việc bảo vệ các nhà hoạt động chống thực dân. Nếu triển khai thành bài nghiên cứu sâu, nên bổ sung nguồn tư liệu pháp lý/ hồ sơ vụ án (nếu tiếp cận được) hoặc công trình nghiên cứu chuyên khảo về vụ việc.",
     "influence": "Bảo vệ an toàn cho lãnh tụ trong giai đoạn hiểm nghèo",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (EN) – Ho Chi Minh (phần Hong Kong và vụ án 1931–1933): https://en.wikipedia.org/wiki/Ho_Chi_Minh"
+    ],
     "stories": [
-      "Gia đình luật sư Loseby đã coi Bác Hồ như người thân",
-      "Năm 1960, Bác Hồ đã mời gia đình luật sư Loseby sang thăm Hà Nội"
+      "Các chi tiết về việc gia đình Loseby thăm Hà Nội hoặc thư từ qua lại cần được gắn với nguồn tư liệu (hồi ký, báo chí, lưu trữ) nếu đưa vào bài nghiên cứu"
     ],
     "image": "/images/international/loseby.jpg"
   },
@@ -357,11 +435,15 @@
     "meetingPlace": "Quảng Châu, Trung Quốc",
     "meetingContext": "Hoạt động cách mạng tại Quảng Châu",
     "shortBio": "Vị Thủ tướng lỗi lạc, người bạn chiến đấu lâu năm của Hồ Chí Minh",
-    "fullBio": "Chu Ân Lai và Hồ Chí Minh có tình bạn sâu sắc kéo dài hơn nửa thế kỷ. Hai người đã sát cánh bên nhau từ những ngày ở Paris cho đến khi trực tiếp lãnh đạo hai quốc gia.",
+    "fullBio": "Chu Ân Lai (Zhou Enlai, 1898–1976) là một trong những nhà lãnh đạo chủ chốt của Cộng hòa Nhân dân Trung Hoa, giữ cương vị Thủ tướng trong thời gian dài. Ông là nhân vật quan trọng trong ngoại giao Trung Quốc thế kỷ XX, gắn với nhiều bước ngoặt của khu vực châu Á.\n\nTrong nhiều tài liệu lịch sử phổ thông ở Việt Nam, Chu Ân Lai được nhắc như một người có quan hệ công tác và hữu nghị với Hồ Chí Minh, đặc biệt trong bối cảnh cách mạng Việt Nam giai đoạn kháng chiến và xây dựng hậu phương. Các mô tả cụ thể về “gặp từ Paris” hay chuỗi gặp gỡ kéo dài nhiều thập kỷ nên được trình bày thận trọng và kèm nguồn, vì từng giai đoạn có bối cảnh lịch sử – tư liệu khác nhau.\n\nVới mục tiêu học tập, có thể ghi nhận vai trò của Chu Ân Lai trong ngoại giao khu vực, cũng như bối cảnh hợp tác Việt–Trung trong một số thời kỳ lịch sử.",
     "influence": "Hợp tác chiến lược giữa cách mạng Việt Nam và Trung Quốc",
+    "verification": "unknown",
+    "sources": [
+      "Wikipedia (EN) – Zhou Enlai: https://en.wikipedia.org/wiki/Zhou_Enlai"
+    ],
     "stories": [
-      "Câu nói nổi tiếng mô tả quan hệ Việt - Trung: 'Vừa là đồng chí, vừa là anh em'",
-      "Chu Ân Lai trực tiếp chỉ đạo hỗ trợ hậu cần cho chiến dịch Điện Biên Phủ"
+      "Học về Chu Ân Lai thường gắn với chủ đề ngoại giao châu Á và quan hệ quốc tế thời Chiến tranh Lạnh",
+      "Các chi tiết “câu nói nổi tiếng” và “chỉ đạo trực tiếp” nên được đối chiếu nguồn tư liệu khi trích dẫn"
     ],
     "image": "/images/international/zhou-enlai.jpg"
   },
@@ -375,15 +457,21 @@
     "birthYear": 1889,
     "deathYear": 1964,
     "profession": "Thủ tướng Ấn Độ",
-    "meetingYear": 1954,
-    "meetingPlace": "Hà Nội, Việt Nam",
-    "meetingContext": "Chuyến thăm chính thức sau hòa bình lập lại ở miền Bắc",
+    "meetingYear": 1958,
+    "meetingYearText": "1958 (Hồ Chí Minh thăm Ấn Độ; các nguồn tiểu sử phổ thông ghi nhận gặp Thủ tướng Nehru)",
+    "meetingPlace": "New Delhi, Ấn Độ",
+    "meetingContext": "Chuyến thăm Ấn Độ của Hồ Chí Minh (1958)",
     "shortBio": "Lãnh tụ phong trào độc lập Ấn Độ, nhà lập quốc vĩ đại",
-    "fullBio": "Nehru và Hồ Chí Minh chia sẻ chung lý tưởng về một châu Á độc lập và tự cường. Hai ông đã cùng nhau đặt nền móng cho mối quan hệ hữu nghị Việt Nam - Ấn Độ.",
+    "fullBio": "Jawaharlal Nehru (1889–1964) là lãnh tụ phong trào độc lập Ấn Độ và là Thủ tướng đầu tiên của Ấn Độ. Ông là một trong những gương mặt tiêu biểu của tư tưởng châu Á hậu thuộc địa, nhấn mạnh độc lập dân tộc, phát triển và vai trò chủ động của các nước mới giành độc lập trong quan hệ quốc tế.\n\nTrong lịch sử quan hệ quốc tế thời kỳ sau Thế chiến II, Nehru thường được nhắc tới như một trong những người đặt nền tảng tư tưởng cho đường lối không liên kết và tìm kiếm hòa bình thông qua ngoại giao. Từ góc nhìn học tập, việc liên hệ ông với Việt Nam nên dựa trên các mốc ngoại giao – chuyến thăm – thư tín đã được ghi nhận rõ trong nguồn sử liệu, thay vì khẳng định một cuộc gặp cụ thể khi chưa có nguồn đối chiếu.",
     "influence": "Thúc đẩy phong trào Không liên kết, ủng hộ hòa bình tại Việt Nam",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (EN) – Jawaharlal Nehru: https://en.wikipedia.org/wiki/Jawaharlal_Nehru",
+      "Wikipedia (EN) – Ho Chi Minh (chuyến thăm Ấn Độ): https://en.wikipedia.org/wiki/Ho_Chi_Minh"
+    ],
     "stories": [
-      "Bác Hồ và Thủ tướng Nehru đã trao đổi nhiều bức thư tay thắm thiết tình bạn",
-      "Sự đón tiếp nồng hậu của nhân dân Ấn Độ dành cho Bác năm 1958"
+      "Nehru là nhân vật then chốt khi học về Ấn Độ độc lập và chính sách đối ngoại thời kỳ đầu",
+      "Nếu trình bày chi tiết về thư từ/chuyến thăm Việt–Ấn, cần bổ sung trích dẫn nguồn ngoại giao hoặc tiểu sử"
     ],
     "image": "/images/international/jawaharlal-nehru.jpg"
   },
@@ -394,15 +482,20 @@
     "category": "C",
     "relationship": "Đồng chí, người ủng hộ quốc tế",
     "nationality": "Pháp",
-    "birthYear": 1818,
+    "birthYear": 1918,
     "deathYear": 2011,
     "profession": "Nhà chính trị, nhà báo",
     "meetingYear": 1950,
     "meetingPlace": "Việt Bắc, Việt Nam",
     "meetingContext": "Băng rừng vào chiến khu thăm chính phủ kháng chiến",
-    "shortBio": "Lãnh đạo thanh niên cộng sản Pháp, người bạn của Việt Nam kháng chiến",
-    "fullBio": "Léo Figuères là người Pháp đầu tiên đến chiến khu Việt Bắc trong kháng chiến chống Pháp để gặp Hồ Chí Minh. Ông đã viết nhiều bài báo thực tế để nhân dân Pháp hiểu về cuộc kháng chiến chính nghĩa của Việt Nam.",
+    "shortBio": "Chính trị gia, nhà báo Pháp; hoạt động phản đối chiến tranh thuộc địa, ủng hộ Việt Nam",
+    "fullBio": "Léo Figuères (27/3/1918–1/8/2011) là chính trị gia và nhà báo Pháp, từng giữ vai trò quan trọng trong phong trào thanh niên cộng sản và Đảng Cộng sản Pháp. Theo các tư liệu tiểu sử, ông sang Việt Nam trong những tháng đầu năm 1950 để tìm hiểu thực tế và bày tỏ ủng hộ đối với Việt Nam Dân chủ Cộng hòa trong bối cảnh Chiến tranh Đông Dương, sau đó thực hiện các bài viết/ấn phẩm kêu gọi chấm dứt chiến tranh thuộc địa (tiêu biểu: 'Je reviens du Vietnam libre'). Khi sử dụng cho mục đích học tập và nghiên cứu, chi tiết về các cuộc gặp cụ thể (ai gặp ai, ở đâu, lúc nào) nên được đối chiếu thêm bằng nguồn lưu trữ/tiểu sử chuyên khảo.",
     "influence": "Tuyên truyền quốc tế, phản đối chiến tranh của thực dân Pháp",
+    "verification": "verified",
+    "sources": [
+      "Wikipedia (FR) – Léo Figuères: https://fr.wikipedia.org/wiki/L%C3%A9o_Figu%C3%A8res",
+      "Assemblée nationale (France) – notice biographique: http://www.assemblee-nationale.fr/histoire/biographies/IVRepublique/Figuieres-Leopold-27031918.asp"
+    ],
     "stories": [
       "Vượt qua vòng vây của quân Pháp để mang thông điệp hòa bình từ nhân dân Pháp đến với Bác Hồ"
     ],
@@ -422,11 +515,15 @@
     "meetingPlace": "Việt Bắc/Hà Nội",
     "meetingContext": "Hợp tác giữa Việt Minh và Đồng minh chống phát xít Nhật",
     "shortBio": "Chỉ huy đơn vị OSS tại miền Nam Trung Quốc và Việt Nam năm 1945",
-    "fullBio": "Archimedes Patti là người đã làm việc trực tiếp với Hồ Chí Minh trước Cách mạng Tháng Tám. Ông đã chứng kiến sự ra đời của nước Việt Nam Dân chủ Cộng hòa và hỗ trợ Việt Minh trong các hoạt động chống Nhật.",
+    "fullBio": "Archimedes L. A. Patti (1913–1998) là sĩ quan tình báo thuộc OSS (Office of Strategic Services) của Hoa Kỳ trong Thế chiến II. Ông tham gia các hoạt động liên quan tới Đông Dương trong giai đoạn 1945 và để lại các ghi chép/hồi ức về những tiếp xúc với Việt Minh và Hồ Chí Minh trong bối cảnh hợp tác chống phát xít Nhật.\n\nTrong các nguồn tiểu sử phổ thông, Patti thường được nhắc đến như một nhân chứng quốc tế về thời điểm chuyển giao lịch sử năm 1945 ở Việt Nam. Ông cũng là tác giả một cuốn hồi ký/ghi chép (Why Vietnam? Prelude to America's Albatross) liên quan đến giai đoạn này. Khi sử dụng cho học tập và nghiên cứu, các chi tiết cụ thể (ngày gặp, nội dung đối thoại, việc “đọc dự thảo Tuyên ngôn”) nên được trích dẫn trực tiếp từ nguồn gốc (hồi ký của Patti hoặc công trình nghiên cứu có đối chiếu) để bảo đảm chuẩn xác.",
     "influence": "Kết nối Việt Nam với lực lượng Đồng minh, ảnh hưởng đến ngoại giao Việt-Mỹ giai đoạn đầu",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (EN) – Archimedes Patti: https://en.wikipedia.org/wiki/Archimedes_Patti"
+    ],
     "stories": [
-      "Bác Hồ đã mời Patti đọc bản dự thảo Tuyên ngôn Độc lập trước khi công bố",
-      "Patti thừa nhận Hồ Chí Minh là một người yêu nước vĩ đại hơn là một người cộng sản giáo điều"
+      "Patti được coi là một trong các nhân chứng nước ngoài quan trọng về Việt Nam năm 1945",
+      "Khi trích dẫn lời nhận xét/đối thoại, nên lấy nguyên văn từ hồi ký hoặc nguồn nghiên cứu có đối chiếu"
     ],
     "image": "/images/international/archimedes-patti.jpg"
   },
@@ -435,20 +532,24 @@
     "name": "Pridi Banomyong",
     "nameEn": "Pridi Banomyong",
     "category": "A",
-    "relationship": "Đồng chí, lãnh đạo khu vực",
+    "relationship": "Lãnh đạo Thái Lan; ủng hộ phong trào chống thực dân (không đủ nguồn để khẳng định gặp trực tiếp)",
     "nationality": "Thái Lan",
     "birthYear": 1900,
     "deathYear": 1983,
     "profession": "Thủ tướng Thái Lan",
-    "meetingYear": 1928,
-    "meetingPlace": "Thái Lan",
-    "meetingContext": "Xây dựng cơ sở cách mạng tại Thái Lan",
+    "meetingYear": null,
+    "meetingYearText": "Không có nguồn phổ thông rõ ràng xác nhận cuộc gặp trực tiếp với Hồ Chí Minh; có ghi nhận Pridi ủng hộ phong trào độc lập Việt Nam",
+    "meetingPlace": null,
+    "meetingContext": "Hỗ trợ/ủng hộ phong trào chống thực dân trong khu vực (cần nguồn nếu nói cụ thể)",
     "shortBio": "Chính khách lỗi lạc, người sáng lập nền dân chủ Thái Lan",
-    "fullBio": "Pridi Banomyong là người bạn lớn của Hồ Chí Minh tại Đông Nam Á. Ông đã tạo điều kiện cho các hoạt động của Việt Minh tại Thái Lan và ủng hộ phong trào giải phóng dân tộc của các nước Đông Dương.",
+    "fullBio": "Pridi Banomyong (1900–1983) là luật gia và chính khách Thái Lan, giữ vai trò quan trọng trong cách mạng 1932 và từng là Thủ tướng Thái Lan (1946), đồng thời là nhân vật then chốt của phong trào Seri Thai (Free Thai Movement) trong Thế chiến II.\nMột số nguồn phổ thông ghi nhận Pridi ủng hộ phong trào độc lập của Việt Nam gắn với Hồ Chí Minh trong bối cảnh hậu Thế chiến II và các chuyển biến chống thực dân ở Đông Nam Á. Tuy nhiên, các khẳng định dạng “gặp trực tiếp năm X tại Y” hoặc “hỗ trợ vũ khí/tài chính cụ thể” cần có nguồn tư liệu chắc chắn (lưu trữ, hồi ký, biên niên ngoại giao) trước khi đưa vào dữ liệu nghiên cứu.",
     "influence": "Hỗ trợ hậu cần, căn cứ cách mạng tại Đông Nam Á",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (EN) – Pridi Banomyong: https://en.wikipedia.org/wiki/Pridi_Banomyong"
+    ],
     "stories": [
-      "Hỗ trợ vũ khí và tài chính cho chính phủ lâm thời Việt Nam sau năm 1945",
-      "Tình bạn gắn bó giữa hai nhà lãnh đạo đặt nền móng cho quan hệ Việt-Thái"
+      "Pridi là nhân vật tiêu biểu để học về chuyển biến chính trị Thái Lan (1932–1940s) và phong trào kháng Nhật ở Đông Nam Á"
     ],
     "image": "/images/international/pridi-banomyong.jpg"
   },
@@ -466,11 +567,15 @@
     "meetingPlace": "Moscow, Liên Xô",
     "meetingContext": "Đại hội Quốc tế Cộng sản",
     "shortBio": "Lãnh đạo phong trào cộng sản Đức và Đông Đức",
-    "fullBio": "Wilhelm Pieck là người bạn lâu năm của Hồ Chí Minh trong phong trào cộng sản quốc tế. Ông đã dành sự ủng hộ nhiệt thành cho Việt Nam trong công cuộc xây dựng CNXH ở miền Bắc.",
+    "fullBio": "Wilhelm Pieck (1876–1960) là chính khách Đức, tham gia phong trào công nhân và sau Thế chiến II trở thành Chủ tịch nước Cộng hòa Dân chủ Đức (Đông Đức). Ông là một trong những gương mặt tiêu biểu của phong trào cộng sản Đức thế kỷ XX.\n\nTrong dữ liệu phục vụ học tập, có thể trình bày Pieck như một đại diện của mạng lưới quan hệ quốc tế trong khối xã hội chủ nghĩa thời kỳ sau 1945. Tuy nhiên, các mô tả dạng “bạn lâu năm” hay các chi tiết cụ thể về thư từ, lần gặp, nội dung trao đổi… cần có nguồn tư liệu rõ ràng. Nếu chưa có nguồn, nên giới hạn ở thông tin tiểu sử và bối cảnh quan hệ quốc tế.",
     "influence": "Hỗ trợ giáo dục, đào tạo kỹ thuật từ Đông Đức cho Việt Nam",
+    "verification": "unknown",
+    "sources": [
+      "Wikipedia (EN) – Wilhelm Pieck: https://en.wikipedia.org/wiki/Wilhelm_Pieck"
+    ],
     "stories": [
-      "Bác Hồ và Wilhelm Pieck thường xuyên trao đổi thư từ bằng tiếng Đức",
-      "Sự đón tiếp nồng hậu của nhân dân Đức dành cho Bác năm 1957"
+      "Pieck là một điểm vào để học về sự hình thành CHDC Đức và lịch sử chính trị Đông Đức",
+      "Các câu chuyện về thư từ/đón tiếp nên kèm nguồn tư liệu (lưu trữ, hồi ký, báo chí chính thống)"
     ],
     "image": "/images/international/wilhelm-pieck.jpg"
   },
@@ -488,11 +593,15 @@
     "meetingPlace": "Hà Nội, Việt Nam",
     "meetingContext": "Chuyến thăm chính thức Việt Nam",
     "shortBio": "Lãnh tụ phong trào giải phóng dân tộc tại Châu Phi",
-    "fullBio": "Sékou Touré coi Hồ Chí Minh là nguồn cảm hứng lớn cho cuộc đấu tranh giành độc lập ở Guinea và toàn Châu Phi. Ông là nguyên thủ Châu Phi đầu tiên sang thăm Việt Nam.",
+    "fullBio": "Ahmed Sékou Touré (1922–1984) là nhà lãnh đạo Guinea, trở thành Tổng thống đầu tiên của nước này sau khi Guinea giành độc lập khỏi Pháp năm 1958. Ông là một biểu tượng của giai đoạn phi thực dân hóa ở châu Phi, gắn với chủ đề độc lập dân tộc, xây dựng nhà nước và những tranh luận gay gắt về phát triển – dân chủ trong thời kỳ Chiến tranh Lạnh.\n\nTrong các nguồn tiểu sử phổ thông, Sékou Touré được nhắc tới trong bối cảnh quan hệ quốc tế của Guinea và các cuộc tiếp xúc với nhiều quốc gia/ phong trào giải phóng. Nếu khẳng định ông là “nguyên thủ châu Phi đầu tiên sang thăm Việt Nam” hoặc trích dẫn các danh xưng (ví dụ “người anh cả”), nên đi kèm nguồn đối chiếu cụ thể (biên niên ngoại giao, báo chí chính thống, tư liệu lưu trữ) vì đây là các mệnh đề dễ bị nhầm lẫn theo cách kể truyền miệng.",
     "influence": "Lan tỏa tư tưởng Hồ Chí Minh tại lục địa đen",
+    "verification": "unknown",
+    "sources": [
+      "Wikipedia (EN) – Ahmed Sékou Touré: https://en.wikipedia.org/wiki/Ahmed_S%C3%A9kou_Tour%C3%A9"
+    ],
     "stories": [
-      "Sékou Touré gọi Hồ Chí Minh là 'người anh cả' của các dân tộc bị áp bức",
-      "Sự tương đồng trong tư tưởng chống thực dân giữa Việt Nam và Guinea"
+      "Sékou Touré là nhân vật quan trọng khi học về Guinea độc lập và tiến trình phi thực dân hóa ở châu Phi",
+      "Nếu dùng các câu chuyện/điển tích ngoại giao, nên kèm nguồn trích dẫn để bảo đảm tính chuẩn xác"
     ],
     "image": "/images/international/sekou-toure.jpg"
   },
@@ -501,7 +610,7 @@
     "name": "Pavel Vassiliev",
     "nameEn": "Pavel Vassiliev",
     "category": "B",
-    "relationship": "Trí thức, người hỗ trợ",
+    "relationship": "Thông tin cần xác minh (tên dễ trùng; chưa có nguồn tiểu sử rõ ràng)",
     "nationality": "Nga",
     "birthYear": 1900,
     "deathYear": 1970,
@@ -510,10 +619,15 @@
     "meetingPlace": "Moscow, Liên Xô",
     "meetingContext": "Giảng dạy tại Đại học Lao động Cộng sản Phương Đông",
     "shortBio": "Người giúp đỡ Nguyễn Ái Quốc học tiếng Nga và nghiên cứu lý luận",
-    "fullBio": "Pavel Vassiliev cùng nhiều trí thức Liên Xô đã hỗ trợ Nguyễn Ái Quốc trong thời gian Người học tập tại Moscow, giúp Người tiếp cận với kho tàng tri thức đồ sộ của chủ nghĩa Mác-Lênin.",
+    "fullBio": "Mục này hiện chưa có nguồn tiểu sử phổ thông đủ rõ để xác định chính xác “Pavel Vassiliev” nào được nhắc tới (tên họ Nga dễ trùng). Vì vậy, không nên khẳng định chắc chắn về nghề nghiệp, đơn vị công tác hoặc vai trò “giảng dạy/hướng dẫn trực tiếp” đối với Nguyễn Ái Quốc nếu chưa có tư liệu đối chiếu.\nNếu mục tiêu của bộ dữ liệu là học tập – nghiên cứu, khuyến nghị: (1) xác minh danh tính bằng nguồn gốc (hồi ký, danh sách giảng viên/nhân sự của cơ sở đào tạo liên quan, nghiên cứu chuyên khảo về KUTV), rồi (2) cập nhật lại tên, năm sinh–mất và vai trò cho đúng.",
     "influence": "Trang bị phương pháp luận và ngôn ngữ cho hoạt động cách mạng",
+    "verification": "unknown",
+    "sources": [
+      "Wikipedia search (EN) – Pavel Vassiliev: https://en.wikipedia.org/w/index.php?search=Pavel+Vassiliev",
+      "Wikipedia (EN) – Ho Chi Minh (bối cảnh học tập tại Moscow): https://en.wikipedia.org/wiki/Ho_Chi_Minh"
+    ],
     "stories": [
-      "Hướng dẫn Nguyễn Ái Quốc trong các bài nghiên cứu về nông dân thuộc địa"
+      "Ưu tiên xác minh danh tính trước khi mở rộng 'câu chuyện' để tránh gán nhầm nhân vật"
     ],
     "image": "/images/international/pavel-vassiliev.jpg"
   },
@@ -531,12 +645,201 @@
     "meetingPlace": "Hà Nội, Việt Nam",
     "meetingContext": "Chuyến thăm Việt Nam ngay trước khi Bác mất",
     "shortBio": "Tổng thống xã hội chủ nghĩa đầu tiên tại Chile",
-    "fullBio": "Allende đã đến thăm Việt Nam vào tháng 5/1969 và là một trong những chính khách cuối cùng gặp Hồ Chí Minh. Ông luôn bày tỏ sự ngưỡng mộ tuyệt đối trước ý chí giải phóng dân tộc của Người.",
+    "fullBio": "Salvador Allende (1908–1973) là chính khách Chile, lãnh đạo cánh tả và là Tổng thống Chile (1970–1973). Ông nổi tiếng vì nỗ lực theo đuổi một chương trình cải cách xã hội theo định hướng xã hội chủ nghĩa thông qua con đường bầu cử, trong bối cảnh căng thẳng của Chiến tranh Lạnh tại Mỹ Latinh.\n\nAllende qua đời trong cuộc đảo chính ngày 11/9/1973; nhiều nguồn phổ thông ghi nhận kết luận điều tra pháp y về nguyên nhân tử vong, đồng thời đây cũng là sự kiện lịch sử nhạy cảm thường được thảo luận trong các nghiên cứu về chính trị Chile và can thiệp quốc tế.\n\nVề quan hệ với Việt Nam và các chuyến thăm, nếu khẳng định mốc “tháng 5/1969” hoặc “một trong những người cuối cùng gặp Hồ Chí Minh”, cần bổ sung nguồn đối chiếu cụ thể (biên niên ngoại giao, báo chí chính thống, hồi ký/tiểu sử có trích dẫn). Khi chưa có nguồn, nên coi đây là thông tin cần xác minh.",
     "influence": "Xây dựng tình đoàn kết giữa phong trào cánh tả Mỹ Latinh và Việt Nam",
+    "verification": "unknown",
+    "sources": [
+      "Wikipedia (EN) – Salvador Allende: https://en.wikipedia.org/wiki/Salvador_Allende"
+    ],
     "stories": [
-      "Allende đã dành những lời ca ngợi đẹp nhất về đức tính giản dị của Bác Hồ khi trở về Chile",
-      "Biến phong trào ủng hộ Việt Nam thành một phần trong chương trình chính trị của mình"
+      "Allende là nhân vật trung tâm khi học về Chile 1970–1973 và các tranh luận về “con đường dân chủ lên chủ nghĩa xã hội”",
+      "Các chi tiết về chuyến thăm Việt Nam và phát biểu ca ngợi nên kèm nguồn trích dẫn cụ thể nếu đưa vào bài nghiên cứu"
     ],
     "image": "/images/international/salvador-allende.jpg"
+  },
+  {
+    "id": "ho-tung-mau",
+    "name": "Hồ Tùng Mậu",
+    "nameEn": "Ho Tung Mau",
+    "category": "A",
+    "nationality": "Việt Nam",
+    "birthYear": 1896,
+    "deathYear": 1951,
+    "profession": "Nhà cách mạng",
+    "relationship": "Đồng chí thân cận, cộng sự lâu năm",
+    "meetingYear": 1924,
+    "meetingPlace": "Quảng Châu, Trung Quốc",
+    "meetingContext": "Gặp gỡ và phối hợp hoạt động tại Quảng Châu trong giai đoạn xây dựng cơ sở, đào tạo cán bộ.",
+    "shortBio": "Nhà cách mạng tiền bối, đồng chí gắn bó sớm với Hồ Chí Minh",
+    "fullBio": "Hồ Tùng Mậu (1896–1951) là nhà cách mạng Việt Nam, tham gia phong trào yêu nước từ sớm và hoạt động trong nhiều giai đoạn quan trọng của lịch sử cách mạng Việt Nam nửa đầu thế kỷ XX. Theo các nguồn tiểu sử phổ thông, ông có thời gian hoạt động ở Quảng Châu (Trung Quốc) trong bối cảnh Nguyễn Ái Quốc tổ chức huấn luyện và gây dựng cơ sở, từ đó trở thành một trong những cộng sự gần gũi trong công tác tổ chức và liên lạc.\n\nĐối với mục tiêu học tập, Hồ Tùng Mậu là trường hợp tiêu biểu để nghiên cứu mạng lưới hoạt động ở hải ngoại, vai trò của công tác tổ chức – đào tạo cán bộ, và những thách thức của phong trào trong giai đoạn bị đàn áp. Khi trình bày chi tiết về từng nhiệm vụ cụ thể, nên kèm nguồn trích dẫn (tiểu sử, hồi ký, công trình nghiên cứu) để bảo đảm độ chính xác.",
+    "influence": "Xây dựng tổ chức cách mạng, gắn kết lực lượng trong và ngoài nước",
+    "verification": "verified",
+    "sources": [
+      "Wikipedia (VI) – Hồ Tùng Mậu: https://vi.wikipedia.org/wiki/H%E1%BB%93_T%C3%B9ng_M%E1%BA%ADu"
+    ],
+    "stories": [
+      "Cùng Hồ Chí Minh đào tạo cán bộ cách mạng tại Quảng Châu",
+      "Luôn giữ vững lập trường trong những giai đoạn phong trào gặp khó khăn"
+    ],
+    "image": "/images/vietnam/ho-tung-mau.jpg"
+  },
+  {
+    "id": "le-hong-phong",
+    "name": "Lê Hồng Phong",
+    "nameEn": "Le Hong Phong",
+    "category": "A",
+    "nationality": "Việt Nam",
+    "birthYear": 1902,
+    "deathYear": 1942,
+    "profession": "Nhà cách mạng, Tổng Bí thư Đảng",
+    "relationship": "Đồng chí, người kế tục tổ chức",
+    "meetingYear": 1924,
+    "meetingYearText": "1924–1925",
+    "meetingPlace": "Liên Xô / Trung Quốc",
+    "meetingContext": "Liên hệ, phối hợp công tác trong giai đoạn hoạt động và huấn luyện ở nước ngoài (Liên Xô/Trung Quốc).",
+    "shortBio": "Tổng Bí thư Đảng Cộng sản Đông Dương, nhà tổ chức xuất sắc",
+    "fullBio": "Lê Hồng Phong (1902–1942) là nhà cách mạng Việt Nam, giữ vai trò lãnh đạo quan trọng trong lịch sử Đảng Cộng sản Đông Dương. Ông hoạt động ở trong và ngoài nước, gắn với các nỗ lực củng cố tổ chức và liên hệ quốc tế trong bối cảnh phong trào gặp nhiều khó khăn và bị đàn áp.\n\nTrong các nguồn tiểu sử phổ thông, Lê Hồng Phong được nhắc như một trong những nhà tổ chức có kỷ luật và bản lĩnh, góp phần duy trì mạch liên lạc và sức sống của phong trào. Việc mô tả cụ thể mức độ “được giao nhiệm vụ” hay nội dung công tác trực tiếp với Hồ Chí Minh nên đi kèm trích dẫn nguồn để tránh suy diễn.",
+    "influence": "Củng cố tổ chức Đảng, kết nối phong trào trong nước với Quốc tế Cộng sản",
+    "verification": "verified",
+    "sources": [
+      "Wikipedia (VI) – Lê Hồng Phong: https://vi.wikipedia.org/wiki/L%C3%AA_H%E1%BB%93ng_Phong"
+    ],
+    "stories": [
+      "Lê Hồng Phong được Hồ Chí Minh đánh giá cao về bản lĩnh và tinh thần kỷ luật",
+      "Ông bị thực dân Pháp bắt giam và hy sinh trong nhà tù Côn Đảo"
+    ],
+    "image": "/images/vietnam/le-hong-phong.jpg"
+  },
+  {
+    "id": "pham-van-dong",
+    "name": "Phạm Văn Đồng",
+    "nameEn": "Pham Van Dong",
+    "category": "A",
+    "nationality": "Việt Nam",
+    "birthYear": 1906,
+    "deathYear": 2000,
+    "profession": "Nhà cách mạng, Thủ tướng",
+    "relationship": "Học trò, cộng sự thân cận",
+    "meetingYear": 1925,
+    "meetingPlace": "Quảng Châu, Trung Quốc",
+    "meetingContext": "Gặp gỡ và tham gia các lớp huấn luyện/hoạt động cách mạng ở Quảng Châu.",
+    "shortBio": "Học trò xuất sắc và cộng sự lâu năm của Hồ Chí Minh",
+    "fullBio": "Phạm Văn Đồng (1906–2000) là nhà cách mạng và chính khách Việt Nam, giữ nhiều trọng trách trong Nhà nước Việt Nam Dân chủ Cộng hòa và sau này là CHXHCN Việt Nam, trong đó nổi bật là cương vị Thủ tướng trong thời gian dài. Theo các nguồn tiểu sử phổ thông, ông gặp Nguyễn Ái Quốc tại Quảng Châu và tham gia các hoạt động/huấn luyện trong giai đoạn chuẩn bị lực lượng.\n\nĐối với mục tiêu học tập, Phạm Văn Đồng là nhân vật quan trọng để nghiên cứu lịch sử chính phủ Việt Nam thời kháng chiến – kiến quốc, cũng như ngoại giao Việt Nam qua các thời kỳ. Khi viết về các sự kiện nhạy cảm hoặc tranh luận (ví dụ một số văn kiện ngoại giao), cần dẫn nguồn cẩn trọng và trình bày theo tinh thần đối chiếu sử liệu.",
+    "influence": "Phong cách lãnh đạo, tư duy ngoại giao, đạo đức cách mạng",
+    "verification": "verified",
+    "sources": [
+      "Wikipedia (VI) – Phạm Văn Đồng: https://vi.wikipedia.org/wiki/Ph%E1%BA%A1m_V%C4%83n_%C4%90%E1%BB%93ng"
+    ],
+    "stories": [
+      "Phạm Văn Đồng là người tham gia nhiều cuộc đàm phán ngoại giao quan trọng theo chỉ đạo của Hồ Chí Minh",
+      "Suốt cuộc đời, ông dành nhiều công trình nghiên cứu để hệ thống hóa tư tưởng Hồ Chí Minh"
+    ],
+    "image": "/images/vietnam/pham-van-dong.jpg"
+  },
+  {
+    "id": "vo-nguyen-giap",
+    "name": "Võ Nguyên Giáp",
+    "nameEn": "Vo Nguyen Giap",
+    "category": "A",
+    "nationality": "Việt Nam",
+    "birthYear": 1911,
+    "deathYear": 2013,
+    "profession": "Đại tướng, Tổng Tư lệnh",
+    "relationship": "Học trò, cộng sự chiến lược",
+    "meetingYear": 1940,
+    "meetingPlace": "Cao Bằng",
+    "meetingContext": "Gặp gỡ, phối hợp công tác trong giai đoạn xây dựng lực lượng và căn cứ cách mạng.",
+    "shortBio": "Đại tướng đầu tiên của Quân đội Nhân dân Việt Nam",
+    "fullBio": "Võ Nguyên Giáp (1911–2013) là Đại tướng đầu tiên của Quân đội Nhân dân Việt Nam và là một trong những nhà chỉ huy quân sự – chính trị quan trọng của Việt Nam trong thế kỷ XX. Theo các nguồn tiểu sử phổ thông, ông gặp Hồ Chí Minh trong bối cảnh xây dựng lực lượng cách mạng và căn cứ địa ở Việt Bắc giai đoạn 1940–1941, rồi trở thành cộng sự chiến lược trong suốt hai cuộc kháng chiến.\n\nTrong nghiên cứu lịch sử, Võ Nguyên Giáp thường được xem là trường hợp tiêu biểu cho sự kết hợp giữa đường lối chính trị và nghệ thuật quân sự. Khi trích dẫn các câu căn dặn nổi tiếng, nên đối chiếu bản gốc và ngữ cảnh xuất hiện (tài liệu lưu trữ, hồi ký, tuyển tập) để tránh sai lệch câu chữ.",
+    "influence": "Tư duy quân sự nhân dân, đạo đức người cầm quân",
+    "verification": "verified",
+    "sources": [
+      "Wikipedia (VI) – Võ Nguyên Giáp: https://vi.wikipedia.org/wiki/V%C3%B5_Nguy%C3%AAn_Gi%C3%A1p"
+    ],
+    "stories": [
+      "Bác Hồ căn dặn Võ Nguyên Giáp: 'Chắc thắng thì đánh, không chắc thắng thì không đánh'",
+      "Mối quan hệ thầy – trò gắn bó suốt hơn 30 năm"
+    ],
+    "image": "/images/vietnam/vo-nguyen-giap.jpg"
+  },
+  {
+    "id": "jean-longuet",
+    "name": "Jean Longuet",
+    "nameEn": "Jean Longuet",
+    "category": "A",
+    "relationship": "Chính khách cánh tả (khả năng có tiếp xúc trong SFIO; cần nguồn để khẳng định)",
+    "nationality": "Pháp",
+    "birthYear": 1876,
+    "deathYear": 1938,
+    "profession": "Chính trị gia, lãnh đạo Đảng Xã hội Pháp",
+    "meetingYear": 1919,
+    "meetingYearText": "1919–1920 (gắn với hoạt động trong SFIO và môi trường chính trị tại Paris; chưa có nguồn công khai xác nhận cuộc gặp cụ thể)",
+    "meetingPlace": "Paris, Pháp",
+    "meetingContext": "Môi trường SFIO, báo chí và tranh luận về vấn đề thuộc địa",
+    "shortBio": "Cháu ngoại Karl Marx, lãnh đạo cánh tả trong Đảng Xã hội Pháp",
+    "fullBio": "Jean Longuet (1876–1938) là chính khách và nhà báo xã hội chủ nghĩa người Pháp, cháu ngoại của Karl Marx, hoạt động nổi bật trong SFIO (Đảng Xã hội Pháp) và đời sống báo chí – nghị trường đầu thế kỷ XX.\n\nNguyễn Ái Quốc tham gia môi trường chính trị xã hội chủ nghĩa ở Pháp trong giai đoạn sau Thế chiến I; vì vậy, việc đặt Longuet như một “nhân vật trong cùng không gian chính trị” là hợp lý về mặt bối cảnh. Tuy nhiên, các khẳng định mạnh như “trực tiếp dẫn dắt tư tưởng” hoặc “tạo điều kiện cụ thể” cần được gắn với tư liệu gốc hoặc công trình nghiên cứu có trích dẫn, trước khi đưa vào dữ liệu nghiên cứu.",
+    "influence": "Định hướng tư tưởng Marxist, hỗ trợ Nguyễn Ái Quốc bước đầu tham gia phong trào xã hội chủ nghĩa",
+    "verification": "inferred",
+    "sources": [
+      "Wikipedia (EN) – Jean Longuet: https://en.wikipedia.org/wiki/Jean_Longuet",
+      "Wikipedia (EN) – Ho Chi Minh: https://en.wikipedia.org/wiki/Ho_Chi_Minh"
+    ],
+    "stories": [
+      "Nếu cần trình bày chi tiết về SFIO và phong trào chống thực dân tại Pháp, nên trích nguồn báo chí/biên bản/tiểu sử có dẫn chứng"
+    ],
+    "image": "/images/international/jean-longuet.jpg"
+  },
+  {
+    "id": "grigory-zinoviev",
+    "name": "Grigory Zinoviev",
+    "nameEn": "Grigory Zinoviev",
+    "category": "A",
+    "relationship": "Lãnh đạo Quốc tế Cộng sản (không đủ nguồn để khẳng định quan hệ trực tiếp)",
+    "nationality": "Liên Xô",
+    "birthYear": 1883,
+    "deathYear": 1936,
+    "profession": "Chủ tịch Quốc tế Cộng sản",
+    "meetingYear": null,
+    "meetingYearText": "1923–1924 (bối cảnh Nguyễn Ái Quốc ở Moscow; chưa có chứng cứ công khai về cuộc gặp trực tiếp)",
+    "meetingPlace": null,
+    "meetingContext": "Bối cảnh hoạt động của Quốc tế Cộng sản và vấn đề thuộc địa",
+    "shortBio": "Lãnh đạo phong trào cộng sản quốc tế",
+    "fullBio": "Grigory Zinoviev (1883–1936) là nhà cách mạng và chính khách Liên Xô, từng giữ vị trí lãnh đạo trong Quốc tế Cộng sản (Comintern) giai đoạn đầu. Ông là nhân vật quan trọng để nghiên cứu lịch sử tổ chức và tranh luận nội bộ của phong trào cộng sản quốc tế trong thập niên 1920.\n\nNguyễn Ái Quốc có thời gian hoạt động và học tập tại Moscow trong đầu thập niên 1920, gắn với hệ thống tổ chức của Quốc tế Cộng sản. Tuy nhiên, hiện không nên khẳng định chắc chắn rằng Zinoviev “trực tiếp tạo điều kiện” hay có quan hệ làm việc trực tiếp với Nguyễn Ái Quốc nếu không có nguồn tư liệu đối chiếu.",
+    "influence": "Đào tạo và kết nối phong trào cách mạng Việt Nam với quốc tế",
+    "verification": "unknown",
+    "sources": [
+      "Wikipedia (EN) – Grigory Zinoviev: https://en.wikipedia.org/wiki/Grigory_Zinoviev",
+      "Wikipedia (EN) – Ho Chi Minh: https://en.wikipedia.org/wiki/Ho_Chi_Minh"
+    ],
+    "stories": [
+      "Các mệnh đề về “trực tiếp ủng hộ/đánh giá/trao nhiệm vụ” cần có nguồn lưu trữ hoặc nghiên cứu chuyên khảo trước khi đưa vào bài học thuật"
+    ],
+    "image": "/images/international/grigory-zinoviev.jpg"
+  },
+  {
+    "id": "edgar-snow",
+    "name": "Edgar Snow",
+    "nameEn": "Edgar Snow",
+    "category": "B",
+    "relationship": "Bạn bè, nhà báo quốc tế",
+    "nationality": "Hoa Kỳ",
+    "birthYear": 1905,
+    "deathYear": 1972,
+    "profession": "Nhà báo, nhà văn",
+    "meetingYear": 1945,
+    "meetingPlace": "Hà Nội, Việt Nam",
+    "meetingContext": "Phỏng vấn và viết về Việt Nam",
+    "shortBio": "Nhà báo Mỹ nổi tiếng với các tác phẩm về cách mạng",
+    "fullBio": "Edgar Snow (1905–1972) là nhà báo và nhà văn người Mỹ, nổi tiếng với Red Star Over China (1937) – một trong những tác phẩm quan trọng đưa thông tin về phong trào cộng sản Trung Quốc ra công chúng phương Tây. Ông thuộc nhóm nhà báo quốc tế có ảnh hưởng lớn trong việc định hình cách công chúng nhìn nhận các phong trào cách mạng ở châu Á giữa thế kỷ XX.\n\nKhi liên hệ Edgar Snow với Việt Nam và Hồ Chí Minh, cần phân biệt rõ giữa: (1) vai trò chung của ông trong báo chí quốc tế viết về châu Á, và (2) các cuộc gặp/đưa tin cụ thể về Việt Nam. Nếu khẳng định mốc gặp gỡ tại Hà Nội năm 1945, hoặc các phát biểu “gọi Hồ Chí Minh là…” thì nên kèm trích dẫn nguồn (bài viết, phỏng vấn, tác phẩm của Snow hoặc nghiên cứu có đối chiếu).\n\nDù vậy, Snow là một nhân vật rất hữu ích cho việc học cách báo chí quốc tế tường thuật về các cuộc cách mạng và chiến tranh trong thế kỷ XX.",
+    "influence": "Tạo sự ủng hộ quốc tế cho Việt Nam",
+    "verification": "unknown",
+    "sources": [
+      "Wikipedia (EN) – Edgar Snow: https://en.wikipedia.org/wiki/Edgar_Snow"
+    ],
+    "stories": [
+      "Red Star Over China là tác phẩm then chốt giúp hiểu vai trò báo chí trong việc “mở cửa thông tin” về các phong trào ở châu Á",
+      "Các câu trích dẫn cụ thể về Hồ Chí Minh cần được dẫn nguyên văn và ghi rõ nguồn"
+    ],
+    "image": "/images/international/edgar-snow.jpg"
   }
 ]

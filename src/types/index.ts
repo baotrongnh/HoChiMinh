@@ -7,6 +7,8 @@ export interface FamilyMember {
      shortBio: string;
      fullBio: string;
      influence: string;
+     verification?: 'verified' | 'reported' | 'inferred' | 'unknown';
+     sources?: string[];
      stories: string[];
      image: string;
 }
@@ -22,11 +24,14 @@ export interface InternationalFigure {
      deathYear: number;
      profession: string;
      meetingYear: number | null;
+     meetingYearText?: string | null;
      meetingPlace: string | null;
      meetingContext: string;
      shortBio: string;
      fullBio: string;
      influence: string;
+     verification?: 'verified' | 'reported' | 'inferred' | 'unknown';
+     sources?: string[];
      stories: string[];
      image: string;
 }

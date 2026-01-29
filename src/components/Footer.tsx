@@ -34,7 +34,7 @@ export default function Footer() {
                                    </li>
                                    <li>
                                         <a href="/nhan-vat" className="text-white/90 hover:text-gold-light transition-colors hover:underline">
-                                             Nhân vật quốc tế
+                                             Nhân sĩ và đồng chí
                                         </a>
                                    </li>
                                    <li>

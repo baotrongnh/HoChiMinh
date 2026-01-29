@@ -31,7 +31,7 @@ THÔNG TIN CƠ BẢN:
 GIA ĐÌNH CỦA BÁC HỒ (có trong database):
 ${familyMembers.map(m => `- ID: ${m.id} | ${m.name} (${m.relationship}): ${m.shortBio}`).join('\n')}
 
-NHÂN VẬT QUỐC TẾ LIÊN QUAN (có trong database):
+NHÂN SĨ VÀ ĐỒNG CHÍ (có trong database):
 ${internationalFigures.map(f => `- ID: ${f.id} | ${f.name}: ${f.profession}, ${f.nationality}`).join('\n')}
 
 QUY TẮC QUAN TRỌNG:
@@ -90,7 +90,7 @@ export default function ChatBot() {
           'Bác Hồ sinh năm nào và ở đâu?',
           'Kể tên các bí danh của Bác Hồ',
           'Đảng Cộng sản Việt Nam được thành lập khi nào?',
-          'Bác Hồ gặp những nhân vật quốc tế nào?',
+          'Bác Hồ gặp những nhân sĩ nào?',
      ];
 
      const handleSendMessage = async () => {
@@ -439,10 +439,10 @@ export default function ChatBot() {
                                                        <p className="text-text-secondary mb-1 font-semibold">Năm sinh - mất</p>
                                                        <p className="font-bold text-red-dark">{selectedPerson.person.birthYear} - {selectedPerson.person.deathYear}</p>
                                                   </div>
-                                                  {(selectedPerson.person as InternationalFigure).meetingYear && (
+                                                  {(((selectedPerson.person as InternationalFigure).meetingYearText ?? (selectedPerson.person as InternationalFigure).meetingYear) != null) && (
                                                        <div>
                                                             <p className="text-text-secondary mb-1 font-semibold">Năm gặp</p>
-                                                            <p className="font-bold text-red-main">{(selectedPerson.person as InternationalFigure).meetingYear}</p>
+                                                            <p className="font-bold text-red-main">{(selectedPerson.person as InternationalFigure).meetingYearText ?? (selectedPerson.person as InternationalFigure).meetingYear}</p>
                                                        </div>
                                                   )}
                                              </div>

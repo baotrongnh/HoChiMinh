@@ -12,7 +12,7 @@ export default function Header() {
           { href: '/', label: 'Trang chủ' },
           { href: '/chu-tich-ho-chi-minh', label: 'Chủ tịch Hồ Chí Minh' },
           { href: '/gia-dinh', label: 'Gia đình' },
-          { href: '/nhan-vat', label: 'Nhân vật quốc tế' },
+          { href: '/nhan-vat', label: 'Nhân sĩ và đồng chí' },
           { href: '/timeline', label: 'Dòng thời gian' },
      ];
 

@@ -6,11 +6,15 @@
     "birthYear": 1862,
     "deathYear": 1929,
     "shortBio": "Nhà nho yêu nước, đỗ Phó bảng khoa thi Hội năm 1901, từng làm quan triều Nguyễn",
-    "fullBio": "Nguyễn Sinh Sắc sinh năm 1862 tại làng Kim Liên, huyện Nam Đàn, tỉnh Nghệ An. Ông xuất thân trong một gia đình nhà nho nghèo, nổi tiếng hiếu học và có tư tưởng tiến bộ. Năm 1901, ông đỗ Phó bảng khoa thi Hội dưới triều vua Thành Thái. Sau đó, ông được bổ nhiệm làm quan triều Nguyễn, từng giữ chức Tri huyện Bình Khê (Bình Định). Trong thời gian làm quan, ông nổi tiếng thanh liêm, xử án nghiêm minh, bênh vực người nghèo, nên bị triều đình cách chức. Những năm cuối đời, ông sống giản dị, đi nhiều nơi trong Nam Bộ và mất năm 1929 tại Cao Lãnh, Đồng Tháp.",
+    "fullBio": "Nguyễn Sinh Sắc (1862–1929) là thân sinh của Chủ tịch Hồ Chí Minh, một nhà nho được nhiều tư liệu tiểu sử phổ thông ghi nhận là đỗ Phó bảng (1901) và từng làm quan triều Nguyễn. Trong các nguồn phổ thông, ông thường được nhắc tới với hình ảnh một người thanh liêm, có khuynh hướng bênh vực người nghèo, và vì vậy gặp nhiều va chạm trong môi trường quan trường.\nVề các chi tiết cụ thể như chức vụ, địa điểm làm quan (ví dụ Tri huyện Bình Khê) và nguyên nhân bị cách chức, khi dùng cho mục đích học tập – nghiên cứu nên đối chiếu thêm với tư liệu gốc hoặc công trình nghiên cứu lịch sử (vì phần này đôi khi được kể theo nhiều dị bản).",
     "influence": "Tinh thần yêu nước, thương dân, ý thức phản kháng bất công xã hội, lối sống thanh liêm",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (VI) – Nguyễn Sinh Sắc: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Sinh_S%E1%BA%AFc"
+    ],
     "stories": [
-      "Khi làm Tri huyện Bình Khê, ông xử phạt nghiêm một cường hào địa phương vì hành hung dân nghèo, dẫn đến việc bị cách chức",
-      "Ông thường dạy con phải thương dân, ghét áp bức và coi trọng việc học"
+      "Một số tài liệu phổ thông kể về việc ông xử phạt nghiêm một cường hào địa phương trong thời gian làm quan, dẫn đến xung đột và bị cách chức (cần đối chiếu nguồn khi trích dẫn chi tiết)",
+      "Hình ảnh người cha coi trọng học tập và thương dân thường được nhắc như một ảnh hưởng quan trọng đối với Hồ Chí Minh"
     ],
     "image": "/images/family/nguyen-sinh-sac.jpg"
   },
@@ -21,8 +25,12 @@
     "birthYear": 1868,
     "deathYear": 1901,
     "shortBio": "Người mẹ hiền hậu, đảm đang, mất sớm khi Hồ Chí Minh còn nhỏ",
-    "fullBio": "Hoàng Thị Loan sinh năm 1868 tại làng Hoàng Trù (làng Chùa), xã Kim Liên, huyện Nam Đàn, tỉnh Nghệ An. Bà là người phụ nữ hiền hậu, đảm đang, giỏi dệt vải và hết lòng chăm lo gia đình trong hoàn cảnh khó khăn. Năm 1901, bà qua đời tại Huế khi Nguyễn Tất Thành mới 11 tuổi. Dù mất sớm, nhưng hình ảnh người mẹ tần tảo, nhân hậu đã để lại dấu ấn sâu sắc trong tâm hồn Hồ Chí Minh.",
+    "fullBio": "Hoàng Thị Loan (1868–1901) là thân mẫu của Chủ tịch Hồ Chí Minh. Các nguồn tiểu sử phổ thông thường ghi nhận bà quê ở vùng Kim Liên (Nam Đàn, Nghệ An), là người phụ nữ đảm đang, gắn với nghề dệt và việc chăm lo gia đình trong hoàn cảnh khó khăn.\nBà mất sớm (1901). Khi sử dụng dữ liệu cho học tập – nghiên cứu, các chi tiết như nơi mất, hoàn cảnh sức khỏe và điều kiện sinh hoạt thời điểm đó nên được trích dẫn theo nguồn cụ thể.",
     "influence": "Lòng nhân ái, đức hy sinh, lối sống giản dị và chịu đựng gian khổ",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (VI) – Hoàng Thị Loan: https://vi.wikipedia.org/wiki/Ho%C3%A0ng_Th%E1%BB%8B_Loan"
+    ],
     "stories": [
       "Bà trực tiếp dạy các con lối sống cần cù, thương người nghèo khó và biết nhẫn nhịn trong gian khó"
     ],
@@ -35,8 +43,12 @@
     "birthYear": 1888,
     "deathYear": 1950,
     "shortBio": "Người anh cả, học chữ Hán, sống giản dị và gắn bó với nhân dân",
-    "fullBio": "Nguyễn Sinh Khiêm, còn gọi là Nguyễn Tất Đạt, là anh trai của Hồ Chí Minh. Ông học chữ Hán, có hiểu biết về phong thủy và thuốc nam. Trong cuộc sống, ông sống giản dị, thường giúp đỡ nhân dân bằng việc bốc thuốc, xem hướng nhà, không mưu cầu danh lợi. Ông luôn giữ thái độ ủng hộ con đường cứu nước của em trai.",
+    "fullBio": "Nguyễn Sinh Khiêm (1888–1950), còn được ghi nhận với tên gọi Nguyễn Tất Đạt trong một số nguồn, là anh trai của Hồ Chí Minh. Nhiều tư liệu phổ thông mô tả ông là người học chữ Hán và có hiểu biết về thuốc nam; các câu chuyện về việc ông giúp đỡ người dân (bốc thuốc, xem hướng nhà) được lưu truyền khá rộng.\nVới mục đích nghiên cứu, nên coi các chi tiết mang tính truyền tụng (cách thức hành nghề, mức độ hoạt động, phạm vi ảnh hưởng) là thông tin cần nguồn đối chiếu nếu trình bày cụ thể.",
     "influence": "Tinh thần sống giản dị, gần dân, giúp đỡ người nghèo",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (VI) – Nguyễn Sinh Khiêm: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Sinh_Khi%C3%AAm"
+    ],
     "stories": ["Ông thường bốc thuốc và giúp đỡ dân nghèo mà không lấy tiền"],
     "image": "/images/family/nguyen-sinh-khiem.jpg"
   },
@@ -47,8 +59,12 @@
     "birthYear": 1884,
     "deathYear": 1954,
     "shortBio": "Người chị gái kiên cường, từng tham gia phong trào yêu nước",
-    "fullBio": "Nguyễn Thị Thanh là chị gái của Hồ Chí Minh. Bà sớm tham gia các hoạt động yêu nước chống thực dân Pháp và từng bị bắt giam. Dù cuộc sống nhiều khó khăn, bà vẫn luôn giữ trọn tình cảm gia đình, âm thầm ủng hộ con đường cách mạng của em trai.",
+    "fullBio": "Nguyễn Thị Thanh (1884–1954) là chị gái của Hồ Chí Minh. Các nguồn tiểu sử phổ thông thường ghi nhận bà có tham gia phong trào yêu nước và từng bị bắt giam. Những chi tiết về thời điểm bị bắt, nơi giam giữ và tổ chức/hoạt động cụ thể cần được nêu theo nguồn trích dẫn rõ ràng nếu sử dụng cho bài học thuật.",
     "influence": "Tinh thần yêu nước, sự kiên cường và hy sinh thầm lặng",
+    "verification": "reported",
+    "sources": [
+      "Wikipedia (VI) – Nguyễn Thị Thanh: https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_Th%E1%BB%8B_Thanh_(chị_gái_Hồ_Chí_Minh)"
+    ],
     "stories": [
       "Bà từng bị thực dân Pháp bắt giam vì tham gia các hoạt động yêu nước"
     ],
