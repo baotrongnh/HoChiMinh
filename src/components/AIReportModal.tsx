@@ -49,7 +49,7 @@ export default function AIReportModal({ isOpen, onClose }: AIReportModalProps) {
      return (
           <div className="fixed inset-0 z-[100] flex items-center justify-center">
                {/* Backdrop */}
-               <div 
+               <div
                     className="absolute inset-0 bg-black/70 backdrop-blur-sm"
                     onClick={onClose}
                />
@@ -114,11 +114,10 @@ export default function AIReportModal({ isOpen, onClose }: AIReportModalProps) {
                                    </thead>
                                    <tbody>
                                         {aiTools.map((tool, index) => (
-                                             <tr 
+                                             <tr
                                                   key={index}
-                                                  className={`${
-                                                       index % 2 === 0 ? 'bg-white/5' : 'bg-white/10'
-                                                  } hover:bg-white/15 transition-colors border-b border-gold/10`}
+                                                  className={`${index % 2 === 0 ? 'bg-white/5' : 'bg-white/10'
+                                                       } hover:bg-white/15 transition-colors border-b border-gold/10`}
                                              >
                                                   <td className="px-6 py-4 text-white font-semibold border-r border-gold/10">
                                                        {tool.name}
