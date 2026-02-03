@@ -28,7 +28,7 @@ export default function TeamInfoModal({ isOpen, onClose }: TeamInfoModalProps) {
           {
                name: 'Lê Phạm Trường Huy',
                id: 'SE18060',
-               tasks: ['Edit video']
+               tasks: ['Edit video', 'Tìm hình ảnh & nhạc cho video']
           },
           {
                name: 'Hoàng Kim Long',
